@@ -1,0 +1,54 @@
+﻿"CUADRO 8 - Defunciones maternas por grupos de edad, según lista de causas a 3 caracteres CIE-10",columna,columna_1,columna_2,columna_3,columna_4,columna_5,columna_6,columna_7,columna_8,columna_9,columna_10,año,tipo,hoja_origen
+Año 2022,,,,,,,,,,,,2022,defunciones,Cuadro8
+Lista de causas a 3 caracteres,Total,Grupos de edad,,,,,,,,,,2022,defunciones,Cuadro8
+,,"10 - 14
+ años","15 - 19
+ años","20 - 24
+ años","25 - 29
+ años","30 - 34
+ años","35 - 39
+ años","40 - 44
+ años","45 - 49
+ años","50 - 54
+ años",Edad desconocida,2022,defunciones,Cuadro8
+Total Nacional,464,2,54,107,95,94,81,27,3,1,0,2022,defunciones,Cuadro8
+Embarazo ectópico,8,0,1,2,3,1,1,0,0,0,0,2022,defunciones,Cuadro8
+Mola hidatiforme,1,0,0,0,1,0,0,0,0,0,0,2022,defunciones,Cuadro8
+Otros productos anormales de la concepción,1,0,0,0,0,1,0,0,0,0,0,2022,defunciones,Cuadro8
+Aborto médico,1,0,1,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro8
+Aborto no especificado,10,0,1,3,4,0,1,1,0,0,0,2022,defunciones,Cuadro8
+"Hipertensión preexistente que complica el embarazo, el parto y el puerperio",1,0,0,0,0,0,0,1,0,0,0,2022,defunciones,Cuadro8
+Preeclampsia superpuesta a hipertensión crónica,1,0,0,0,0,1,0,0,0,0,0,2022,defunciones,Cuadro8
+Hipertensión gestacional [inducida por el embarazo],1,0,0,0,0,0,1,0,0,0,0,2022,defunciones,Cuadro8
+Preeclampsia,36,0,4,9,7,6,5,5,0,0,0,2022,defunciones,Cuadro8
+Eclampsia,27,1,4,8,4,4,5,1,0,0,0,2022,defunciones,Cuadro8
+"Hipertensión materna, no especificada",1,0,0,1,0,0,0,0,0,0,0,2022,defunciones,Cuadro8
+Complicaciones venosas y hemorroides en el embarazo,2,0,0,0,0,1,1,0,0,0,0,2022,defunciones,Cuadro8
+Infección de las vías urinarias en el embarazo,4,0,1,2,1,0,0,0,0,0,0,2022,defunciones,Cuadro8
+Diabetes mellitus en el embarazo,2,0,0,0,1,1,0,0,0,0,0,2022,defunciones,Cuadro8
+Desnutrición en el embarazo,2,0,0,0,1,1,0,0,0,0,0,2022,defunciones,Cuadro8
+Atención a la madre por otras complicaciones principalmente relacionadas con el embarazo,1,0,0,0,1,0,0,0,0,0,0,2022,defunciones,Cuadro8
+Otros trastornos del líquido amniótico y de las membranas,3,1,1,0,0,0,1,0,0,0,0,2022,defunciones,Cuadro8
+Trastornos placentarios,2,0,0,0,1,1,0,0,0,0,0,2022,defunciones,Cuadro8
+Placenta previa,2,0,0,0,0,0,2,0,0,0,0,2022,defunciones,Cuadro8
+Desprendimiento prematuro de la placenta [abruptio placentae],2,0,1,0,1,0,0,0,0,0,0,2022,defunciones,Cuadro8
+"Hemorragia anteparto, no clasificada en otra parte",2,0,0,1,0,0,1,0,0,0,0,2022,defunciones,Cuadro8
+Trabajo de parto prematuro y parto,1,0,1,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro8
+Anormalidades de la dinámica del trabajo de parto,1,0,0,0,1,0,0,0,0,0,0,2022,defunciones,Cuadro8
+Trabajo de parto obstruido debido a mala posición y presentación anormal del feto,1,0,0,0,0,0,1,0,0,0,0,2022,defunciones,Cuadro8
+Otras obstrucciones del trabajo de parto,1,0,0,0,1,0,0,0,0,0,0,2022,defunciones,Cuadro8
+"Trabajo de parto y parto complicados por hemorragia intraparto, no clasificados en otra parte",2,0,0,1,0,0,1,0,0,0,0,2022,defunciones,Cuadro8
+Otro trauma obstétrico,5,0,0,0,2,2,1,0,0,0,0,2022,defunciones,Cuadro8
+Hemorragia postparto,22,0,4,6,2,5,4,1,0,0,0,2022,defunciones,Cuadro8
+"Otras complicaciones del trabajo de parto y del parto, no clasificadas en otra parte",1,0,0,0,1,0,0,0,0,0,0,2022,defunciones,Cuadro8
+Sepsis puerperal,6,0,2,2,1,0,0,1,0,0,0,2022,defunciones,Cuadro8
+Otras infecciones puerperales,6,0,0,4,1,1,0,0,0,0,0,2022,defunciones,Cuadro8
+Complicaciones venosas y hemorroides en el puerperio,1,0,0,0,0,1,0,0,0,0,0,2022,defunciones,Cuadro8
+Embolia obstétrica,14,0,0,2,4,2,6,0,0,0,0,2022,defunciones,Cuadro8
+"Complicaciones del puerperio, no clasificadas en otra parte",4,0,0,2,1,0,1,0,0,0,0,2022,defunciones,Cuadro8
+Muerte obstétrica de causa no especificada,9,0,1,0,2,2,4,0,0,0,0,2022,defunciones,Cuadro8
+Muerte materna debida a cualquier causa obstétrica que ocurre después de 42 días pero antes de un año del parto,181,0,18,42,39,40,29,10,2,1,0,2022,defunciones,Cuadro8
+Muerte por secuelas de causas obstétricas,3,0,1,0,0,1,0,1,0,0,0,2022,defunciones,Cuadro8
+"Enfermedades maternas infecciosas y parasitarias clasificables en otra parte, pero que complican el embarazo, el parto y el puerperio",16,0,3,4,2,3,3,1,0,0,0,2022,defunciones,Cuadro8
+"Otras enfermedades maternas clasificables en otra parte, pero que complican el embarazo, el parto y el puerperio",80,0,10,18,13,20,13,5,1,0,0,2022,defunciones,Cuadro8
+Fecha de actualización: 21 de diciembre de 2023,,,,,,,,,,,,2022,defunciones,Cuadro8

@@ -1,0 +1,289 @@
+﻿columna,"CUADRO 7 - Defunciones maternas, por grupos de edad, según departamento de residencia y grupos de causas de defunción  (Lista de causas agrupadas 6/67 CIE-10 de OPS)",columna_1,columna_2,columna_3,columna_4,columna_5,columna_6,columna_7,columna_8,columna_9,columna_10,columna_11,columna_12,año,tipo,hoja_origen
+,Año 2022,,,,,,,,,,,,,2022,defunciones,Cuadro7
+,Volver al índice,Departamento,,,,,,,,,,,,2022,defunciones,Cuadro7
+,"Departamento de residencia | Grupos de causas de defunción 
+(Lista de causas agrupadas 6/67 CIE-10 de OPS)",,Total,Grupos de edad,,,,,,,,,,2022,defunciones,Cuadro7
+,,,,"10 - 14
+ años","15 - 19
+ años","20 - 24
+ años","25 - 29
+ años","30 - 34
+ años","35 - 39
+ años","40 - 44
+ años","45 - 49
+ años","50 - 54
+ años",Edad desconocida,2022,defunciones,Cuadro7
+3.0,Total Nacional,TOTAL,464,2,54,107,95,94,81,27,3,1,0,2022,defunciones,Cuadro7
+3.0,,Embarazo terminado en aborto (O00-O08),21,0,3,5,8,2,2,1,0,0,0,2022,defunciones,Cuadro7
+3.0,,"Edema, proteinuria y trastornos hipertensivos en el embarazo, el parto y el puerperio (O10-O16)",67,1,8,18,11,11,11,7,0,0,0,2022,defunciones,Cuadro7
+3.0,,Otros trastornos relacionados principalmente con el embarazo (O20-O29),11,0,1,2,4,3,1,0,0,0,0,2022,defunciones,Cuadro7
+3.0,,Atención materna relacionada con el feto y la cavidad amniótica y con posibles problemas del parto (O30-O48),11,1,2,1,2,1,4,0,0,0,0,2022,defunciones,Cuadro7
+3.0,,Complicaciones del trabajo del parto y del parto (O60-O75),34,0,5,7,7,7,7,1,0,0,0,2022,defunciones,Cuadro7
+3.0,,Complicaciones principalmente relacionadas con el puerperio (O85-O92),31,0,2,10,7,4,7,1,0,0,0,2022,defunciones,Cuadro7
+3.0,,Otras afecciones obstétricas no clasificadas en otra parte (O95-O99),289,0,33,64,56,66,49,17,3,1,0,2022,defunciones,Cuadro7
+5.0,05 Antioquia,TOTAL,38,0,5,7,6,10,6,3,1,0,0,2022,defunciones,Cuadro7
+5.0,,Embarazo terminado en aborto (O00-O08),3,0,0,1,1,1,0,0,0,0,0,2022,defunciones,Cuadro7
+5.0,,"Edema, proteinuria y trastornos hipertensivos en el embarazo, el parto y el puerperio (O10-O16)",7,0,2,0,0,3,1,1,0,0,0,2022,defunciones,Cuadro7
+5.0,,Otros trastornos relacionados principalmente con el embarazo (O20-O29),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+5.0,,Atención materna relacionada con el feto y la cavidad amniótica y con posibles problemas del parto (O30-O48),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+5.0,,Complicaciones del trabajo del parto y del parto (O60-O75),3,0,0,1,0,2,0,0,0,0,0,2022,defunciones,Cuadro7
+5.0,,Complicaciones principalmente relacionadas con el puerperio (O85-O92),4,0,1,2,0,1,0,0,0,0,0,2022,defunciones,Cuadro7
+5.0,,Otras afecciones obstétricas no clasificadas en otra parte (O95-O99),21,0,2,3,5,3,5,2,1,0,0,2022,defunciones,Cuadro7
+8.0,08 Atlántico,TOTAL,39,0,5,9,6,12,3,4,0,0,0,2022,defunciones,Cuadro7
+8.0,,Embarazo terminado en aborto (O00-O08),3,0,0,1,1,0,0,1,0,0,0,2022,defunciones,Cuadro7
+8.0,,"Edema, proteinuria y trastornos hipertensivos en el embarazo, el parto y el puerperio (O10-O16)",3,0,1,0,0,0,0,2,0,0,0,2022,defunciones,Cuadro7
+8.0,,Otros trastornos relacionados principalmente con el embarazo (O20-O29),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+8.0,,Atención materna relacionada con el feto y la cavidad amniótica y con posibles problemas del parto (O30-O48),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+8.0,,Complicaciones del trabajo del parto y del parto (O60-O75),1,0,0,1,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+8.0,,Complicaciones principalmente relacionadas con el puerperio (O85-O92),1,0,0,1,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+8.0,,Otras afecciones obstétricas no clasificadas en otra parte (O95-O99),31,0,4,6,5,12,3,1,0,0,0,2022,defunciones,Cuadro7
+11.0,11 Bogotá,TOTAL,40,0,2,5,6,13,12,2,0,0,0,2022,defunciones,Cuadro7
+11.0,,Embarazo terminado en aborto (O00-O08),1,0,0,0,1,0,0,0,0,0,0,2022,defunciones,Cuadro7
+11.0,,"Edema, proteinuria y trastornos hipertensivos en el embarazo, el parto y el puerperio (O10-O16)",7,0,0,0,2,2,2,1,0,0,0,2022,defunciones,Cuadro7
+11.0,,Otros trastornos relacionados principalmente con el embarazo (O20-O29),2,0,1,0,0,0,1,0,0,0,0,2022,defunciones,Cuadro7
+11.0,,Atención materna relacionada con el feto y la cavidad amniótica y con posibles problemas del parto (O30-O48),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+11.0,,Complicaciones del trabajo del parto y del parto (O60-O75),1,0,0,0,0,1,0,0,0,0,0,2022,defunciones,Cuadro7
+11.0,,Complicaciones principalmente relacionadas con el puerperio (O85-O92),3,0,0,0,0,1,2,0,0,0,0,2022,defunciones,Cuadro7
+11.0,,Otras afecciones obstétricas no clasificadas en otra parte (O95-O99),26,0,1,5,3,9,7,1,0,0,0,2022,defunciones,Cuadro7
+13.0,13 Bolívar,TOTAL,29,0,3,10,4,3,7,1,0,1,0,2022,defunciones,Cuadro7
+13.0,,Embarazo terminado en aborto (O00-O08),1,0,1,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+13.0,,"Edema, proteinuria y trastornos hipertensivos en el embarazo, el parto y el puerperio (O10-O16)",8,0,0,5,1,0,2,0,0,0,0,2022,defunciones,Cuadro7
+13.0,,Otros trastornos relacionados principalmente con el embarazo (O20-O29),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+13.0,,Atención materna relacionada con el feto y la cavidad amniótica y con posibles problemas del parto (O30-O48),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+13.0,,Complicaciones del trabajo del parto y del parto (O60-O75),2,0,0,1,0,0,1,0,0,0,0,2022,defunciones,Cuadro7
+13.0,,Complicaciones principalmente relacionadas con el puerperio (O85-O92),2,0,0,1,1,0,0,0,0,0,0,2022,defunciones,Cuadro7
+13.0,,Otras afecciones obstétricas no clasificadas en otra parte (O95-O99),16,0,2,3,2,3,4,1,0,1,0,2022,defunciones,Cuadro7
+15.0,15 Boyacá,TOTAL,9,0,2,2,2,3,0,0,0,0,0,2022,defunciones,Cuadro7
+15.0,,Embarazo terminado en aborto (O00-O08),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+15.0,,"Edema, proteinuria y trastornos hipertensivos en el embarazo, el parto y el puerperio (O10-O16)",2,0,0,1,1,0,0,0,0,0,0,2022,defunciones,Cuadro7
+15.0,,Otros trastornos relacionados principalmente con el embarazo (O20-O29),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+15.0,,Atención materna relacionada con el feto y la cavidad amniótica y con posibles problemas del parto (O30-O48),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+15.0,,Complicaciones del trabajo del parto y del parto (O60-O75),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+15.0,,Complicaciones principalmente relacionadas con el puerperio (O85-O92),1,0,0,0,0,1,0,0,0,0,0,2022,defunciones,Cuadro7
+15.0,,Otras afecciones obstétricas no clasificadas en otra parte (O95-O99),6,0,2,1,1,2,0,0,0,0,0,2022,defunciones,Cuadro7
+17.0,17 Caldas,TOTAL,1,0,0,1,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+17.0,,Embarazo terminado en aborto (O00-O08),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+17.0,,"Edema, proteinuria y trastornos hipertensivos en el embarazo, el parto y el puerperio (O10-O16)",0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+17.0,,Otros trastornos relacionados principalmente con el embarazo (O20-O29),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+17.0,,Atención materna relacionada con el feto y la cavidad amniótica y con posibles problemas del parto (O30-O48),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+17.0,,Complicaciones del trabajo del parto y del parto (O60-O75),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+17.0,,Complicaciones principalmente relacionadas con el puerperio (O85-O92),1,0,0,1,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+17.0,,Otras afecciones obstétricas no clasificadas en otra parte (O95-O99),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+18.0,18 Caquetá,TOTAL,5,0,2,1,0,1,0,1,0,0,0,2022,defunciones,Cuadro7
+18.0,,Embarazo terminado en aborto (O00-O08),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+18.0,,"Edema, proteinuria y trastornos hipertensivos en el embarazo, el parto y el puerperio (O10-O16)",1,0,1,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+18.0,,Otros trastornos relacionados principalmente con el embarazo (O20-O29),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+18.0,,Atención materna relacionada con el feto y la cavidad amniótica y con posibles problemas del parto (O30-O48),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+18.0,,Complicaciones del trabajo del parto y del parto (O60-O75),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+18.0,,Complicaciones principalmente relacionadas con el puerperio (O85-O92),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+18.0,,Otras afecciones obstétricas no clasificadas en otra parte (O95-O99),4,0,1,1,0,1,0,1,0,0,0,2022,defunciones,Cuadro7
+19.0,19 Cauca,TOTAL,12,0,0,3,1,2,4,2,0,0,0,2022,defunciones,Cuadro7
+19.0,,Embarazo terminado en aborto (O00-O08),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+19.0,,"Edema, proteinuria y trastornos hipertensivos en el embarazo, el parto y el puerperio (O10-O16)",1,0,0,0,0,0,0,1,0,0,0,2022,defunciones,Cuadro7
+19.0,,Otros trastornos relacionados principalmente con el embarazo (O20-O29),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+19.0,,Atención materna relacionada con el feto y la cavidad amniótica y con posibles problemas del parto (O30-O48),1,0,0,0,1,0,0,0,0,0,0,2022,defunciones,Cuadro7
+19.0,,Complicaciones del trabajo del parto y del parto (O60-O75),2,0,0,2,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+19.0,,Complicaciones principalmente relacionadas con el puerperio (O85-O92),1,0,0,0,0,0,1,0,0,0,0,2022,defunciones,Cuadro7
+19.0,,Otras afecciones obstétricas no clasificadas en otra parte (O95-O99),7,0,0,1,0,2,3,1,0,0,0,2022,defunciones,Cuadro7
+20.0,20 Cesar,TOTAL,25,0,3,7,6,7,1,1,0,0,0,2022,defunciones,Cuadro7
+20.0,,Embarazo terminado en aborto (O00-O08),1,0,0,1,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+20.0,,"Edema, proteinuria y trastornos hipertensivos en el embarazo, el parto y el puerperio (O10-O16)",1,0,0,0,0,1,0,0,0,0,0,2022,defunciones,Cuadro7
+20.0,,Otros trastornos relacionados principalmente con el embarazo (O20-O29),2,0,0,0,1,1,0,0,0,0,0,2022,defunciones,Cuadro7
+20.0,,Atención materna relacionada con el feto y la cavidad amniótica y con posibles problemas del parto (O30-O48),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+20.0,,Complicaciones del trabajo del parto y del parto (O60-O75),5,0,2,1,1,1,0,0,0,0,0,2022,defunciones,Cuadro7
+20.0,,Complicaciones principalmente relacionadas con el puerperio (O85-O92),2,0,0,1,1,0,0,0,0,0,0,2022,defunciones,Cuadro7
+20.0,,Otras afecciones obstétricas no clasificadas en otra parte (O95-O99),14,0,1,4,3,4,1,1,0,0,0,2022,defunciones,Cuadro7
+23.0,23 Córdoba,TOTAL,26,0,1,8,6,7,4,0,0,0,0,2022,defunciones,Cuadro7
+23.0,,Embarazo terminado en aborto (O00-O08),1,0,0,0,1,0,0,0,0,0,0,2022,defunciones,Cuadro7
+23.0,,"Edema, proteinuria y trastornos hipertensivos en el embarazo, el parto y el puerperio (O10-O16)",5,0,1,0,0,3,1,0,0,0,0,2022,defunciones,Cuadro7
+23.0,,Otros trastornos relacionados principalmente con el embarazo (O20-O29),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+23.0,,Atención materna relacionada con el feto y la cavidad amniótica y con posibles problemas del parto (O30-O48),1,0,0,0,0,0,1,0,0,0,0,2022,defunciones,Cuadro7
+23.0,,Complicaciones del trabajo del parto y del parto (O60-O75),1,0,0,0,0,1,0,0,0,0,0,2022,defunciones,Cuadro7
+23.0,,Complicaciones principalmente relacionadas con el puerperio (O85-O92),1,0,0,1,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+23.0,,Otras afecciones obstétricas no clasificadas en otra parte (O95-O99),17,0,0,7,5,3,2,0,0,0,0,2022,defunciones,Cuadro7
+25.0,25 Cundinamarca,TOTAL,18,0,0,6,2,5,5,0,0,0,0,2022,defunciones,Cuadro7
+25.0,,Embarazo terminado en aborto (O00-O08),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+25.0,,"Edema, proteinuria y trastornos hipertensivos en el embarazo, el parto y el puerperio (O10-O16)",1,0,0,0,1,0,0,0,0,0,0,2022,defunciones,Cuadro7
+25.0,,Otros trastornos relacionados principalmente con el embarazo (O20-O29),1,0,0,0,0,1,0,0,0,0,0,2022,defunciones,Cuadro7
+25.0,,Atención materna relacionada con el feto y la cavidad amniótica y con posibles problemas del parto (O30-O48),1,0,0,1,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+25.0,,Complicaciones del trabajo del parto y del parto (O60-O75),1,0,0,0,0,0,1,0,0,0,0,2022,defunciones,Cuadro7
+25.0,,Complicaciones principalmente relacionadas con el puerperio (O85-O92),3,0,0,0,1,1,1,0,0,0,0,2022,defunciones,Cuadro7
+25.0,,Otras afecciones obstétricas no clasificadas en otra parte (O95-O99),11,0,0,5,0,3,3,0,0,0,0,2022,defunciones,Cuadro7
+27.0,27 Chocó,TOTAL,17,2,1,5,5,1,2,1,0,0,0,2022,defunciones,Cuadro7
+27.0,,Embarazo terminado en aborto (O00-O08),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+27.0,,"Edema, proteinuria y trastornos hipertensivos en el embarazo, el parto y el puerperio (O10-O16)",6,1,0,2,2,1,0,0,0,0,0,2022,defunciones,Cuadro7
+27.0,,Otros trastornos relacionados principalmente con el embarazo (O20-O29),1,0,0,0,1,0,0,0,0,0,0,2022,defunciones,Cuadro7
+27.0,,Atención materna relacionada con el feto y la cavidad amniótica y con posibles problemas del parto (O30-O48),1,1,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+27.0,,Complicaciones del trabajo del parto y del parto (O60-O75),3,0,0,1,0,0,1,1,0,0,0,2022,defunciones,Cuadro7
+27.0,,Complicaciones principalmente relacionadas con el puerperio (O85-O92),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+27.0,,Otras afecciones obstétricas no clasificadas en otra parte (O95-O99),6,0,1,2,2,0,1,0,0,0,0,2022,defunciones,Cuadro7
+41.0,41 Huila,TOTAL,11,0,2,3,1,1,3,1,0,0,0,2022,defunciones,Cuadro7
+41.0,,Embarazo terminado en aborto (O00-O08),2,0,0,1,0,0,1,0,0,0,0,2022,defunciones,Cuadro7
+41.0,,"Edema, proteinuria y trastornos hipertensivos en el embarazo, el parto y el puerperio (O10-O16)",2,0,0,1,0,1,0,0,0,0,0,2022,defunciones,Cuadro7
+41.0,,Otros trastornos relacionados principalmente con el embarazo (O20-O29),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+41.0,,Atención materna relacionada con el feto y la cavidad amniótica y con posibles problemas del parto (O30-O48),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+41.0,,Complicaciones del trabajo del parto y del parto (O60-O75),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+41.0,,Complicaciones principalmente relacionadas con el puerperio (O85-O92),1,0,0,0,1,0,0,0,0,0,0,2022,defunciones,Cuadro7
+41.0,,Otras afecciones obstétricas no clasificadas en otra parte (O95-O99),6,0,2,1,0,0,2,1,0,0,0,2022,defunciones,Cuadro7
+44.0,44 La Guajira,TOTAL,40,0,3,6,10,9,8,3,1,0,0,2022,defunciones,Cuadro7
+44.0,,Embarazo terminado en aborto (O00-O08),3,0,0,0,1,1,1,0,0,0,0,2022,defunciones,Cuadro7
+44.0,,"Edema, proteinuria y trastornos hipertensivos en el embarazo, el parto y el puerperio (O10-O16)",9,0,2,3,1,0,2,1,0,0,0,2022,defunciones,Cuadro7
+44.0,,Otros trastornos relacionados principalmente con el embarazo (O20-O29),1,0,0,0,0,1,0,0,0,0,0,2022,defunciones,Cuadro7
+44.0,,Atención materna relacionada con el feto y la cavidad amniótica y con posibles problemas del parto (O30-O48),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+44.0,,Complicaciones del trabajo del parto y del parto (O60-O75),2,0,0,0,0,1,1,0,0,0,0,2022,defunciones,Cuadro7
+44.0,,Complicaciones principalmente relacionadas con el puerperio (O85-O92),5,0,1,1,1,0,1,1,0,0,0,2022,defunciones,Cuadro7
+44.0,,Otras afecciones obstétricas no clasificadas en otra parte (O95-O99),20,0,0,2,7,6,3,1,1,0,0,2022,defunciones,Cuadro7
+47.0,47 Magdalena,TOTAL,28,0,5,7,4,4,8,0,0,0,0,2022,defunciones,Cuadro7
+47.0,,Embarazo terminado en aborto (O00-O08),1,0,0,1,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+47.0,,"Edema, proteinuria y trastornos hipertensivos en el embarazo, el parto y el puerperio (O10-O16)",1,0,0,1,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+47.0,,Otros trastornos relacionados principalmente con el embarazo (O20-O29),1,0,0,1,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+47.0,,Atención materna relacionada con el feto y la cavidad amniótica y con posibles problemas del parto (O30-O48),3,0,0,0,1,1,1,0,0,0,0,2022,defunciones,Cuadro7
+47.0,,Complicaciones del trabajo del parto y del parto (O60-O75),3,0,0,0,1,1,1,0,0,0,0,2022,defunciones,Cuadro7
+47.0,,Complicaciones principalmente relacionadas con el puerperio (O85-O92),1,0,0,0,0,0,1,0,0,0,0,2022,defunciones,Cuadro7
+47.0,,Otras afecciones obstétricas no clasificadas en otra parte (O95-O99),18,0,5,4,2,2,5,0,0,0,0,2022,defunciones,Cuadro7
+50.0,50 Meta,TOTAL,6,0,1,1,0,1,2,0,1,0,0,2022,defunciones,Cuadro7
+50.0,,Embarazo terminado en aborto (O00-O08),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+50.0,,"Edema, proteinuria y trastornos hipertensivos en el embarazo, el parto y el puerperio (O10-O16)",0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+50.0,,Otros trastornos relacionados principalmente con el embarazo (O20-O29),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+50.0,,Atención materna relacionada con el feto y la cavidad amniótica y con posibles problemas del parto (O30-O48),1,0,0,0,0,0,1,0,0,0,0,2022,defunciones,Cuadro7
+50.0,,Complicaciones del trabajo del parto y del parto (O60-O75),1,0,0,0,0,0,1,0,0,0,0,2022,defunciones,Cuadro7
+50.0,,Complicaciones principalmente relacionadas con el puerperio (O85-O92),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+50.0,,Otras afecciones obstétricas no clasificadas en otra parte (O95-O99),4,0,1,1,0,1,0,0,1,0,0,2022,defunciones,Cuadro7
+52.0,52 Nariño,TOTAL,18,0,4,4,5,2,3,0,0,0,0,2022,defunciones,Cuadro7
+52.0,,Embarazo terminado en aborto (O00-O08),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+52.0,,"Edema, proteinuria y trastornos hipertensivos en el embarazo, el parto y el puerperio (O10-O16)",4,0,0,1,2,0,1,0,0,0,0,2022,defunciones,Cuadro7
+52.0,,Otros trastornos relacionados principalmente con el embarazo (O20-O29),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+52.0,,Atención materna relacionada con el feto y la cavidad amniótica y con posibles problemas del parto (O30-O48),1,0,1,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+52.0,,Complicaciones del trabajo del parto y del parto (O60-O75),2,0,1,0,0,0,1,0,0,0,0,2022,defunciones,Cuadro7
+52.0,,Complicaciones principalmente relacionadas con el puerperio (O85-O92),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+52.0,,Otras afecciones obstétricas no clasificadas en otra parte (O95-O99),11,0,2,3,3,2,1,0,0,0,0,2022,defunciones,Cuadro7
+54.0,54 Norte de Santander,TOTAL,17,0,4,4,4,0,3,2,0,0,0,2022,defunciones,Cuadro7
+54.0,,Embarazo terminado en aborto (O00-O08),1,0,1,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+54.0,,"Edema, proteinuria y trastornos hipertensivos en el embarazo, el parto y el puerperio (O10-O16)",2,0,1,1,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+54.0,,Otros trastornos relacionados principalmente con el embarazo (O20-O29),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+54.0,,Atención materna relacionada con el feto y la cavidad amniótica y con posibles problemas del parto (O30-O48),2,0,1,0,0,0,1,0,0,0,0,2022,defunciones,Cuadro7
+54.0,,Complicaciones del trabajo del parto y del parto (O60-O75),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+54.0,,Complicaciones principalmente relacionadas con el puerperio (O85-O92),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+54.0,,Otras afecciones obstétricas no clasificadas en otra parte (O95-O99),12,0,1,3,4,0,2,2,0,0,0,2022,defunciones,Cuadro7
+63.0,63 Quindío,TOTAL,5,0,0,3,0,0,2,0,0,0,0,2022,defunciones,Cuadro7
+63.0,,Embarazo terminado en aborto (O00-O08),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+63.0,,"Edema, proteinuria y trastornos hipertensivos en el embarazo, el parto y el puerperio (O10-O16)",1,0,0,0,0,0,1,0,0,0,0,2022,defunciones,Cuadro7
+63.0,,Otros trastornos relacionados principalmente con el embarazo (O20-O29),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+63.0,,Atención materna relacionada con el feto y la cavidad amniótica y con posibles problemas del parto (O30-O48),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+63.0,,Complicaciones del trabajo del parto y del parto (O60-O75),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+63.0,,Complicaciones principalmente relacionadas con el puerperio (O85-O92),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+63.0,,Otras afecciones obstétricas no clasificadas en otra parte (O95-O99),4,0,0,3,0,0,1,0,0,0,0,2022,defunciones,Cuadro7
+66.0,66 Risaralda,TOTAL,3,0,1,0,1,0,1,0,0,0,0,2022,defunciones,Cuadro7
+66.0,,Embarazo terminado en aborto (O00-O08),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+66.0,,"Edema, proteinuria y trastornos hipertensivos en el embarazo, el parto y el puerperio (O10-O16)",0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+66.0,,Otros trastornos relacionados principalmente con el embarazo (O20-O29),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+66.0,,Atención materna relacionada con el feto y la cavidad amniótica y con posibles problemas del parto (O30-O48),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+66.0,,Complicaciones del trabajo del parto y del parto (O60-O75),1,0,0,0,1,0,0,0,0,0,0,2022,defunciones,Cuadro7
+66.0,,Complicaciones principalmente relacionadas con el puerperio (O85-O92),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+66.0,,Otras afecciones obstétricas no clasificadas en otra parte (O95-O99),2,0,1,0,0,0,1,0,0,0,0,2022,defunciones,Cuadro7
+68.0,68 Santander,TOTAL,6,0,0,0,2,1,1,2,0,0,0,2022,defunciones,Cuadro7
+68.0,,Embarazo terminado en aborto (O00-O08),1,0,0,0,1,0,0,0,0,0,0,2022,defunciones,Cuadro7
+68.0,,"Edema, proteinuria y trastornos hipertensivos en el embarazo, el parto y el puerperio (O10-O16)",0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+68.0,,Otros trastornos relacionados principalmente con el embarazo (O20-O29),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+68.0,,Atención materna relacionada con el feto y la cavidad amniótica y con posibles problemas del parto (O30-O48),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+68.0,,Complicaciones del trabajo del parto y del parto (O60-O75),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+68.0,,Complicaciones principalmente relacionadas con el puerperio (O85-O92),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+68.0,,Otras afecciones obstétricas no clasificadas en otra parte (O95-O99),5,0,0,0,1,1,1,2,0,0,0,2022,defunciones,Cuadro7
+70.0,70 Sucre,TOTAL,12,0,1,2,4,4,1,0,0,0,0,2022,defunciones,Cuadro7
+70.0,,Embarazo terminado en aborto (O00-O08),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+70.0,,"Edema, proteinuria y trastornos hipertensivos en el embarazo, el parto y el puerperio (O10-O16)",0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+70.0,,Otros trastornos relacionados principalmente con el embarazo (O20-O29),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+70.0,,Atención materna relacionada con el feto y la cavidad amniótica y con posibles problemas del parto (O30-O48),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+70.0,,Complicaciones del trabajo del parto y del parto (O60-O75),1,0,0,0,1,0,0,0,0,0,0,2022,defunciones,Cuadro7
+70.0,,Complicaciones principalmente relacionadas con el puerperio (O85-O92),1,0,0,0,1,0,0,0,0,0,0,2022,defunciones,Cuadro7
+70.0,,Otras afecciones obstétricas no clasificadas en otra parte (O95-O99),10,0,1,2,2,4,1,0,0,0,0,2022,defunciones,Cuadro7
+73.0,73 Tolima,TOTAL,8,0,1,1,4,1,0,1,0,0,0,2022,defunciones,Cuadro7
+73.0,,Embarazo terminado en aborto (O00-O08),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+73.0,,"Edema, proteinuria y trastornos hipertensivos en el embarazo, el parto y el puerperio (O10-O16)",1,0,0,1,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+73.0,,Otros trastornos relacionados principalmente con el embarazo (O20-O29),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+73.0,,Atención materna relacionada con el feto y la cavidad amniótica y con posibles problemas del parto (O30-O48),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+73.0,,Complicaciones del trabajo del parto y del parto (O60-O75),2,0,1,0,1,0,0,0,0,0,0,2022,defunciones,Cuadro7
+73.0,,Complicaciones principalmente relacionadas con el puerperio (O85-O92),1,0,0,0,1,0,0,0,0,0,0,2022,defunciones,Cuadro7
+73.0,,Otras afecciones obstétricas no clasificadas en otra parte (O95-O99),4,0,0,0,2,1,0,1,0,0,0,2022,defunciones,Cuadro7
+76.0,76 Valle del Cauca,TOTAL,21,0,3,5,5,5,2,1,0,0,0,2022,defunciones,Cuadro7
+76.0,,Embarazo terminado en aborto (O00-O08),1,0,1,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+76.0,,"Edema, proteinuria y trastornos hipertensivos en el embarazo, el parto y el puerperio (O10-O16)",3,0,0,1,1,0,1,0,0,0,0,2022,defunciones,Cuadro7
+76.0,,Otros trastornos relacionados principalmente con el embarazo (O20-O29),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+76.0,,Atención materna relacionada con el feto y la cavidad amniótica y con posibles problemas del parto (O30-O48),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+76.0,,Complicaciones del trabajo del parto y del parto (O60-O75),1,0,0,0,1,0,0,0,0,0,0,2022,defunciones,Cuadro7
+76.0,,Complicaciones principalmente relacionadas con el puerperio (O85-O92),1,0,0,1,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+76.0,,Otras afecciones obstétricas no clasificadas en otra parte (O95-O99),15,0,2,3,3,5,1,1,0,0,0,2022,defunciones,Cuadro7
+81.0,81 Arauca,TOTAL,5,0,1,1,1,2,0,0,0,0,0,2022,defunciones,Cuadro7
+81.0,,Embarazo terminado en aborto (O00-O08),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+81.0,,"Edema, proteinuria y trastornos hipertensivos en el embarazo, el parto y el puerperio (O10-O16)",0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+81.0,,Otros trastornos relacionados principalmente con el embarazo (O20-O29),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+81.0,,Atención materna relacionada con el feto y la cavidad amniótica y con posibles problemas del parto (O30-O48),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+81.0,,Complicaciones del trabajo del parto y del parto (O60-O75),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+81.0,,Complicaciones principalmente relacionadas con el puerperio (O85-O92),1,0,0,1,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+81.0,,Otras afecciones obstétricas no clasificadas en otra parte (O95-O99),4,0,1,0,1,2,0,0,0,0,0,2022,defunciones,Cuadro7
+85.0,85 Casanare,TOTAL,2,0,0,0,2,0,0,0,0,0,0,2022,defunciones,Cuadro7
+85.0,,Embarazo terminado en aborto (O00-O08),1,0,0,0,1,0,0,0,0,0,0,2022,defunciones,Cuadro7
+85.0,,"Edema, proteinuria y trastornos hipertensivos en el embarazo, el parto y el puerperio (O10-O16)",0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+85.0,,Otros trastornos relacionados principalmente con el embarazo (O20-O29),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+85.0,,Atención materna relacionada con el feto y la cavidad amniótica y con posibles problemas del parto (O30-O48),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+85.0,,Complicaciones del trabajo del parto y del parto (O60-O75),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+85.0,,Complicaciones principalmente relacionadas con el puerperio (O85-O92),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+85.0,,Otras afecciones obstétricas no clasificadas en otra parte (O95-O99),1,0,0,0,1,0,0,0,0,0,0,2022,defunciones,Cuadro7
+86.0,86 Putumayo,TOTAL,4,0,1,1,1,0,0,1,0,0,0,2022,defunciones,Cuadro7
+86.0,,Embarazo terminado en aborto (O00-O08),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+86.0,,"Edema, proteinuria y trastornos hipertensivos en el embarazo, el parto y el puerperio (O10-O16)",1,0,0,0,0,0,0,1,0,0,0,2022,defunciones,Cuadro7
+86.0,,Otros trastornos relacionados principalmente con el embarazo (O20-O29),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+86.0,,Atención materna relacionada con el feto y la cavidad amniótica y con posibles problemas del parto (O30-O48),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+86.0,,Complicaciones del trabajo del parto y del parto (O60-O75),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+86.0,,Complicaciones principalmente relacionadas con el puerperio (O85-O92),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+86.0,,Otras afecciones obstétricas no clasificadas en otra parte (O95-O99),3,0,1,1,1,0,0,0,0,0,0,2022,defunciones,Cuadro7
+91.0,91 Amazonas,TOTAL,1,0,1,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+91.0,,Embarazo terminado en aborto (O00-O08),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+91.0,,"Edema, proteinuria y trastornos hipertensivos en el embarazo, el parto y el puerperio (O10-O16)",0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+91.0,,Otros trastornos relacionados principalmente con el embarazo (O20-O29),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+91.0,,Atención materna relacionada con el feto y la cavidad amniótica y con posibles problemas del parto (O30-O48),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+91.0,,Complicaciones del trabajo del parto y del parto (O60-O75),1,0,1,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+91.0,,Complicaciones principalmente relacionadas con el puerperio (O85-O92),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+91.0,,Otras afecciones obstétricas no clasificadas en otra parte (O95-O99),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+94.0,94 Guainía,TOTAL,2,0,0,0,1,0,1,0,0,0,0,2022,defunciones,Cuadro7
+94.0,,Embarazo terminado en aborto (O00-O08),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+94.0,,"Edema, proteinuria y trastornos hipertensivos en el embarazo, el parto y el puerperio (O10-O16)",0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+94.0,,Otros trastornos relacionados principalmente con el embarazo (O20-O29),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+94.0,,Atención materna relacionada con el feto y la cavidad amniótica y con posibles problemas del parto (O30-O48),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+94.0,,Complicaciones del trabajo del parto y del parto (O60-O75),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+94.0,,Complicaciones principalmente relacionadas con el puerperio (O85-O92),1,0,0,0,0,0,1,0,0,0,0,2022,defunciones,Cuadro7
+94.0,,Otras afecciones obstétricas no clasificadas en otra parte (O95-O99),1,0,0,0,1,0,0,0,0,0,0,2022,defunciones,Cuadro7
+97.0,97 Vaupés,TOTAL,1,0,0,0,0,0,0,1,0,0,0,2022,defunciones,Cuadro7
+97.0,,Embarazo terminado en aborto (O00-O08),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+97.0,,"Edema, proteinuria y trastornos hipertensivos en el embarazo, el parto y el puerperio (O10-O16)",0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+97.0,,Otros trastornos relacionados principalmente con el embarazo (O20-O29),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+97.0,,Atención materna relacionada con el feto y la cavidad amniótica y con posibles problemas del parto (O30-O48),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+97.0,,Complicaciones del trabajo del parto y del parto (O60-O75),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+97.0,,Complicaciones principalmente relacionadas con el puerperio (O85-O92),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+97.0,,Otras afecciones obstétricas no clasificadas en otra parte (O95-O99),1,0,0,0,0,0,0,1,0,0,0,2022,defunciones,Cuadro7
+99.0,99 Vichada,TOTAL,3,0,0,1,2,0,0,0,0,0,0,2022,defunciones,Cuadro7
+99.0,,Embarazo terminado en aborto (O00-O08),1,0,0,0,1,0,0,0,0,0,0,2022,defunciones,Cuadro7
+99.0,,"Edema, proteinuria y trastornos hipertensivos en el embarazo, el parto y el puerperio (O10-O16)",0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+99.0,,Otros trastornos relacionados principalmente con el embarazo (O20-O29),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+99.0,,Atención materna relacionada con el feto y la cavidad amniótica y con posibles problemas del parto (O30-O48),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+99.0,,Complicaciones del trabajo del parto y del parto (O60-O75),1,0,0,0,1,0,0,0,0,0,0,2022,defunciones,Cuadro7
+99.0,,Complicaciones principalmente relacionadas con el puerperio (O85-O92),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+99.0,,Otras afecciones obstétricas no clasificadas en otra parte (O95-O99),1,0,0,1,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+75.0,Extranjero,TOTAL,11,0,2,4,4,0,1,0,0,0,0,2022,defunciones,Cuadro7
+75.0,,Embarazo terminado en aborto (O00-O08),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+75.0,,"Edema, proteinuria y trastornos hipertensivos en el embarazo, el parto y el puerperio (O10-O16)",1,0,0,1,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+75.0,,Otros trastornos relacionados principalmente con el embarazo (O20-O29),3,0,0,1,2,0,0,0,0,0,0,2022,defunciones,Cuadro7
+75.0,,Atención materna relacionada con el feto y la cavidad amniótica y con posibles problemas del parto (O30-O48),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+75.0,,Complicaciones del trabajo del parto y del parto (O60-O75),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+75.0,,Complicaciones principalmente relacionadas con el puerperio (O85-O92),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+75.0,,Otras afecciones obstétricas no clasificadas en otra parte (O95-O99),7,0,2,2,2,0,1,0,0,0,0,2022,defunciones,Cuadro7
+1.0,Sin Información,TOTAL,1,0,0,0,0,0,1,0,0,0,0,2022,defunciones,Cuadro7
+1.0,,Embarazo terminado en aborto (O00-O08),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+1.0,,"Edema, proteinuria y trastornos hipertensivos en el embarazo, el parto y el puerperio (O10-O16)",0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+1.0,,Otros trastornos relacionados principalmente con el embarazo (O20-O29),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+1.0,,Atención materna relacionada con el feto y la cavidad amniótica y con posibles problemas del parto (O30-O48),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+1.0,,Complicaciones del trabajo del parto y del parto (O60-O75),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+1.0,,Complicaciones principalmente relacionadas con el puerperio (O85-O92),0,0,0,0,0,0,0,0,0,0,0,2022,defunciones,Cuadro7
+1.0,,Otras afecciones obstétricas no clasificadas en otra parte (O95-O99),1,0,0,0,0,0,1,0,0,0,0,2022,defunciones,Cuadro7
+,Fuente: DANE - Estadísticas Vitales,,,,,,,,,,,,,2022,defunciones,Cuadro7
+,Fecha de actualización: 21 de diciembre de 2023,,,,,,,,,,,,,2022,defunciones,Cuadro7

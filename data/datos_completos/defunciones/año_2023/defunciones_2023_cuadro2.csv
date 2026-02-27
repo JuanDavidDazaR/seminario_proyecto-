@@ -1,0 +1,1367 @@
+﻿columna,"CUADRO 2 - Defunciones por persona que certifica la defunción, según departamento, área y sitio donde ocurrió la defunción",columna_1,columna_2,columna_3,columna_4,columna_5,columna_6,columna_7,columna_8,columna_9,año,tipo,hoja_origen
+,Año 2023,,,,,,,,,,2023,defunciones,Cuadro2
+,Volver al índice,,,,Departamento,,,,,,2023,defunciones,Cuadro2
+,"Departamento, área y sitio donde ocurrió la defunción",,,Total,Certificado de defunción expedido por,,,,,,2023,defunciones,Cuadro2
+,,,,,Médico tratante,Médico no tratante,Médico legista,Personal de salud autorizado,Funcionario del registro civil,Sin información,2023,defunciones,Cuadro2
+3.0,Total Nacional,Total,Total,268411,77904,150572,36986,636,11,2302,2023,defunciones,Cuadro2
+3.0,,,Hospital/clínica,169682,70136,86777,12681,24,0,64,2023,defunciones,Cuadro2
+3.0,,,Centro/puesto de salud,1285,267,529,482,2,0,5,2023,defunciones,Cuadro2
+3.0,,,Casa/domicilio,74317,7005,60625,6040,585,10,52,2023,defunciones,Cuadro2
+3.0,,,Lugar de trabajo,784,9,140,633,0,1,1,2023,defunciones,Cuadro2
+3.0,,,Vía pública,11824,94,978,10687,12,0,53,2023,defunciones,Cuadro2
+3.0,,,Otro sitio,7693,391,1423,5849,11,0,19,2023,defunciones,Cuadro2
+3.0,,,Sin información,2826,2,100,614,2,0,2108,2023,defunciones,Cuadro2
+3.0,,Cabecera municipal,Total,239781,76442,135127,27960,143,1,108,2023,defunciones,Cuadro2
+3.0,,,Hospital/clínica,168113,69803,85574,12670,21,0,45,2023,defunciones,Cuadro2
+3.0,,,Centro/puesto de salud,1000,210,402,383,0,0,5,2023,defunciones,Cuadro2
+3.0,,,Casa/domicilio,58316,6034,47478,4669,117,1,17,2023,defunciones,Cuadro2
+3.0,,,Lugar de trabajo,345,3,65,277,0,0,0,2023,defunciones,Cuadro2
+3.0,,,Vía pública,7226,55,560,6577,2,0,32,2023,defunciones,Cuadro2
+3.0,,,Otro sitio,4421,336,1002,3073,3,0,7,2023,defunciones,Cuadro2
+3.0,,,Sin información,360,1,46,311,0,0,2,2023,defunciones,Cuadro2
+3.0,,Centro poblado,Total,6647,433,4671,1436,87,5,15,2023,defunciones,Cuadro2
+3.0,,,Hospital/clínica,832,174,647,6,3,0,2,2023,defunciones,Cuadro2
+3.0,,,Centro/puesto de salud,158,45,86,25,2,0,0,2023,defunciones,Cuadro2
+3.0,,,Casa/domicilio,4346,201,3761,293,78,5,8,2023,defunciones,Cuadro2
+3.0,,,Lugar de trabajo,51,1,11,39,0,0,0,2023,defunciones,Cuadro2
+3.0,,,Vía pública,768,6,77,680,1,0,4,2023,defunciones,Cuadro2
+3.0,,,Otro sitio,455,6,84,361,3,0,1,2023,defunciones,Cuadro2
+3.0,,,Sin información,37,0,5,32,0,0,0,2023,defunciones,Cuadro2
+3.0,,Rural disperso,Total,19638,1029,10774,7352,406,5,72,2023,defunciones,Cuadro2
+3.0,,,Hospital/clínica,735,159,556,5,0,0,15,2023,defunciones,Cuadro2
+3.0,,,Centro/puesto de salud,122,12,41,69,0,0,0,2023,defunciones,Cuadro2
+3.0,,,Casa/domicilio,11630,770,9386,1053,390,4,27,2023,defunciones,Cuadro2
+3.0,,,Lugar de trabajo,385,5,64,314,0,1,1,2023,defunciones,Cuadro2
+3.0,,,Vía pública,3753,33,341,3353,9,0,17,2023,defunciones,Cuadro2
+3.0,,,Otro sitio,2772,49,337,2370,5,0,11,2023,defunciones,Cuadro2
+3.0,,,Sin información,241,1,49,188,2,0,1,2023,defunciones,Cuadro2
+3.0,,Sin información,Total,2345,0,0,238,0,0,2107,2023,defunciones,Cuadro2
+3.0,,,Hospital/clínica,2,0,0,0,0,0,2,2023,defunciones,Cuadro2
+3.0,,,Centro/puesto de salud,5,0,0,5,0,0,0,2023,defunciones,Cuadro2
+3.0,,,Casa/domicilio,25,0,0,25,0,0,0,2023,defunciones,Cuadro2
+3.0,,,Lugar de trabajo,3,0,0,3,0,0,0,2023,defunciones,Cuadro2
+3.0,,,Vía pública,77,0,0,77,0,0,0,2023,defunciones,Cuadro2
+3.0,,,Otro sitio,45,0,0,45,0,0,0,2023,defunciones,Cuadro2
+3.0,,,Sin información,2188,0,0,83,0,0,2105,2023,defunciones,Cuadro2
+5.0,05 Antioquia,Total,Total,37926,8764,23647,5258,48,0,209,2023,defunciones,Cuadro2
+5.0,,,Hospital/clínica,21699,7503,12798,1384,9,0,5,2023,defunciones,Cuadro2
+5.0,,,Centro/puesto de salud,91,16,37,38,0,0,0,2023,defunciones,Cuadro2
+5.0,,,Casa/domicilio,12542,1204,10244,1047,37,0,10,2023,defunciones,Cuadro2
+5.0,,,Lugar de trabajo,127,0,33,94,0,0,0,2023,defunciones,Cuadro2
+5.0,,,Vía pública,1693,18,227,1440,1,0,7,2023,defunciones,Cuadro2
+5.0,,,Otro sitio,1342,23,271,1040,1,0,7,2023,defunciones,Cuadro2
+5.0,,,Sin información,432,0,37,215,0,0,180,2023,defunciones,Cuadro2
+5.0,,Cabecera municipal,Total,33154,8452,20988,3658,38,0,18,2023,defunciones,Cuadro2
+5.0,,,Hospital/clínica,20890,7331,12169,1379,9,0,2,2023,defunciones,Cuadro2
+5.0,,,Centro/puesto de salud,67,10,29,28,0,0,0,2023,defunciones,Cuadro2
+5.0,,,Casa/domicilio,10396,1084,8466,812,27,0,7,2023,defunciones,Cuadro2
+5.0,,,Lugar de trabajo,46,0,11,35,0,0,0,2023,defunciones,Cuadro2
+5.0,,,Vía pública,936,10,112,808,1,0,5,2023,defunciones,Cuadro2
+5.0,,,Otro sitio,733,17,187,524,1,0,4,2023,defunciones,Cuadro2
+5.0,,,Sin información,86,0,14,72,0,0,0,2023,defunciones,Cuadro2
+5.0,,Centro poblado,Total,899,39,575,281,2,0,2,2023,defunciones,Cuadro2
+5.0,,,Hospital/clínica,123,16,106,1,0,0,0,2023,defunciones,Cuadro2
+5.0,,,Centro/puesto de salud,15,5,5,5,0,0,0,2023,defunciones,Cuadro2
+5.0,,,Casa/domicilio,520,18,439,60,2,0,1,2023,defunciones,Cuadro2
+5.0,,,Lugar de trabajo,7,0,2,5,0,0,0,2023,defunciones,Cuadro2
+5.0,,,Vía pública,125,0,12,112,0,0,1,2023,defunciones,Cuadro2
+5.0,,,Otro sitio,97,0,9,88,0,0,0,2023,defunciones,Cuadro2
+5.0,,,Sin información,12,0,2,10,0,0,0,2023,defunciones,Cuadro2
+5.0,,Rural disperso,Total,3582,273,2084,1207,8,0,10,2023,defunciones,Cuadro2
+5.0,,,Hospital/clínica,686,156,523,4,0,0,3,2023,defunciones,Cuadro2
+5.0,,,Centro/puesto de salud,7,1,3,3,0,0,0,2023,defunciones,Cuadro2
+5.0,,,Casa/domicilio,1620,102,1339,169,8,0,2,2023,defunciones,Cuadro2
+5.0,,,Lugar de trabajo,73,0,20,53,0,0,0,2023,defunciones,Cuadro2
+5.0,,,Vía pública,613,8,103,501,0,0,1,2023,defunciones,Cuadro2
+5.0,,,Otro sitio,495,6,75,411,0,0,3,2023,defunciones,Cuadro2
+5.0,,,Sin información,88,0,21,66,0,0,1,2023,defunciones,Cuadro2
+5.0,,Sin información,Total,291,0,0,112,0,0,179,2023,defunciones,Cuadro2
+5.0,,,Hospital/clínica,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+5.0,,,Centro/puesto de salud,2,0,0,2,0,0,0,2023,defunciones,Cuadro2
+5.0,,,Casa/domicilio,6,0,0,6,0,0,0,2023,defunciones,Cuadro2
+5.0,,,Lugar de trabajo,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+5.0,,,Vía pública,19,0,0,19,0,0,0,2023,defunciones,Cuadro2
+5.0,,,Otro sitio,17,0,0,17,0,0,0,2023,defunciones,Cuadro2
+5.0,,,Sin información,246,0,0,67,0,0,179,2023,defunciones,Cuadro2
+8.0,08 Atlántico,Total,Total,15822,5338,8988,1474,2,0,20,2023,defunciones,Cuadro2
+8.0,,,Hospital/clínica,11771,5066,6290,414,1,0,0,2023,defunciones,Cuadro2
+8.0,,,Centro/puesto de salud,54,7,24,23,0,0,0,2023,defunciones,Cuadro2
+8.0,,,Casa/domicilio,3000,261,2604,134,1,0,0,2023,defunciones,Cuadro2
+8.0,,,Lugar de trabajo,20,0,6,14,0,0,0,2023,defunciones,Cuadro2
+8.0,,,Vía pública,377,1,32,344,0,0,0,2023,defunciones,Cuadro2
+8.0,,,Otro sitio,552,3,32,517,0,0,0,2023,defunciones,Cuadro2
+8.0,,,Sin información,48,0,0,28,0,0,20,2023,defunciones,Cuadro2
+8.0,,Cabecera municipal,Total,15603,5327,8848,1426,2,0,0,2023,defunciones,Cuadro2
+8.0,,,Hospital/clínica,11750,5063,6272,414,1,0,0,2023,defunciones,Cuadro2
+8.0,,,Centro/puesto de salud,52,7,24,21,0,0,0,2023,defunciones,Cuadro2
+8.0,,,Casa/domicilio,2870,253,2486,130,1,0,0,2023,defunciones,Cuadro2
+8.0,,,Lugar de trabajo,20,0,6,14,0,0,0,2023,defunciones,Cuadro2
+8.0,,,Vía pública,359,1,31,327,0,0,0,2023,defunciones,Cuadro2
+8.0,,,Otro sitio,525,3,29,493,0,0,0,2023,defunciones,Cuadro2
+8.0,,,Sin información,27,0,0,27,0,0,0,2023,defunciones,Cuadro2
+8.0,,Centro poblado,Total,138,7,115,16,0,0,0,2023,defunciones,Cuadro2
+8.0,,,Hospital/clínica,20,3,17,0,0,0,0,2023,defunciones,Cuadro2
+8.0,,,Centro/puesto de salud,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+8.0,,,Casa/domicilio,104,4,98,2,0,0,0,2023,defunciones,Cuadro2
+8.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+8.0,,,Vía pública,5,0,0,5,0,0,0,2023,defunciones,Cuadro2
+8.0,,,Otro sitio,8,0,0,8,0,0,0,2023,defunciones,Cuadro2
+8.0,,,Sin información,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+8.0,,Rural disperso,Total,60,4,25,31,0,0,0,2023,defunciones,Cuadro2
+8.0,,,Hospital/clínica,1,0,1,0,0,0,0,2023,defunciones,Cuadro2
+8.0,,,Centro/puesto de salud,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+8.0,,,Casa/domicilio,26,4,20,2,0,0,0,2023,defunciones,Cuadro2
+8.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+8.0,,,Vía pública,13,0,1,12,0,0,0,2023,defunciones,Cuadro2
+8.0,,,Otro sitio,19,0,3,16,0,0,0,2023,defunciones,Cuadro2
+8.0,,,Sin información,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+8.0,,Sin información,Total,21,0,0,1,0,0,20,2023,defunciones,Cuadro2
+8.0,,,Hospital/clínica,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+8.0,,,Centro/puesto de salud,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+8.0,,,Casa/domicilio,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+8.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+8.0,,,Vía pública,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+8.0,,,Otro sitio,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+8.0,,,Sin información,21,0,0,1,0,0,20,2023,defunciones,Cuadro2
+11.0,11 Bogotá,Total,Total,40442,14045,21682,4678,0,0,37,2023,defunciones,Cuadro2
+11.0,,,Hospital/clínica,28333,12168,13676,2483,0,0,6,2023,defunciones,Cuadro2
+11.0,,,Centro/puesto de salud,30,1,8,21,0,0,0,2023,defunciones,Cuadro2
+11.0,,,Casa/domicilio,10592,1715,7863,1013,0,0,1,2023,defunciones,Cuadro2
+11.0,,,Lugar de trabajo,33,0,0,33,0,0,0,2023,defunciones,Cuadro2
+11.0,,,Vía pública,832,1,61,770,0,0,0,2023,defunciones,Cuadro2
+11.0,,,Otro sitio,579,160,73,346,0,0,0,2023,defunciones,Cuadro2
+11.0,,,Sin información,43,0,1,12,0,0,30,2023,defunciones,Cuadro2
+11.0,,Cabecera municipal,Total,40393,14039,21678,4669,0,0,7,2023,defunciones,Cuadro2
+11.0,,,Hospital/clínica,28332,12167,13676,2483,0,0,6,2023,defunciones,Cuadro2
+11.0,,,Centro/puesto de salud,30,1,8,21,0,0,0,2023,defunciones,Cuadro2
+11.0,,,Casa/domicilio,10582,1711,7859,1011,0,0,1,2023,defunciones,Cuadro2
+11.0,,,Lugar de trabajo,33,0,0,33,0,0,0,2023,defunciones,Cuadro2
+11.0,,,Vía pública,831,1,61,769,0,0,0,2023,defunciones,Cuadro2
+11.0,,,Otro sitio,572,159,73,340,0,0,0,2023,defunciones,Cuadro2
+11.0,,,Sin información,13,0,1,12,0,0,0,2023,defunciones,Cuadro2
+11.0,,Centro poblado,Total,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+11.0,,,Hospital/clínica,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+11.0,,,Centro/puesto de salud,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+11.0,,,Casa/domicilio,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+11.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+11.0,,,Vía pública,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+11.0,,,Otro sitio,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+11.0,,,Sin información,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+11.0,,Rural disperso,Total,18,6,4,8,0,0,0,2023,defunciones,Cuadro2
+11.0,,,Hospital/clínica,1,1,0,0,0,0,0,2023,defunciones,Cuadro2
+11.0,,,Centro/puesto de salud,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+11.0,,,Casa/domicilio,10,4,4,2,0,0,0,2023,defunciones,Cuadro2
+11.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+11.0,,,Vía pública,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+11.0,,,Otro sitio,7,1,0,6,0,0,0,2023,defunciones,Cuadro2
+11.0,,,Sin información,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+11.0,,Sin información,Total,30,0,0,0,0,0,30,2023,defunciones,Cuadro2
+11.0,,,Hospital/clínica,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+11.0,,,Centro/puesto de salud,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+11.0,,,Casa/domicilio,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+11.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+11.0,,,Vía pública,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+11.0,,,Otro sitio,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+11.0,,,Sin información,30,0,0,0,0,0,30,2023,defunciones,Cuadro2
+13.0,13 Bolívar,Total,Total,10628,3431,5612,1326,19,0,240,2023,defunciones,Cuadro2
+13.0,,,Hospital/clínica,7190,3170,3634,380,5,0,1,2023,defunciones,Cuadro2
+13.0,,,Centro/puesto de salud,127,15,57,54,1,0,0,2023,defunciones,Cuadro2
+13.0,,,Casa/domicilio,2198,220,1838,127,13,0,0,2023,defunciones,Cuadro2
+13.0,,,Lugar de trabajo,43,0,12,31,0,0,0,2023,defunciones,Cuadro2
+13.0,,,Vía pública,527,1,34,492,0,0,0,2023,defunciones,Cuadro2
+13.0,,,Otro sitio,284,25,33,223,0,0,3,2023,defunciones,Cuadro2
+13.0,,,Sin información,259,0,4,19,0,0,236,2023,defunciones,Cuadro2
+13.0,,Cabecera municipal,Total,9632,3370,5180,1073,6,0,3,2023,defunciones,Cuadro2
+13.0,,,Hospital/clínica,7121,3156,3580,380,4,0,1,2023,defunciones,Cuadro2
+13.0,,,Centro/puesto de salud,104,9,44,51,0,0,0,2023,defunciones,Cuadro2
+13.0,,,Casa/domicilio,1797,180,1504,111,2,0,0,2023,defunciones,Cuadro2
+13.0,,,Lugar de trabajo,28,0,8,20,0,0,0,2023,defunciones,Cuadro2
+13.0,,,Vía pública,387,1,24,362,0,0,0,2023,defunciones,Cuadro2
+13.0,,,Otro sitio,181,24,17,139,0,0,1,2023,defunciones,Cuadro2
+13.0,,,Sin información,14,0,3,10,0,0,1,2023,defunciones,Cuadro2
+13.0,,Centro poblado,Total,474,52,332,77,13,0,0,2023,defunciones,Cuadro2
+13.0,,,Hospital/clínica,68,14,53,0,1,0,0,2023,defunciones,Cuadro2
+13.0,,,Centro/puesto de salud,17,4,10,2,1,0,0,2023,defunciones,Cuadro2
+13.0,,,Casa/domicilio,312,34,259,8,11,0,0,2023,defunciones,Cuadro2
+13.0,,,Lugar de trabajo,2,0,2,0,0,0,0,2023,defunciones,Cuadro2
+13.0,,,Vía pública,43,0,2,41,0,0,0,2023,defunciones,Cuadro2
+13.0,,,Otro sitio,32,0,6,26,0,0,0,2023,defunciones,Cuadro2
+13.0,,,Sin información,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+13.0,,Rural disperso,Total,285,9,100,174,0,0,2,2023,defunciones,Cuadro2
+13.0,,,Hospital/clínica,1,0,1,0,0,0,0,2023,defunciones,Cuadro2
+13.0,,,Centro/puesto de salud,6,2,3,1,0,0,0,2023,defunciones,Cuadro2
+13.0,,,Casa/domicilio,89,6,75,8,0,0,0,2023,defunciones,Cuadro2
+13.0,,,Lugar de trabajo,13,0,2,11,0,0,0,2023,defunciones,Cuadro2
+13.0,,,Vía pública,97,0,8,89,0,0,0,2023,defunciones,Cuadro2
+13.0,,,Otro sitio,71,1,10,58,0,0,2,2023,defunciones,Cuadro2
+13.0,,,Sin información,8,0,1,7,0,0,0,2023,defunciones,Cuadro2
+13.0,,Sin información,Total,237,0,0,2,0,0,235,2023,defunciones,Cuadro2
+13.0,,,Hospital/clínica,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+13.0,,,Centro/puesto de salud,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+13.0,,,Casa/domicilio,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+13.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+13.0,,,Vía pública,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+13.0,,,Otro sitio,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+13.0,,,Sin información,237,0,0,2,0,0,235,2023,defunciones,Cuadro2
+15.0,15 Boyacá,Total,Total,6887,2152,4022,700,7,0,6,2023,defunciones,Cuadro2
+15.0,,,Hospital/clínica,3819,1643,1972,203,0,0,1,2023,defunciones,Cuadro2
+15.0,,,Centro/puesto de salud,55,20,20,15,0,0,0,2023,defunciones,Cuadro2
+15.0,,,Casa/domicilio,2512,461,1925,118,7,0,1,2023,defunciones,Cuadro2
+15.0,,,Lugar de trabajo,47,0,5,42,0,0,0,2023,defunciones,Cuadro2
+15.0,,,Vía pública,229,4,31,194,0,0,0,2023,defunciones,Cuadro2
+15.0,,,Otro sitio,217,24,68,124,0,0,1,2023,defunciones,Cuadro2
+15.0,,,Sin información,8,0,1,4,0,0,3,2023,defunciones,Cuadro2
+15.0,,Cabecera municipal,Total,5288,1903,3046,338,1,0,0,2023,defunciones,Cuadro2
+15.0,,,Hospital/clínica,3813,1642,1968,203,0,0,0,2023,defunciones,Cuadro2
+15.0,,,Centro/puesto de salud,43,20,18,5,0,0,0,2023,defunciones,Cuadro2
+15.0,,,Casa/domicilio,1282,223,1008,50,1,0,0,2023,defunciones,Cuadro2
+15.0,,,Lugar de trabajo,7,0,1,6,0,0,0,2023,defunciones,Cuadro2
+15.0,,,Vía pública,67,1,13,53,0,0,0,2023,defunciones,Cuadro2
+15.0,,,Otro sitio,75,17,38,20,0,0,0,2023,defunciones,Cuadro2
+15.0,,,Sin información,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+15.0,,Centro poblado,Total,68,10,41,16,1,0,0,2023,defunciones,Cuadro2
+15.0,,,Hospital/clínica,5,1,4,0,0,0,0,2023,defunciones,Cuadro2
+15.0,,,Centro/puesto de salud,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+15.0,,,Casa/domicilio,52,9,36,6,1,0,0,2023,defunciones,Cuadro2
+15.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+15.0,,,Vía pública,4,0,0,4,0,0,0,2023,defunciones,Cuadro2
+15.0,,,Otro sitio,5,0,1,4,0,0,0,2023,defunciones,Cuadro2
+15.0,,,Sin información,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+15.0,,Rural disperso,Total,1524,239,935,342,5,0,3,2023,defunciones,Cuadro2
+15.0,,,Hospital/clínica,1,0,0,0,0,0,1,2023,defunciones,Cuadro2
+15.0,,,Centro/puesto de salud,11,0,2,9,0,0,0,2023,defunciones,Cuadro2
+15.0,,,Casa/domicilio,1177,229,881,61,5,0,1,2023,defunciones,Cuadro2
+15.0,,,Lugar de trabajo,40,0,4,36,0,0,0,2023,defunciones,Cuadro2
+15.0,,,Vía pública,157,3,18,136,0,0,0,2023,defunciones,Cuadro2
+15.0,,,Otro sitio,136,7,29,99,0,0,1,2023,defunciones,Cuadro2
+15.0,,,Sin información,2,0,1,1,0,0,0,2023,defunciones,Cuadro2
+15.0,,Sin información,Total,7,0,0,4,0,0,3,2023,defunciones,Cuadro2
+15.0,,,Hospital/clínica,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+15.0,,,Centro/puesto de salud,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+15.0,,,Casa/domicilio,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+15.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+15.0,,,Vía pública,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+15.0,,,Otro sitio,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+15.0,,,Sin información,4,0,0,1,0,0,3,2023,defunciones,Cuadro2
+17.0,17 Caldas,Total,Total,6548,2889,3013,641,2,0,3,2023,defunciones,Cuadro2
+17.0,,,Hospital/clínica,4052,2462,1342,246,0,0,2,2023,defunciones,Cuadro2
+17.0,,,Centro/puesto de salud,27,7,8,12,0,0,0,2023,defunciones,Cuadro2
+17.0,,,Casa/domicilio,2125,412,1578,133,2,0,0,2023,defunciones,Cuadro2
+17.0,,,Lugar de trabajo,22,0,4,18,0,0,0,2023,defunciones,Cuadro2
+17.0,,,Vía pública,181,3,40,138,0,0,0,2023,defunciones,Cuadro2
+17.0,,,Otro sitio,134,5,40,89,0,0,0,2023,defunciones,Cuadro2
+17.0,,,Sin información,7,0,1,5,0,0,1,2023,defunciones,Cuadro2
+17.0,,Cabecera municipal,Total,5824,2837,2534,450,2,0,1,2023,defunciones,Cuadro2
+17.0,,,Hospital/clínica,4010,2446,1317,246,0,0,1,2023,defunciones,Cuadro2
+17.0,,,Centro/puesto de salud,13,2,1,10,0,0,0,2023,defunciones,Cuadro2
+17.0,,,Casa/domicilio,1637,383,1156,96,2,0,0,2023,defunciones,Cuadro2
+17.0,,,Lugar de trabajo,7,0,2,5,0,0,0,2023,defunciones,Cuadro2
+17.0,,,Vía pública,97,2,26,69,0,0,0,2023,defunciones,Cuadro2
+17.0,,,Otro sitio,59,4,32,23,0,0,0,2023,defunciones,Cuadro2
+17.0,,,Sin información,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+17.0,,Centro poblado,Total,182,32,129,21,0,0,0,2023,defunciones,Cuadro2
+17.0,,,Hospital/clínica,41,16,25,0,0,0,0,2023,defunciones,Cuadro2
+17.0,,,Centro/puesto de salud,11,5,6,0,0,0,0,2023,defunciones,Cuadro2
+17.0,,,Casa/domicilio,110,10,94,6,0,0,0,2023,defunciones,Cuadro2
+17.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+17.0,,,Vía pública,10,1,2,7,0,0,0,2023,defunciones,Cuadro2
+17.0,,,Otro sitio,10,0,2,8,0,0,0,2023,defunciones,Cuadro2
+17.0,,,Sin información,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+17.0,,Rural disperso,Total,539,20,350,168,0,0,1,2023,defunciones,Cuadro2
+17.0,,,Hospital/clínica,1,0,0,0,0,0,1,2023,defunciones,Cuadro2
+17.0,,,Centro/puesto de salud,2,0,1,1,0,0,0,2023,defunciones,Cuadro2
+17.0,,,Casa/domicilio,378,19,328,31,0,0,0,2023,defunciones,Cuadro2
+17.0,,,Lugar de trabajo,15,0,2,13,0,0,0,2023,defunciones,Cuadro2
+17.0,,,Vía pública,74,0,12,62,0,0,0,2023,defunciones,Cuadro2
+17.0,,,Otro sitio,64,1,6,57,0,0,0,2023,defunciones,Cuadro2
+17.0,,,Sin información,5,0,1,4,0,0,0,2023,defunciones,Cuadro2
+17.0,,Sin información,Total,3,0,0,2,0,0,1,2023,defunciones,Cuadro2
+17.0,,,Hospital/clínica,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+17.0,,,Centro/puesto de salud,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+17.0,,,Casa/domicilio,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+17.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+17.0,,,Vía pública,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+17.0,,,Otro sitio,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+17.0,,,Sin información,1,0,0,0,0,0,1,2023,defunciones,Cuadro2
+18.0,18 Caquetá,Total,Total,1767,571,809,370,0,1,16,2023,defunciones,Cuadro2
+18.0,,,Hospital/clínica,995,490,417,88,0,0,0,2023,defunciones,Cuadro2
+18.0,,,Centro/puesto de salud,9,2,1,6,0,0,0,2023,defunciones,Cuadro2
+18.0,,,Casa/domicilio,512,73,367,69,0,1,2,2023,defunciones,Cuadro2
+18.0,,,Lugar de trabajo,10,0,1,9,0,0,0,2023,defunciones,Cuadro2
+18.0,,,Vía pública,97,2,5,89,0,0,1,2023,defunciones,Cuadro2
+18.0,,,Otro sitio,124,4,15,105,0,0,0,2023,defunciones,Cuadro2
+18.0,,,Sin información,20,0,3,4,0,0,13,2023,defunciones,Cuadro2
+18.0,,Cabecera municipal,Total,1467,557,700,210,0,0,0,2023,defunciones,Cuadro2
+18.0,,,Hospital/clínica,991,489,414,88,0,0,0,2023,defunciones,Cuadro2
+18.0,,,Centro/puesto de salud,4,1,1,2,0,0,0,2023,defunciones,Cuadro2
+18.0,,,Casa/domicilio,378,64,269,45,0,0,0,2023,defunciones,Cuadro2
+18.0,,,Lugar de trabajo,4,0,1,3,0,0,0,2023,defunciones,Cuadro2
+18.0,,,Vía pública,46,1,1,44,0,0,0,2023,defunciones,Cuadro2
+18.0,,,Otro sitio,44,2,14,28,0,0,0,2023,defunciones,Cuadro2
+18.0,,,Sin información,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+18.0,,Centro poblado,Total,41,5,25,10,0,1,0,2023,defunciones,Cuadro2
+18.0,,,Hospital/clínica,4,1,3,0,0,0,0,2023,defunciones,Cuadro2
+18.0,,,Centro/puesto de salud,2,1,0,1,0,0,0,2023,defunciones,Cuadro2
+18.0,,,Casa/domicilio,30,3,22,4,0,1,0,2023,defunciones,Cuadro2
+18.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+18.0,,,Vía pública,2,0,0,2,0,0,0,2023,defunciones,Cuadro2
+18.0,,,Otro sitio,3,0,0,3,0,0,0,2023,defunciones,Cuadro2
+18.0,,,Sin información,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+18.0,,Rural disperso,Total,246,9,84,150,0,0,3,2023,defunciones,Cuadro2
+18.0,,,Hospital/clínica,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+18.0,,,Centro/puesto de salud,3,0,0,3,0,0,0,2023,defunciones,Cuadro2
+18.0,,,Casa/domicilio,104,6,76,20,0,0,2,2023,defunciones,Cuadro2
+18.0,,,Lugar de trabajo,6,0,0,6,0,0,0,2023,defunciones,Cuadro2
+18.0,,,Vía pública,49,1,4,43,0,0,1,2023,defunciones,Cuadro2
+18.0,,,Otro sitio,77,2,1,74,0,0,0,2023,defunciones,Cuadro2
+18.0,,,Sin información,7,0,3,4,0,0,0,2023,defunciones,Cuadro2
+18.0,,Sin información,Total,13,0,0,0,0,0,13,2023,defunciones,Cuadro2
+18.0,,,Hospital/clínica,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+18.0,,,Centro/puesto de salud,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+18.0,,,Casa/domicilio,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+18.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+18.0,,,Vía pública,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+18.0,,,Otro sitio,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+18.0,,,Sin información,13,0,0,0,0,0,13,2023,defunciones,Cuadro2
+19.0,19 Cauca,Total,Total,6552,2030,2279,1421,237,3,582,2023,defunciones,Cuadro2
+19.0,,,Hospital/clínica,2659,1860,621,176,0,0,2,2023,defunciones,Cuadro2
+19.0,,,Centro/puesto de salud,30,3,11,16,0,0,0,2023,defunciones,Cuadro2
+19.0,,,Casa/domicilio,2182,153,1568,226,233,2,0,2023,defunciones,Cuadro2
+19.0,,,Lugar de trabajo,21,0,2,18,0,1,0,2023,defunciones,Cuadro2
+19.0,,,Vía pública,763,8,33,716,2,0,4,2023,defunciones,Cuadro2
+19.0,,,Otro sitio,287,6,40,239,2,0,0,2023,defunciones,Cuadro2
+19.0,,,Sin información,610,0,4,30,0,0,576,2023,defunciones,Cuadro2
+19.0,,Cabecera municipal,Total,4017,1973,1410,623,6,0,5,2023,defunciones,Cuadro2
+19.0,,,Hospital/clínica,2620,1855,588,176,0,0,1,2023,defunciones,Cuadro2
+19.0,,,Centro/puesto de salud,16,1,5,10,0,0,0,2023,defunciones,Cuadro2
+19.0,,,Casa/domicilio,999,115,771,107,6,0,0,2023,defunciones,Cuadro2
+19.0,,,Lugar de trabajo,6,0,2,4,0,0,0,2023,defunciones,Cuadro2
+19.0,,,Vía pública,288,1,15,268,0,0,4,2023,defunciones,Cuadro2
+19.0,,,Otro sitio,82,1,28,53,0,0,0,2023,defunciones,Cuadro2
+19.0,,,Sin información,6,0,1,5,0,0,0,2023,defunciones,Cuadro2
+19.0,,Centro poblado,Total,256,13,156,56,30,1,0,2023,defunciones,Cuadro2
+19.0,,,Hospital/clínica,29,4,25,0,0,0,0,2023,defunciones,Cuadro2
+19.0,,,Centro/puesto de salud,7,2,3,2,0,0,0,2023,defunciones,Cuadro2
+19.0,,,Casa/domicilio,165,6,121,8,29,1,0,2023,defunciones,Cuadro2
+19.0,,,Lugar de trabajo,2,0,0,2,0,0,0,2023,defunciones,Cuadro2
+19.0,,,Vía pública,30,1,2,27,0,0,0,2023,defunciones,Cuadro2
+19.0,,,Otro sitio,21,0,3,17,1,0,0,2023,defunciones,Cuadro2
+19.0,,,Sin información,2,0,2,0,0,0,0,2023,defunciones,Cuadro2
+19.0,,Rural disperso,Total,1698,44,713,737,201,2,1,2023,defunciones,Cuadro2
+19.0,,,Hospital/clínica,10,1,8,0,0,0,1,2023,defunciones,Cuadro2
+19.0,,,Centro/puesto de salud,7,0,3,4,0,0,0,2023,defunciones,Cuadro2
+19.0,,,Casa/domicilio,1018,32,676,111,198,1,0,2023,defunciones,Cuadro2
+19.0,,,Lugar de trabajo,13,0,0,12,0,1,0,2023,defunciones,Cuadro2
+19.0,,,Vía pública,443,6,16,419,2,0,0,2023,defunciones,Cuadro2
+19.0,,,Otro sitio,182,5,9,167,1,0,0,2023,defunciones,Cuadro2
+19.0,,,Sin información,25,0,1,24,0,0,0,2023,defunciones,Cuadro2
+19.0,,Sin información,Total,581,0,0,5,0,0,576,2023,defunciones,Cuadro2
+19.0,,,Hospital/clínica,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+19.0,,,Centro/puesto de salud,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+19.0,,,Casa/domicilio,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+19.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+19.0,,,Vía pública,2,0,0,2,0,0,0,2023,defunciones,Cuadro2
+19.0,,,Otro sitio,2,0,0,2,0,0,0,2023,defunciones,Cuadro2
+19.0,,,Sin información,577,0,0,1,0,0,576,2023,defunciones,Cuadro2
+20.0,20 Cesar,Total,Total,6098,1414,3617,1029,2,0,36,2023,defunciones,Cuadro2
+20.0,,,Hospital/clínica,4331,1316,2682,332,1,0,0,2023,defunciones,Cuadro2
+20.0,,,Centro/puesto de salud,28,4,7,17,0,0,0,2023,defunciones,Cuadro2
+20.0,,,Casa/domicilio,1153,81,890,175,1,0,6,2023,defunciones,Cuadro2
+20.0,,,Lugar de trabajo,17,0,3,14,0,0,0,2023,defunciones,Cuadro2
+20.0,,,Vía pública,363,5,18,336,0,0,4,2023,defunciones,Cuadro2
+20.0,,,Otro sitio,170,8,17,145,0,0,0,2023,defunciones,Cuadro2
+20.0,,,Sin información,36,0,0,10,0,0,26,2023,defunciones,Cuadro2
+20.0,,Cabecera municipal,Total,5439,1388,3367,682,2,0,0,2023,defunciones,Cuadro2
+20.0,,,Hospital/clínica,4295,1309,2653,332,1,0,0,2023,defunciones,Cuadro2
+20.0,,,Centro/puesto de salud,17,1,4,12,0,0,0,2023,defunciones,Cuadro2
+20.0,,,Casa/domicilio,886,68,684,133,1,0,0,2023,defunciones,Cuadro2
+20.0,,,Lugar de trabajo,9,0,3,6,0,0,0,2023,defunciones,Cuadro2
+20.0,,,Vía pública,166,4,11,151,0,0,0,2023,defunciones,Cuadro2
+20.0,,,Otro sitio,60,6,12,42,0,0,0,2023,defunciones,Cuadro2
+20.0,,,Sin información,6,0,0,6,0,0,0,2023,defunciones,Cuadro2
+20.0,,Centro poblado,Total,270,18,161,85,0,0,6,2023,defunciones,Cuadro2
+20.0,,,Hospital/clínica,35,7,28,0,0,0,0,2023,defunciones,Cuadro2
+20.0,,,Centro/puesto de salud,9,3,3,3,0,0,0,2023,defunciones,Cuadro2
+20.0,,,Casa/domicilio,161,7,123,25,0,0,6,2023,defunciones,Cuadro2
+20.0,,,Lugar de trabajo,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+20.0,,,Vía pública,41,1,4,36,0,0,0,2023,defunciones,Cuadro2
+20.0,,,Otro sitio,20,0,3,17,0,0,0,2023,defunciones,Cuadro2
+20.0,,,Sin información,3,0,0,3,0,0,0,2023,defunciones,Cuadro2
+20.0,,Rural disperso,Total,361,8,89,260,0,0,4,2023,defunciones,Cuadro2
+20.0,,,Hospital/clínica,1,0,1,0,0,0,0,2023,defunciones,Cuadro2
+20.0,,,Centro/puesto de salud,2,0,0,2,0,0,0,2023,defunciones,Cuadro2
+20.0,,,Casa/domicilio,106,6,83,17,0,0,0,2023,defunciones,Cuadro2
+20.0,,,Lugar de trabajo,7,0,0,7,0,0,0,2023,defunciones,Cuadro2
+20.0,,,Vía pública,154,0,3,147,0,0,4,2023,defunciones,Cuadro2
+20.0,,,Otro sitio,90,2,2,86,0,0,0,2023,defunciones,Cuadro2
+20.0,,,Sin información,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+20.0,,Sin información,Total,28,0,0,2,0,0,26,2023,defunciones,Cuadro2
+20.0,,,Hospital/clínica,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+20.0,,,Centro/puesto de salud,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+20.0,,,Casa/domicilio,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+20.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+20.0,,,Vía pública,2,0,0,2,0,0,0,2023,defunciones,Cuadro2
+20.0,,,Otro sitio,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+20.0,,,Sin información,26,0,0,0,0,0,26,2023,defunciones,Cuadro2
+23.0,23 Córdoba,Total,Total,9264,2697,5365,981,0,0,221,2023,defunciones,Cuadro2
+23.0,,,Hospital/clínica,6054,2660,3003,391,0,0,0,2023,defunciones,Cuadro2
+23.0,,,Centro/puesto de salud,43,9,26,8,0,0,0,2023,defunciones,Cuadro2
+23.0,,,Casa/domicilio,2435,18,2269,148,0,0,0,2023,defunciones,Cuadro2
+23.0,,,Lugar de trabajo,23,0,7,16,0,0,0,2023,defunciones,Cuadro2
+23.0,,,Vía pública,335,6,31,296,0,0,2,2023,defunciones,Cuadro2
+23.0,,,Otro sitio,143,4,26,113,0,0,0,2023,defunciones,Cuadro2
+23.0,,,Sin información,231,0,3,9,0,0,219,2023,defunciones,Cuadro2
+23.0,,Cabecera municipal,Total,7696,2682,4277,735,0,0,2,2023,defunciones,Cuadro2
+23.0,,,Hospital/clínica,6027,2656,2983,388,0,0,0,2023,defunciones,Cuadro2
+23.0,,,Centro/puesto de salud,34,9,18,7,0,0,0,2023,defunciones,Cuadro2
+23.0,,,Casa/domicilio,1352,11,1241,100,0,0,0,2023,defunciones,Cuadro2
+23.0,,,Lugar de trabajo,11,0,2,9,0,0,0,2023,defunciones,Cuadro2
+23.0,,,Vía pública,193,3,15,173,0,0,2,2023,defunciones,Cuadro2
+23.0,,,Otro sitio,74,3,17,54,0,0,0,2023,defunciones,Cuadro2
+23.0,,,Sin información,5,0,1,4,0,0,0,2023,defunciones,Cuadro2
+23.0,,Centro poblado,Total,580,6,491,83,0,0,0,2023,defunciones,Cuadro2
+23.0,,,Hospital/clínica,27,4,20,3,0,0,0,2023,defunciones,Cuadro2
+23.0,,,Centro/puesto de salud,4,0,4,0,0,0,0,2023,defunciones,Cuadro2
+23.0,,,Casa/domicilio,485,2,465,18,0,0,0,2023,defunciones,Cuadro2
+23.0,,,Lugar de trabajo,2,0,0,2,0,0,0,2023,defunciones,Cuadro2
+23.0,,,Vía pública,43,0,2,41,0,0,0,2023,defunciones,Cuadro2
+23.0,,,Otro sitio,19,0,0,19,0,0,0,2023,defunciones,Cuadro2
+23.0,,,Sin información,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+23.0,,Rural disperso,Total,767,9,597,161,0,0,0,2023,defunciones,Cuadro2
+23.0,,,Hospital/clínica,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+23.0,,,Centro/puesto de salud,5,0,4,1,0,0,0,2023,defunciones,Cuadro2
+23.0,,,Casa/domicilio,598,5,563,30,0,0,0,2023,defunciones,Cuadro2
+23.0,,,Lugar de trabajo,10,0,5,5,0,0,0,2023,defunciones,Cuadro2
+23.0,,,Vía pública,98,3,14,81,0,0,0,2023,defunciones,Cuadro2
+23.0,,,Otro sitio,50,1,9,40,0,0,0,2023,defunciones,Cuadro2
+23.0,,,Sin información,6,0,2,4,0,0,0,2023,defunciones,Cuadro2
+23.0,,Sin información,Total,221,0,0,2,0,0,219,2023,defunciones,Cuadro2
+23.0,,,Hospital/clínica,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+23.0,,,Centro/puesto de salud,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+23.0,,,Casa/domicilio,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+23.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+23.0,,,Vía pública,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+23.0,,,Otro sitio,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+23.0,,,Sin información,220,0,0,1,0,0,219,2023,defunciones,Cuadro2
+25.0,25 Cundinamarca,Total,Total,12610,3563,7077,1914,4,0,52,2023,defunciones,Cuadro2
+25.0,,,Hospital/clínica,6885,3247,3043,592,1,0,2,2023,defunciones,Cuadro2
+25.0,,,Centro/puesto de salud,112,22,50,40,0,0,0,2023,defunciones,Cuadro2
+25.0,,,Casa/domicilio,4415,279,3801,332,3,0,0,2023,defunciones,Cuadro2
+25.0,,,Lugar de trabajo,82,2,6,74,0,0,0,2023,defunciones,Cuadro2
+25.0,,,Vía pública,686,6,61,617,0,0,2,2023,defunciones,Cuadro2
+25.0,,,Otro sitio,361,6,114,240,0,0,1,2023,defunciones,Cuadro2
+25.0,,,Sin información,69,1,2,19,0,0,47,2023,defunciones,Cuadro2
+25.0,,Cabecera municipal,Total,10221,3440,5603,1171,3,0,4,2023,defunciones,Cuadro2
+25.0,,,Hospital/clínica,6850,3243,3012,592,1,0,2,2023,defunciones,Cuadro2
+25.0,,,Centro/puesto de salud,87,19,38,30,0,0,0,2023,defunciones,Cuadro2
+25.0,,,Casa/domicilio,2827,169,2444,212,2,0,0,2023,defunciones,Cuadro2
+25.0,,,Lugar de trabajo,19,1,3,15,0,0,0,2023,defunciones,Cuadro2
+25.0,,,Vía pública,294,3,28,261,0,0,2,2023,defunciones,Cuadro2
+25.0,,,Otro sitio,131,4,77,50,0,0,0,2023,defunciones,Cuadro2
+25.0,,,Sin información,13,1,1,11,0,0,0,2023,defunciones,Cuadro2
+25.0,,Centro poblado,Total,207,9,157,41,0,0,0,2023,defunciones,Cuadro2
+25.0,,,Hospital/clínica,20,3,17,0,0,0,0,2023,defunciones,Cuadro2
+25.0,,,Centro/puesto de salud,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+25.0,,,Casa/domicilio,146,6,127,13,0,0,0,2023,defunciones,Cuadro2
+25.0,,,Lugar de trabajo,2,0,1,1,0,0,0,2023,defunciones,Cuadro2
+25.0,,,Vía pública,28,0,7,21,0,0,0,2023,defunciones,Cuadro2
+25.0,,,Otro sitio,11,0,5,6,0,0,0,2023,defunciones,Cuadro2
+25.0,,,Sin información,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+25.0,,Rural disperso,Total,2101,114,1317,668,1,0,1,2023,defunciones,Cuadro2
+25.0,,,Hospital/clínica,15,1,14,0,0,0,0,2023,defunciones,Cuadro2
+25.0,,,Centro/puesto de salud,24,3,12,9,0,0,0,2023,defunciones,Cuadro2
+25.0,,,Casa/domicilio,1438,104,1230,103,1,0,0,2023,defunciones,Cuadro2
+25.0,,,Lugar de trabajo,61,1,2,58,0,0,0,2023,defunciones,Cuadro2
+25.0,,,Vía pública,345,3,26,316,0,0,0,2023,defunciones,Cuadro2
+25.0,,,Otro sitio,210,2,32,175,0,0,1,2023,defunciones,Cuadro2
+25.0,,,Sin información,8,0,1,7,0,0,0,2023,defunciones,Cuadro2
+25.0,,Sin información,Total,81,0,0,34,0,0,47,2023,defunciones,Cuadro2
+25.0,,,Hospital/clínica,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+25.0,,,Centro/puesto de salud,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+25.0,,,Casa/domicilio,4,0,0,4,0,0,0,2023,defunciones,Cuadro2
+25.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+25.0,,,Vía pública,19,0,0,19,0,0,0,2023,defunciones,Cuadro2
+25.0,,,Otro sitio,9,0,0,9,0,0,0,2023,defunciones,Cuadro2
+25.0,,,Sin información,48,0,0,1,0,0,47,2023,defunciones,Cuadro2
+27.0,27 Chocó,Total,Total,1712,401,832,296,29,0,154,2023,defunciones,Cuadro2
+27.0,,,Hospital/clínica,837,350,458,29,0,0,0,2023,defunciones,Cuadro2
+27.0,,,Centro/puesto de salud,36,21,12,3,0,0,0,2023,defunciones,Cuadro2
+27.0,,,Casa/domicilio,372,17,292,35,28,0,0,2023,defunciones,Cuadro2
+27.0,,,Lugar de trabajo,7,0,1,6,0,0,0,2023,defunciones,Cuadro2
+27.0,,,Vía pública,129,7,38,84,0,0,0,2023,defunciones,Cuadro2
+27.0,,,Otro sitio,136,5,21,110,0,0,0,2023,defunciones,Cuadro2
+27.0,,,Sin información,195,1,10,29,1,0,154,2023,defunciones,Cuadro2
+27.0,,Cabecera municipal,Total,1312,391,707,209,5,0,0,2023,defunciones,Cuadro2
+27.0,,,Hospital/clínica,791,346,416,29,0,0,0,2023,defunciones,Cuadro2
+27.0,,,Centro/puesto de salud,30,19,8,3,0,0,0,2023,defunciones,Cuadro2
+27.0,,,Casa/domicilio,298,16,248,29,5,0,0,2023,defunciones,Cuadro2
+27.0,,,Lugar de trabajo,3,0,0,3,0,0,0,2023,defunciones,Cuadro2
+27.0,,,Vía pública,88,7,20,61,0,0,0,2023,defunciones,Cuadro2
+27.0,,,Otro sitio,81,3,9,69,0,0,0,2023,defunciones,Cuadro2
+27.0,,,Sin información,21,0,6,15,0,0,0,2023,defunciones,Cuadro2
+27.0,,Centro poblado,Total,109,7,71,30,1,0,0,2023,defunciones,Cuadro2
+27.0,,,Hospital/clínica,44,4,40,0,0,0,0,2023,defunciones,Cuadro2
+27.0,,,Centro/puesto de salud,4,2,2,0,0,0,0,2023,defunciones,Cuadro2
+27.0,,,Casa/domicilio,27,1,24,1,1,0,0,2023,defunciones,Cuadro2
+27.0,,,Lugar de trabajo,2,0,0,2,0,0,0,2023,defunciones,Cuadro2
+27.0,,,Vía pública,9,0,2,7,0,0,0,2023,defunciones,Cuadro2
+27.0,,,Otro sitio,19,0,2,17,0,0,0,2023,defunciones,Cuadro2
+27.0,,,Sin información,4,0,1,3,0,0,0,2023,defunciones,Cuadro2
+27.0,,Rural disperso,Total,133,3,54,53,23,0,0,2023,defunciones,Cuadro2
+27.0,,,Hospital/clínica,2,0,2,0,0,0,0,2023,defunciones,Cuadro2
+27.0,,,Centro/puesto de salud,2,0,2,0,0,0,0,2023,defunciones,Cuadro2
+27.0,,,Casa/domicilio,47,0,20,5,22,0,0,2023,defunciones,Cuadro2
+27.0,,,Lugar de trabajo,2,0,1,1,0,0,0,2023,defunciones,Cuadro2
+27.0,,,Vía pública,30,0,16,14,0,0,0,2023,defunciones,Cuadro2
+27.0,,,Otro sitio,35,2,10,23,0,0,0,2023,defunciones,Cuadro2
+27.0,,,Sin información,15,1,3,10,1,0,0,2023,defunciones,Cuadro2
+27.0,,Sin información,Total,158,0,0,4,0,0,154,2023,defunciones,Cuadro2
+27.0,,,Hospital/clínica,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+27.0,,,Centro/puesto de salud,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+27.0,,,Casa/domicilio,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+27.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+27.0,,,Vía pública,2,0,0,2,0,0,0,2023,defunciones,Cuadro2
+27.0,,,Otro sitio,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+27.0,,,Sin información,155,0,0,1,0,0,154,2023,defunciones,Cuadro2
+41.0,41 Huila,Total,Total,6889,1821,3834,1221,12,0,1,2023,defunciones,Cuadro2
+41.0,,,Hospital/clínica,4146,1731,1973,442,0,0,0,2023,defunciones,Cuadro2
+41.0,,,Centro/puesto de salud,18,4,4,10,0,0,0,2023,defunciones,Cuadro2
+41.0,,,Casa/domicilio,2108,80,1791,224,12,0,1,2023,defunciones,Cuadro2
+41.0,,,Lugar de trabajo,15,0,3,12,0,0,0,2023,defunciones,Cuadro2
+41.0,,,Vía pública,299,2,18,279,0,0,0,2023,defunciones,Cuadro2
+41.0,,,Otro sitio,292,4,44,244,0,0,0,2023,defunciones,Cuadro2
+41.0,,,Sin información,11,0,1,10,0,0,0,2023,defunciones,Cuadro2
+41.0,,Cabecera municipal,Total,5803,1806,3165,831,0,0,1,2023,defunciones,Cuadro2
+41.0,,,Hospital/clínica,4119,1730,1947,442,0,0,0,2023,defunciones,Cuadro2
+41.0,,,Centro/puesto de salud,16,4,4,8,0,0,0,2023,defunciones,Cuadro2
+41.0,,,Casa/domicilio,1375,67,1165,142,0,0,1,2023,defunciones,Cuadro2
+41.0,,,Lugar de trabajo,5,0,2,3,0,0,0,2023,defunciones,Cuadro2
+41.0,,,Vía pública,156,1,8,147,0,0,0,2023,defunciones,Cuadro2
+41.0,,,Otro sitio,124,4,38,82,0,0,0,2023,defunciones,Cuadro2
+41.0,,,Sin información,8,0,1,7,0,0,0,2023,defunciones,Cuadro2
+41.0,,Centro poblado,Total,198,4,159,34,1,0,0,2023,defunciones,Cuadro2
+41.0,,,Hospital/clínica,27,1,26,0,0,0,0,2023,defunciones,Cuadro2
+41.0,,,Centro/puesto de salud,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+41.0,,,Casa/domicilio,139,3,126,9,1,0,0,2023,defunciones,Cuadro2
+41.0,,,Lugar de trabajo,2,0,1,1,0,0,0,2023,defunciones,Cuadro2
+41.0,,,Vía pública,19,0,3,16,0,0,0,2023,defunciones,Cuadro2
+41.0,,,Otro sitio,11,0,3,8,0,0,0,2023,defunciones,Cuadro2
+41.0,,,Sin información,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+41.0,,Rural disperso,Total,883,11,510,351,11,0,0,2023,defunciones,Cuadro2
+41.0,,,Hospital/clínica,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+41.0,,,Centro/puesto de salud,2,0,0,2,0,0,0,2023,defunciones,Cuadro2
+41.0,,,Casa/domicilio,593,10,500,72,11,0,0,2023,defunciones,Cuadro2
+41.0,,,Lugar de trabajo,8,0,0,8,0,0,0,2023,defunciones,Cuadro2
+41.0,,,Vía pública,123,1,7,115,0,0,0,2023,defunciones,Cuadro2
+41.0,,,Otro sitio,154,0,3,151,0,0,0,2023,defunciones,Cuadro2
+41.0,,,Sin información,3,0,0,3,0,0,0,2023,defunciones,Cuadro2
+41.0,,Sin información,Total,5,0,0,5,0,0,0,2023,defunciones,Cuadro2
+41.0,,,Hospital/clínica,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+41.0,,,Centro/puesto de salud,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+41.0,,,Casa/domicilio,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+41.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+41.0,,,Vía pública,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+41.0,,,Otro sitio,3,0,0,3,0,0,0,2023,defunciones,Cuadro2
+41.0,,,Sin información,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+44.0,44 La Guajira,Total,Total,2695,951,1213,380,73,0,78,2023,defunciones,Cuadro2
+44.0,,,Hospital/clínica,1860,908,868,81,1,0,2,2023,defunciones,Cuadro2
+44.0,,,Centro/puesto de salud,16,4,3,9,0,0,0,2023,defunciones,Cuadro2
+44.0,,,Casa/domicilio,515,35,331,62,71,0,16,2023,defunciones,Cuadro2
+44.0,,,Lugar de trabajo,6,0,0,5,0,0,1,2023,defunciones,Cuadro2
+44.0,,,Vía pública,156,1,2,146,1,0,6,2023,defunciones,Cuadro2
+44.0,,,Otro sitio,87,3,8,76,0,0,0,2023,defunciones,Cuadro2
+44.0,,,Sin información,55,0,1,1,0,0,53,2023,defunciones,Cuadro2
+44.0,,Cabecera municipal,Total,2312,926,1086,247,49,0,4,2023,defunciones,Cuadro2
+44.0,,,Hospital/clínica,1835,896,857,81,1,0,0,2023,defunciones,Cuadro2
+44.0,,,Centro/puesto de salud,8,1,0,7,0,0,0,2023,defunciones,Cuadro2
+44.0,,,Casa/domicilio,347,28,225,45,48,0,1,2023,defunciones,Cuadro2
+44.0,,,Lugar de trabajo,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+44.0,,,Vía pública,84,0,2,79,0,0,3,2023,defunciones,Cuadro2
+44.0,,,Otro sitio,35,1,1,33,0,0,0,2023,defunciones,Cuadro2
+44.0,,,Sin información,2,0,1,1,0,0,0,2023,defunciones,Cuadro2
+44.0,,Centro poblado,Total,97,19,53,22,3,0,0,2023,defunciones,Cuadro2
+44.0,,,Hospital/clínica,22,12,10,0,0,0,0,2023,defunciones,Cuadro2
+44.0,,,Centro/puesto de salud,6,3,3,0,0,0,0,2023,defunciones,Cuadro2
+44.0,,,Casa/domicilio,52,2,39,8,3,0,0,2023,defunciones,Cuadro2
+44.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+44.0,,,Vía pública,10,1,0,9,0,0,0,2023,defunciones,Cuadro2
+44.0,,,Otro sitio,7,1,1,5,0,0,0,2023,defunciones,Cuadro2
+44.0,,,Sin información,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+44.0,,Rural disperso,Total,233,6,74,111,21,0,21,2023,defunciones,Cuadro2
+44.0,,,Hospital/clínica,3,0,1,0,0,0,2,2023,defunciones,Cuadro2
+44.0,,,Centro/puesto de salud,2,0,0,2,0,0,0,2023,defunciones,Cuadro2
+44.0,,,Casa/domicilio,116,5,67,9,20,0,15,2023,defunciones,Cuadro2
+44.0,,,Lugar de trabajo,5,0,0,4,0,0,1,2023,defunciones,Cuadro2
+44.0,,,Vía pública,62,0,0,58,1,0,3,2023,defunciones,Cuadro2
+44.0,,,Otro sitio,45,1,6,38,0,0,0,2023,defunciones,Cuadro2
+44.0,,,Sin información,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+44.0,,Sin información,Total,53,0,0,0,0,0,53,2023,defunciones,Cuadro2
+44.0,,,Hospital/clínica,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+44.0,,,Centro/puesto de salud,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+44.0,,,Casa/domicilio,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+44.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+44.0,,,Vía pública,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+44.0,,,Otro sitio,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+44.0,,,Sin información,53,0,0,0,0,0,53,2023,defunciones,Cuadro2
+47.0,47 Magdalena,Total,Total,6246,1930,3255,960,9,0,92,2023,defunciones,Cuadro2
+47.0,,,Hospital/clínica,3821,1865,1775,180,1,0,0,2023,defunciones,Cuadro2
+47.0,,,Centro/puesto de salud,57,9,28,20,0,0,0,2023,defunciones,Cuadro2
+47.0,,,Casa/domicilio,1584,52,1399,119,8,0,6,2023,defunciones,Cuadro2
+47.0,,,Lugar de trabajo,14,0,5,9,0,0,0,2023,defunciones,Cuadro2
+47.0,,,Vía pública,447,0,21,422,0,0,4,2023,defunciones,Cuadro2
+47.0,,,Otro sitio,233,4,26,202,0,0,1,2023,defunciones,Cuadro2
+47.0,,,Sin información,90,0,1,8,0,0,81,2023,defunciones,Cuadro2
+47.0,,Cabecera municipal,Total,5503,1917,2803,781,2,0,0,2023,defunciones,Cuadro2
+47.0,,,Hospital/clínica,3785,1862,1743,180,0,0,0,2023,defunciones,Cuadro2
+47.0,,,Centro/puesto de salud,39,7,15,17,0,0,0,2023,defunciones,Cuadro2
+47.0,,,Casa/domicilio,1144,45,1006,91,2,0,0,2023,defunciones,Cuadro2
+47.0,,,Lugar de trabajo,9,0,3,6,0,0,0,2023,defunciones,Cuadro2
+47.0,,,Vía pública,330,0,14,316,0,0,0,2023,defunciones,Cuadro2
+47.0,,,Otro sitio,190,3,21,166,0,0,0,2023,defunciones,Cuadro2
+47.0,,,Sin información,6,0,1,5,0,0,0,2023,defunciones,Cuadro2
+47.0,,Centro poblado,Total,511,9,398,93,6,0,5,2023,defunciones,Cuadro2
+47.0,,,Hospital/clínica,36,3,32,0,1,0,0,2023,defunciones,Cuadro2
+47.0,,,Centro/puesto de salud,15,1,12,2,0,0,0,2023,defunciones,Cuadro2
+47.0,,,Casa/domicilio,370,5,345,14,5,0,1,2023,defunciones,Cuadro2
+47.0,,,Lugar de trabajo,2,0,1,1,0,0,0,2023,defunciones,Cuadro2
+47.0,,,Vía pública,65,0,4,58,0,0,3,2023,defunciones,Cuadro2
+47.0,,,Otro sitio,21,0,4,16,0,0,1,2023,defunciones,Cuadro2
+47.0,,,Sin información,2,0,0,2,0,0,0,2023,defunciones,Cuadro2
+47.0,,Rural disperso,Total,148,4,54,83,1,0,6,2023,defunciones,Cuadro2
+47.0,,,Hospital/clínica,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+47.0,,,Centro/puesto de salud,3,1,1,1,0,0,0,2023,defunciones,Cuadro2
+47.0,,,Casa/domicilio,69,2,48,13,1,0,5,2023,defunciones,Cuadro2
+47.0,,,Lugar de trabajo,3,0,1,2,0,0,0,2023,defunciones,Cuadro2
+47.0,,,Vía pública,50,0,3,46,0,0,1,2023,defunciones,Cuadro2
+47.0,,,Otro sitio,22,1,1,20,0,0,0,2023,defunciones,Cuadro2
+47.0,,,Sin información,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+47.0,,Sin información,Total,84,0,0,3,0,0,81,2023,defunciones,Cuadro2
+47.0,,,Hospital/clínica,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+47.0,,,Centro/puesto de salud,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+47.0,,,Casa/domicilio,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+47.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+47.0,,,Vía pública,2,0,0,2,0,0,0,2023,defunciones,Cuadro2
+47.0,,,Otro sitio,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+47.0,,,Sin información,81,0,0,0,0,0,81,2023,defunciones,Cuadro2
+50.0,50 Meta,Total,Total,5649,1933,2729,971,1,0,15,2023,defunciones,Cuadro2
+50.0,,,Hospital/clínica,3762,1807,1545,407,0,0,3,2023,defunciones,Cuadro2
+50.0,,,Centro/puesto de salud,62,22,35,5,0,0,0,2023,defunciones,Cuadro2
+50.0,,,Casa/domicilio,1317,95,1095,126,1,0,0,2023,defunciones,Cuadro2
+50.0,,,Lugar de trabajo,27,0,4,23,0,0,0,2023,defunciones,Cuadro2
+50.0,,,Vía pública,281,2,13,266,0,0,0,2023,defunciones,Cuadro2
+50.0,,,Otro sitio,177,7,34,136,0,0,0,2023,defunciones,Cuadro2
+50.0,,,Sin información,23,0,3,8,0,0,12,2023,defunciones,Cuadro2
+50.0,,Cabecera municipal,Total,5101,1916,2495,689,0,0,1,2023,defunciones,Cuadro2
+50.0,,,Hospital/clínica,3752,1805,1539,407,0,0,1,2023,defunciones,Cuadro2
+50.0,,,Centro/puesto de salud,56,20,32,4,0,0,0,2023,defunciones,Cuadro2
+50.0,,,Casa/domicilio,1062,85,894,83,0,0,0,2023,defunciones,Cuadro2
+50.0,,,Lugar de trabajo,12,0,2,10,0,0,0,2023,defunciones,Cuadro2
+50.0,,,Vía pública,139,2,6,131,0,0,0,2023,defunciones,Cuadro2
+50.0,,,Otro sitio,74,4,20,50,0,0,0,2023,defunciones,Cuadro2
+50.0,,,Sin información,6,0,2,4,0,0,0,2023,defunciones,Cuadro2
+50.0,,Centro poblado,Total,99,5,62,32,0,0,0,2023,defunciones,Cuadro2
+50.0,,,Hospital/clínica,8,2,6,0,0,0,0,2023,defunciones,Cuadro2
+50.0,,,Centro/puesto de salud,3,1,2,0,0,0,0,2023,defunciones,Cuadro2
+50.0,,,Casa/domicilio,60,2,47,11,0,0,0,2023,defunciones,Cuadro2
+50.0,,,Lugar de trabajo,2,0,0,2,0,0,0,2023,defunciones,Cuadro2
+50.0,,,Vía pública,16,0,2,14,0,0,0,2023,defunciones,Cuadro2
+50.0,,,Otro sitio,10,0,5,5,0,0,0,2023,defunciones,Cuadro2
+50.0,,,Sin información,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+50.0,,Rural disperso,Total,436,12,172,249,1,0,2,2023,defunciones,Cuadro2
+50.0,,,Hospital/clínica,2,0,0,0,0,0,2,2023,defunciones,Cuadro2
+50.0,,,Centro/puesto de salud,3,1,1,1,0,0,0,2023,defunciones,Cuadro2
+50.0,,,Casa/domicilio,195,8,154,32,1,0,0,2023,defunciones,Cuadro2
+50.0,,,Lugar de trabajo,13,0,2,11,0,0,0,2023,defunciones,Cuadro2
+50.0,,,Vía pública,126,0,5,121,0,0,0,2023,defunciones,Cuadro2
+50.0,,,Otro sitio,92,3,9,80,0,0,0,2023,defunciones,Cuadro2
+50.0,,,Sin información,5,0,1,4,0,0,0,2023,defunciones,Cuadro2
+50.0,,Sin información,Total,13,0,0,1,0,0,12,2023,defunciones,Cuadro2
+50.0,,,Hospital/clínica,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+50.0,,,Centro/puesto de salud,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+50.0,,,Casa/domicilio,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+50.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+50.0,,,Vía pública,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+50.0,,,Otro sitio,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+50.0,,,Sin información,12,0,0,0,0,0,12,2023,defunciones,Cuadro2
+52.0,52 Nariño,Total,Total,8080,1417,5373,1143,18,2,127,2023,defunciones,Cuadro2
+52.0,,,Hospital/clínica,4210,1226,2609,374,0,0,1,2023,defunciones,Cuadro2
+52.0,,,Centro/puesto de salud,79,9,47,22,0,0,1,2023,defunciones,Cuadro2
+52.0,,,Casa/domicilio,2898,164,2519,198,15,2,0,2023,defunciones,Cuadro2
+52.0,,,Lugar de trabajo,41,3,15,23,0,0,0,2023,defunciones,Cuadro2
+52.0,,,Vía pública,436,7,80,344,1,0,4,2023,defunciones,Cuadro2
+52.0,,,Otro sitio,271,8,93,167,1,0,2,2023,defunciones,Cuadro2
+52.0,,,Sin información,145,0,10,15,1,0,119,2023,defunciones,Cuadro2
+52.0,,Cabecera municipal,Total,6019,1333,3928,747,5,1,5,2023,defunciones,Cuadro2
+52.0,,,Hospital/clínica,4150,1198,2579,372,0,0,1,2023,defunciones,Cuadro2
+52.0,,,Centro/puesto de salud,60,9,38,12,0,0,1,2023,defunciones,Cuadro2
+52.0,,,Casa/domicilio,1473,114,1234,121,3,1,0,2023,defunciones,Cuadro2
+52.0,,,Lugar de trabajo,17,1,4,12,0,0,0,2023,defunciones,Cuadro2
+52.0,,,Vía pública,203,4,31,165,1,0,2,2023,defunciones,Cuadro2
+52.0,,,Otro sitio,113,7,41,63,1,0,1,2023,defunciones,Cuadro2
+52.0,,,Sin información,3,0,1,2,0,0,0,2023,defunciones,Cuadro2
+52.0,,Centro poblado,Total,458,48,347,60,3,0,0,2023,defunciones,Cuadro2
+52.0,,,Hospital/clínica,54,28,25,1,0,0,0,2023,defunciones,Cuadro2
+52.0,,,Centro/puesto de salud,6,0,5,1,0,0,0,2023,defunciones,Cuadro2
+52.0,,,Casa/domicilio,335,18,297,17,3,0,0,2023,defunciones,Cuadro2
+52.0,,,Lugar de trabajo,3,1,1,1,0,0,0,2023,defunciones,Cuadro2
+52.0,,,Vía pública,42,1,8,33,0,0,0,2023,defunciones,Cuadro2
+52.0,,,Otro sitio,17,0,11,6,0,0,0,2023,defunciones,Cuadro2
+52.0,,,Sin información,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+52.0,,Rural disperso,Total,1482,36,1098,334,10,1,3,2023,defunciones,Cuadro2
+52.0,,,Hospital/clínica,6,0,5,1,0,0,0,2023,defunciones,Cuadro2
+52.0,,,Centro/puesto de salud,13,0,4,9,0,0,0,2023,defunciones,Cuadro2
+52.0,,,Casa/domicilio,1088,32,988,58,9,1,0,2023,defunciones,Cuadro2
+52.0,,,Lugar de trabajo,21,1,10,10,0,0,0,2023,defunciones,Cuadro2
+52.0,,,Vía pública,191,2,41,146,0,0,2,2023,defunciones,Cuadro2
+52.0,,,Otro sitio,141,1,41,98,0,0,1,2023,defunciones,Cuadro2
+52.0,,,Sin información,22,0,9,12,1,0,0,2023,defunciones,Cuadro2
+52.0,,Sin información,Total,121,0,0,2,0,0,119,2023,defunciones,Cuadro2
+52.0,,,Hospital/clínica,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+52.0,,,Centro/puesto de salud,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+52.0,,,Casa/domicilio,2,0,0,2,0,0,0,2023,defunciones,Cuadro2
+52.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+52.0,,,Vía pública,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+52.0,,,Otro sitio,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+52.0,,,Sin información,119,0,0,0,0,0,119,2023,defunciones,Cuadro2
+54.0,54 Norte de Santander,Total,Total,8890,2199,5389,1229,0,5,68,2023,defunciones,Cuadro2
+54.0,,,Hospital/clínica,5408,2033,3044,329,0,0,2,2023,defunciones,Cuadro2
+54.0,,,Centro/puesto de salud,92,30,47,15,0,0,0,2023,defunciones,Cuadro2
+54.0,,,Casa/domicilio,2498,128,2202,163,0,5,0,2023,defunciones,Cuadro2
+54.0,,,Lugar de trabajo,47,0,5,42,0,0,0,2023,defunciones,Cuadro2
+54.0,,,Vía pública,544,1,46,497,0,0,0,2023,defunciones,Cuadro2
+54.0,,,Otro sitio,193,7,42,143,0,0,1,2023,defunciones,Cuadro2
+54.0,,,Sin información,108,0,3,40,0,0,65,2023,defunciones,Cuadro2
+54.0,,Cabecera municipal,Total,8031,2163,4963,904,0,0,1,2023,defunciones,Cuadro2
+54.0,,,Hospital/clínica,5371,2029,3013,329,0,0,0,2023,defunciones,Cuadro2
+54.0,,,Centro/puesto de salud,74,23,37,14,0,0,0,2023,defunciones,Cuadro2
+54.0,,,Casa/domicilio,2082,105,1850,127,0,0,0,2023,defunciones,Cuadro2
+54.0,,,Lugar de trabajo,21,0,2,19,0,0,0,2023,defunciones,Cuadro2
+54.0,,,Vía pública,339,0,28,311,0,0,0,2023,defunciones,Cuadro2
+54.0,,,Otro sitio,112,6,32,73,0,0,1,2023,defunciones,Cuadro2
+54.0,,,Sin información,32,0,1,31,0,0,0,2023,defunciones,Cuadro2
+54.0,,Centro poblado,Total,256,20,135,98,0,3,0,2023,defunciones,Cuadro2
+54.0,,,Hospital/clínica,35,4,31,0,0,0,0,2023,defunciones,Cuadro2
+54.0,,,Centro/puesto de salud,15,7,8,0,0,0,0,2023,defunciones,Cuadro2
+54.0,,,Casa/domicilio,110,9,89,9,0,3,0,2023,defunciones,Cuadro2
+54.0,,,Lugar de trabajo,11,0,0,11,0,0,0,2023,defunciones,Cuadro2
+54.0,,,Vía pública,60,0,5,55,0,0,0,2023,defunciones,Cuadro2
+54.0,,,Otro sitio,22,0,2,20,0,0,0,2023,defunciones,Cuadro2
+54.0,,,Sin información,3,0,0,3,0,0,0,2023,defunciones,Cuadro2
+54.0,,Rural disperso,Total,528,16,291,217,0,2,2,2023,defunciones,Cuadro2
+54.0,,,Hospital/clínica,2,0,0,0,0,0,2,2023,defunciones,Cuadro2
+54.0,,,Centro/puesto de salud,3,0,2,1,0,0,0,2023,defunciones,Cuadro2
+54.0,,,Casa/domicilio,306,14,263,27,0,2,0,2023,defunciones,Cuadro2
+54.0,,,Lugar de trabajo,15,0,3,12,0,0,0,2023,defunciones,Cuadro2
+54.0,,,Vía pública,137,1,13,123,0,0,0,2023,defunciones,Cuadro2
+54.0,,,Otro sitio,57,1,8,48,0,0,0,2023,defunciones,Cuadro2
+54.0,,,Sin información,8,0,2,6,0,0,0,2023,defunciones,Cuadro2
+54.0,,Sin información,Total,75,0,0,10,0,0,65,2023,defunciones,Cuadro2
+54.0,,,Hospital/clínica,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+54.0,,,Centro/puesto de salud,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+54.0,,,Casa/domicilio,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+54.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+54.0,,,Vía pública,8,0,0,8,0,0,0,2023,defunciones,Cuadro2
+54.0,,,Otro sitio,2,0,0,2,0,0,0,2023,defunciones,Cuadro2
+54.0,,,Sin información,65,0,0,0,0,0,65,2023,defunciones,Cuadro2
+63.0,63 Quindío,Total,Total,4372,1683,2089,583,0,0,17,2023,defunciones,Cuadro2
+63.0,,,Hospital/clínica,2960,1562,1174,222,0,0,2,2023,defunciones,Cuadro2
+63.0,,,Centro/puesto de salud,8,2,0,6,0,0,0,2023,defunciones,Cuadro2
+63.0,,,Casa/domicilio,1134,115,902,116,0,0,1,2023,defunciones,Cuadro2
+63.0,,,Lugar de trabajo,4,0,1,3,0,0,0,2023,defunciones,Cuadro2
+63.0,,,Vía pública,147,1,2,141,0,0,3,2023,defunciones,Cuadro2
+63.0,,,Otro sitio,101,3,8,89,0,0,1,2023,defunciones,Cuadro2
+63.0,,,Sin información,18,0,2,6,0,0,10,2023,defunciones,Cuadro2
+63.0,,Cabecera municipal,Total,4152,1666,1985,495,0,0,6,2023,defunciones,Cuadro2
+63.0,,,Hospital/clínica,2954,1558,1172,222,0,0,2,2023,defunciones,Cuadro2
+63.0,,,Centro/puesto de salud,8,2,0,6,0,0,0,2023,defunciones,Cuadro2
+63.0,,,Casa/domicilio,997,103,801,92,0,0,1,2023,defunciones,Cuadro2
+63.0,,,Lugar de trabajo,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+63.0,,,Vía pública,115,1,2,110,0,0,2,2023,defunciones,Cuadro2
+63.0,,,Otro sitio,70,2,8,60,0,0,0,2023,defunciones,Cuadro2
+63.0,,,Sin información,7,0,2,4,0,0,1,2023,defunciones,Cuadro2
+63.0,,Centro poblado,Total,41,6,29,6,0,0,0,2023,defunciones,Cuadro2
+63.0,,,Hospital/clínica,6,4,2,0,0,0,0,2023,defunciones,Cuadro2
+63.0,,,Centro/puesto de salud,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+63.0,,,Casa/domicilio,31,1,27,3,0,0,0,2023,defunciones,Cuadro2
+63.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+63.0,,,Vía pública,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+63.0,,,Otro sitio,4,1,0,3,0,0,0,2023,defunciones,Cuadro2
+63.0,,,Sin información,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+63.0,,Rural disperso,Total,161,11,75,73,0,0,2,2023,defunciones,Cuadro2
+63.0,,,Hospital/clínica,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+63.0,,,Centro/puesto de salud,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+63.0,,,Casa/domicilio,103,11,74,18,0,0,0,2023,defunciones,Cuadro2
+63.0,,,Lugar de trabajo,3,0,1,2,0,0,0,2023,defunciones,Cuadro2
+63.0,,,Vía pública,29,0,0,28,0,0,1,2023,defunciones,Cuadro2
+63.0,,,Otro sitio,26,0,0,25,0,0,1,2023,defunciones,Cuadro2
+63.0,,,Sin información,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+63.0,,Sin información,Total,18,0,0,9,0,0,9,2023,defunciones,Cuadro2
+63.0,,,Hospital/clínica,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+63.0,,,Centro/puesto de salud,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+63.0,,,Casa/domicilio,3,0,0,3,0,0,0,2023,defunciones,Cuadro2
+63.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+63.0,,,Vía pública,3,0,0,3,0,0,0,2023,defunciones,Cuadro2
+63.0,,,Otro sitio,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+63.0,,,Sin información,11,0,0,2,0,0,9,2023,defunciones,Cuadro2
+66.0,66 Risaralda,Total,Total,7429,2508,4099,811,6,0,5,2023,defunciones,Cuadro2
+66.0,,,Hospital/clínica,5097,2357,2373,365,0,0,2,2023,defunciones,Cuadro2
+66.0,,,Centro/puesto de salud,7,2,2,3,0,0,0,2023,defunciones,Cuadro2
+66.0,,,Casa/domicilio,1928,140,1657,125,6,0,0,2023,defunciones,Cuadro2
+66.0,,,Lugar de trabajo,15,1,3,11,0,0,0,2023,defunciones,Cuadro2
+66.0,,,Vía pública,240,4,20,216,0,0,0,2023,defunciones,Cuadro2
+66.0,,,Otro sitio,137,4,44,89,0,0,0,2023,defunciones,Cuadro2
+66.0,,,Sin información,5,0,0,2,0,0,3,2023,defunciones,Cuadro2
+66.0,,Cabecera municipal,Total,6877,2468,3739,668,1,0,1,2023,defunciones,Cuadro2
+66.0,,,Hospital/clínica,5081,2353,2362,365,0,0,1,2023,defunciones,Cuadro2
+66.0,,,Centro/puesto de salud,3,1,1,1,0,0,0,2023,defunciones,Cuadro2
+66.0,,,Casa/domicilio,1532,108,1331,92,1,0,0,2023,defunciones,Cuadro2
+66.0,,,Lugar de trabajo,10,0,3,7,0,0,0,2023,defunciones,Cuadro2
+66.0,,,Vía pública,174,2,10,162,0,0,0,2023,defunciones,Cuadro2
+66.0,,,Otro sitio,76,4,32,40,0,0,0,2023,defunciones,Cuadro2
+66.0,,,Sin información,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+66.0,,Centro poblado,Total,140,10,111,19,0,0,0,2023,defunciones,Cuadro2
+66.0,,,Hospital/clínica,15,4,11,0,0,0,0,2023,defunciones,Cuadro2
+66.0,,,Centro/puesto de salud,2,1,1,0,0,0,0,2023,defunciones,Cuadro2
+66.0,,,Casa/domicilio,102,4,90,8,0,0,0,2023,defunciones,Cuadro2
+66.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+66.0,,,Vía pública,9,1,2,6,0,0,0,2023,defunciones,Cuadro2
+66.0,,,Otro sitio,12,0,7,5,0,0,0,2023,defunciones,Cuadro2
+66.0,,,Sin información,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+66.0,,Rural disperso,Total,406,30,249,122,5,0,0,2023,defunciones,Cuadro2
+66.0,,,Hospital/clínica,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+66.0,,,Centro/puesto de salud,2,0,0,2,0,0,0,2023,defunciones,Cuadro2
+66.0,,,Casa/domicilio,294,28,236,25,5,0,0,2023,defunciones,Cuadro2
+66.0,,,Lugar de trabajo,5,1,0,4,0,0,0,2023,defunciones,Cuadro2
+66.0,,,Vía pública,56,1,8,47,0,0,0,2023,defunciones,Cuadro2
+66.0,,,Otro sitio,48,0,5,43,0,0,0,2023,defunciones,Cuadro2
+66.0,,,Sin información,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+66.0,,Sin información,Total,6,0,0,2,0,0,4,2023,defunciones,Cuadro2
+66.0,,,Hospital/clínica,1,0,0,0,0,0,1,2023,defunciones,Cuadro2
+66.0,,,Centro/puesto de salud,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+66.0,,,Casa/domicilio,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+66.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+66.0,,,Vía pública,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+66.0,,,Otro sitio,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+66.0,,,Sin información,3,0,0,0,0,0,3,2023,defunciones,Cuadro2
+68.0,68 Santander,Total,Total,12812,3309,7932,1543,14,0,14,2023,defunciones,Cuadro2
+68.0,,,Hospital/clínica,8255,3020,4618,614,1,0,2,2023,defunciones,Cuadro2
+68.0,,,Centro/puesto de salud,53,11,17,25,0,0,0,2023,defunciones,Cuadro2
+68.0,,,Casa/domicilio,3619,243,3131,232,12,0,1,2023,defunciones,Cuadro2
+68.0,,,Lugar de trabajo,41,0,4,37,0,0,0,2023,defunciones,Cuadro2
+68.0,,,Vía pública,455,4,44,405,1,0,1,2023,defunciones,Cuadro2
+68.0,,,Otro sitio,368,31,113,224,0,0,0,2023,defunciones,Cuadro2
+68.0,,,Sin información,21,0,5,6,0,0,10,2023,defunciones,Cuadro2
+68.0,,Cabecera municipal,Total,11661,3228,7213,1213,3,0,4,2023,defunciones,Cuadro2
+68.0,,,Hospital/clínica,8244,3018,4609,614,1,0,2,2023,defunciones,Cuadro2
+68.0,,,Centro/puesto de salud,37,10,12,15,0,0,0,2023,defunciones,Cuadro2
+68.0,,,Casa/domicilio,2843,176,2483,181,2,0,1,2023,defunciones,Cuadro2
+68.0,,,Lugar de trabajo,16,0,3,13,0,0,0,2023,defunciones,Cuadro2
+68.0,,,Vía pública,292,2,27,262,0,0,1,2023,defunciones,Cuadro2
+68.0,,,Otro sitio,221,22,75,124,0,0,0,2023,defunciones,Cuadro2
+68.0,,,Sin información,8,0,4,4,0,0,0,2023,defunciones,Cuadro2
+68.0,,Centro poblado,Total,171,6,105,56,4,0,0,2023,defunciones,Cuadro2
+68.0,,,Hospital/clínica,11,2,9,0,0,0,0,2023,defunciones,Cuadro2
+68.0,,,Centro/puesto de salud,4,0,3,1,0,0,0,2023,defunciones,Cuadro2
+68.0,,,Casa/domicilio,108,2,90,13,3,0,0,2023,defunciones,Cuadro2
+68.0,,,Lugar de trabajo,3,0,0,3,0,0,0,2023,defunciones,Cuadro2
+68.0,,,Vía pública,33,0,2,30,1,0,0,2023,defunciones,Cuadro2
+68.0,,,Otro sitio,12,2,1,9,0,0,0,2023,defunciones,Cuadro2
+68.0,,,Sin información,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+68.0,,Rural disperso,Total,964,75,614,268,7,0,0,2023,defunciones,Cuadro2
+68.0,,,Hospital/clínica,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+68.0,,,Centro/puesto de salud,12,1,2,9,0,0,0,2023,defunciones,Cuadro2
+68.0,,,Casa/domicilio,668,65,558,38,7,0,0,2023,defunciones,Cuadro2
+68.0,,,Lugar de trabajo,22,0,1,21,0,0,0,2023,defunciones,Cuadro2
+68.0,,,Vía pública,126,2,15,109,0,0,0,2023,defunciones,Cuadro2
+68.0,,,Otro sitio,134,7,37,90,0,0,0,2023,defunciones,Cuadro2
+68.0,,,Sin información,2,0,1,1,0,0,0,2023,defunciones,Cuadro2
+68.0,,Sin información,Total,16,0,0,6,0,0,10,2023,defunciones,Cuadro2
+68.0,,,Hospital/clínica,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+68.0,,,Centro/puesto de salud,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+68.0,,,Casa/domicilio,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+68.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+68.0,,,Vía pública,4,0,0,4,0,0,0,2023,defunciones,Cuadro2
+68.0,,,Otro sitio,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+68.0,,,Sin información,11,0,0,1,0,0,10,2023,defunciones,Cuadro2
+70.0,70 Sucre,Total,Total,4706,1748,2197,647,1,0,113,2023,defunciones,Cuadro2
+70.0,,,Hospital/clínica,3165,1686,1211,265,1,0,2,2023,defunciones,Cuadro2
+70.0,,,Centro/puesto de salud,43,8,31,4,0,0,0,2023,defunciones,Cuadro2
+70.0,,,Casa/domicilio,1074,53,921,99,0,0,1,2023,defunciones,Cuadro2
+70.0,,,Lugar de trabajo,7,0,2,5,0,0,0,2023,defunciones,Cuadro2
+70.0,,,Vía pública,234,1,24,207,0,0,2,2023,defunciones,Cuadro2
+70.0,,,Otro sitio,72,0,8,64,0,0,0,2023,defunciones,Cuadro2
+70.0,,,Sin información,111,0,0,3,0,0,108,2023,defunciones,Cuadro2
+70.0,,Cabecera municipal,Total,4021,1738,1779,500,1,0,3,2023,defunciones,Cuadro2
+70.0,,,Hospital/clínica,3103,1686,1150,265,1,0,1,2023,defunciones,Cuadro2
+70.0,,,Centro/puesto de salud,34,6,24,4,0,0,0,2023,defunciones,Cuadro2
+70.0,,,Casa/domicilio,703,45,586,71,0,0,1,2023,defunciones,Cuadro2
+70.0,,,Lugar de trabajo,5,0,1,4,0,0,0,2023,defunciones,Cuadro2
+70.0,,,Vía pública,141,1,15,124,0,0,1,2023,defunciones,Cuadro2
+70.0,,,Otro sitio,34,0,3,31,0,0,0,2023,defunciones,Cuadro2
+70.0,,,Sin información,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+70.0,,Centro poblado,Total,311,7,285,18,0,0,1,2023,defunciones,Cuadro2
+70.0,,,Hospital/clínica,62,0,61,0,0,0,1,2023,defunciones,Cuadro2
+70.0,,,Centro/puesto de salud,7,1,6,0,0,0,0,2023,defunciones,Cuadro2
+70.0,,,Casa/domicilio,222,6,210,6,0,0,0,2023,defunciones,Cuadro2
+70.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+70.0,,,Vía pública,16,0,5,11,0,0,0,2023,defunciones,Cuadro2
+70.0,,,Otro sitio,4,0,3,1,0,0,0,2023,defunciones,Cuadro2
+70.0,,,Sin información,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+70.0,,Rural disperso,Total,264,3,133,127,0,0,1,2023,defunciones,Cuadro2
+70.0,,,Hospital/clínica,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+70.0,,,Centro/puesto de salud,2,1,1,0,0,0,0,2023,defunciones,Cuadro2
+70.0,,,Casa/domicilio,149,2,125,22,0,0,0,2023,defunciones,Cuadro2
+70.0,,,Lugar de trabajo,2,0,1,1,0,0,0,2023,defunciones,Cuadro2
+70.0,,,Vía pública,77,0,4,72,0,0,1,2023,defunciones,Cuadro2
+70.0,,,Otro sitio,34,0,2,32,0,0,0,2023,defunciones,Cuadro2
+70.0,,,Sin información,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+70.0,,Sin información,Total,110,0,0,2,0,0,108,2023,defunciones,Cuadro2
+70.0,,,Hospital/clínica,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+70.0,,,Centro/puesto de salud,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+70.0,,,Casa/domicilio,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+70.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+70.0,,,Vía pública,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+70.0,,,Otro sitio,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+70.0,,,Sin información,110,0,0,2,0,0,108,2023,defunciones,Cuadro2
+73.0,73 Tolima,Total,Total,8837,2620,4900,1277,0,0,40,2023,defunciones,Cuadro2
+73.0,,,Hospital/clínica,5153,2452,2279,421,0,0,1,2023,defunciones,Cuadro2
+73.0,,,Centro/puesto de salud,19,4,2,13,0,0,0,2023,defunciones,Cuadro2
+73.0,,,Casa/domicilio,2861,151,2499,211,0,0,0,2023,defunciones,Cuadro2
+73.0,,,Lugar de trabajo,17,1,6,10,0,0,0,2023,defunciones,Cuadro2
+73.0,,,Vía pública,373,1,35,337,0,0,0,2023,defunciones,Cuadro2
+73.0,,,Otro sitio,370,11,79,279,0,0,1,2023,defunciones,Cuadro2
+73.0,,,Sin información,44,0,0,6,0,0,38,2023,defunciones,Cuadro2
+73.0,,Cabecera municipal,Total,7600,2579,4149,872,0,0,0,2023,defunciones,Cuadro2
+73.0,,,Hospital/clínica,5131,2445,2266,420,0,0,0,2023,defunciones,Cuadro2
+73.0,,,Centro/puesto de salud,15,1,1,13,0,0,0,2023,defunciones,Cuadro2
+73.0,,,Casa/domicilio,2070,121,1797,152,0,0,0,2023,defunciones,Cuadro2
+73.0,,,Lugar de trabajo,7,0,1,6,0,0,0,2023,defunciones,Cuadro2
+73.0,,,Vía pública,177,1,19,157,0,0,0,2023,defunciones,Cuadro2
+73.0,,,Otro sitio,198,11,65,122,0,0,0,2023,defunciones,Cuadro2
+73.0,,,Sin información,2,0,0,2,0,0,0,2023,defunciones,Cuadro2
+73.0,,Centro poblado,Total,179,12,140,27,0,0,0,2023,defunciones,Cuadro2
+73.0,,,Hospital/clínica,21,7,13,1,0,0,0,2023,defunciones,Cuadro2
+73.0,,,Centro/puesto de salud,4,3,1,0,0,0,0,2023,defunciones,Cuadro2
+73.0,,,Casa/domicilio,128,2,123,3,0,0,0,2023,defunciones,Cuadro2
+73.0,,,Lugar de trabajo,1,0,1,0,0,0,0,2023,defunciones,Cuadro2
+73.0,,,Vía pública,16,0,0,16,0,0,0,2023,defunciones,Cuadro2
+73.0,,,Otro sitio,9,0,2,7,0,0,0,2023,defunciones,Cuadro2
+73.0,,,Sin información,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+73.0,,Rural disperso,Total,1015,29,611,373,0,0,2,2023,defunciones,Cuadro2
+73.0,,,Hospital/clínica,1,0,0,0,0,0,1,2023,defunciones,Cuadro2
+73.0,,,Centro/puesto de salud,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+73.0,,,Casa/domicilio,663,28,579,56,0,0,0,2023,defunciones,Cuadro2
+73.0,,,Lugar de trabajo,9,1,4,4,0,0,0,2023,defunciones,Cuadro2
+73.0,,,Vía pública,177,0,16,161,0,0,0,2023,defunciones,Cuadro2
+73.0,,,Otro sitio,162,0,12,149,0,0,1,2023,defunciones,Cuadro2
+73.0,,,Sin información,3,0,0,3,0,0,0,2023,defunciones,Cuadro2
+73.0,,Sin información,Total,43,0,0,5,0,0,38,2023,defunciones,Cuadro2
+73.0,,,Hospital/clínica,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+73.0,,,Centro/puesto de salud,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+73.0,,,Casa/domicilio,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+73.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+73.0,,,Vía pública,3,0,0,3,0,0,0,2023,defunciones,Cuadro2
+73.0,,,Otro sitio,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+73.0,,,Sin información,39,0,0,1,0,0,38,2023,defunciones,Cuadro2
+76.0,76 Valle del Cauca,Total,Total,30337,7066,18499,4653,20,0,99,2023,defunciones,Cuadro2
+76.0,,,Hospital/clínica,20600,6228,12430,1915,1,0,26,2023,defunciones,Cuadro2
+76.0,,,Centro/puesto de salud,133,19,33,77,0,0,4,2023,defunciones,Cuadro2
+76.0,,,Casa/domicilio,7231,785,5841,583,19,0,3,2023,defunciones,Cuadro2
+76.0,,,Lugar de trabajo,66,2,5,59,0,0,0,2023,defunciones,Cuadro2
+76.0,,,Vía pública,1515,5,49,1449,0,0,12,2023,defunciones,Cuadro2
+76.0,,,Otro sitio,632,27,137,468,0,0,0,2023,defunciones,Cuadro2
+76.0,,,Sin información,160,0,4,102,0,0,54,2023,defunciones,Cuadro2
+76.0,,Cabecera municipal,Total,28740,6956,17744,3995,5,0,40,2023,defunciones,Cuadro2
+76.0,,,Hospital/clínica,20502,6206,12356,1915,1,0,24,2023,defunciones,Cuadro2
+76.0,,,Centro/puesto de salud,118,14,28,72,0,0,4,2023,defunciones,Cuadro2
+76.0,,,Casa/domicilio,6423,706,5207,504,4,0,2,2023,defunciones,Cuadro2
+76.0,,,Lugar de trabajo,35,1,3,31,0,0,0,2023,defunciones,Cuadro2
+76.0,,,Vía pública,1147,4,33,1100,0,0,10,2023,defunciones,Cuadro2
+76.0,,,Otro sitio,430,25,113,292,0,0,0,2023,defunciones,Cuadro2
+76.0,,,Sin información,85,0,4,81,0,0,0,2023,defunciones,Cuadro2
+76.0,,Centro poblado,Total,798,71,501,222,3,0,1,2023,defunciones,Cuadro2
+76.0,,,Hospital/clínica,97,22,74,0,0,0,1,2023,defunciones,Cuadro2
+76.0,,,Centro/puesto de salud,12,4,5,3,0,0,0,2023,defunciones,Cuadro2
+76.0,,,Casa/domicilio,481,44,400,34,3,0,0,2023,defunciones,Cuadro2
+76.0,,,Lugar de trabajo,6,0,0,6,0,0,0,2023,defunciones,Cuadro2
+76.0,,,Vía pública,124,0,10,114,0,0,0,2023,defunciones,Cuadro2
+76.0,,,Otro sitio,69,1,12,56,0,0,0,2023,defunciones,Cuadro2
+76.0,,,Sin información,9,0,0,9,0,0,0,2023,defunciones,Cuadro2
+76.0,,Rural disperso,Total,739,39,254,431,12,0,3,2023,defunciones,Cuadro2
+76.0,,,Hospital/clínica,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+76.0,,,Centro/puesto de salud,3,1,0,2,0,0,0,2023,defunciones,Cuadro2
+76.0,,,Casa/domicilio,325,35,234,43,12,0,1,2023,defunciones,Cuadro2
+76.0,,,Lugar de trabajo,25,1,2,22,0,0,0,2023,defunciones,Cuadro2
+76.0,,,Vía pública,242,1,6,233,0,0,2,2023,defunciones,Cuadro2
+76.0,,,Otro sitio,133,1,12,120,0,0,0,2023,defunciones,Cuadro2
+76.0,,,Sin información,11,0,0,11,0,0,0,2023,defunciones,Cuadro2
+76.0,,Sin información,Total,60,0,0,5,0,0,55,2023,defunciones,Cuadro2
+76.0,,,Hospital/clínica,1,0,0,0,0,0,1,2023,defunciones,Cuadro2
+76.0,,,Centro/puesto de salud,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+76.0,,,Casa/domicilio,2,0,0,2,0,0,0,2023,defunciones,Cuadro2
+76.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+76.0,,,Vía pública,2,0,0,2,0,0,0,2023,defunciones,Cuadro2
+76.0,,,Otro sitio,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+76.0,,,Sin información,55,0,0,1,0,0,54,2023,defunciones,Cuadro2
+81.0,81 Arauca,Total,Total,1141,325,491,323,0,0,2,2023,defunciones,Cuadro2
+81.0,,,Hospital/clínica,597,310,228,58,0,0,1,2023,defunciones,Cuadro2
+81.0,,,Centro/puesto de salud,16,1,7,8,0,0,0,2023,defunciones,Cuadro2
+81.0,,,Casa/domicilio,301,10,245,45,0,0,1,2023,defunciones,Cuadro2
+81.0,,,Lugar de trabajo,8,0,3,5,0,0,0,2023,defunciones,Cuadro2
+81.0,,,Vía pública,121,0,2,119,0,0,0,2023,defunciones,Cuadro2
+81.0,,,Otro sitio,97,4,6,87,0,0,0,2023,defunciones,Cuadro2
+81.0,,,Sin información,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+81.0,,Cabecera municipal,Total,869,314,412,143,0,0,0,2023,defunciones,Cuadro2
+81.0,,,Hospital/clínica,589,307,224,58,0,0,0,2023,defunciones,Cuadro2
+81.0,,,Centro/puesto de salud,3,0,0,3,0,0,0,2023,defunciones,Cuadro2
+81.0,,,Casa/domicilio,213,5,180,28,0,0,0,2023,defunciones,Cuadro2
+81.0,,,Lugar de trabajo,5,0,1,4,0,0,0,2023,defunciones,Cuadro2
+81.0,,,Vía pública,33,0,2,31,0,0,0,2023,defunciones,Cuadro2
+81.0,,,Otro sitio,26,2,5,19,0,0,0,2023,defunciones,Cuadro2
+81.0,,,Sin información,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+81.0,,Centro poblado,Total,44,7,30,7,0,0,0,2023,defunciones,Cuadro2
+81.0,,,Hospital/clínica,7,3,4,0,0,0,0,2023,defunciones,Cuadro2
+81.0,,,Centro/puesto de salud,10,1,7,2,0,0,0,2023,defunciones,Cuadro2
+81.0,,,Casa/domicilio,22,2,18,2,0,0,0,2023,defunciones,Cuadro2
+81.0,,,Lugar de trabajo,1,0,1,0,0,0,0,2023,defunciones,Cuadro2
+81.0,,,Vía pública,3,0,0,3,0,0,0,2023,defunciones,Cuadro2
+81.0,,,Otro sitio,1,1,0,0,0,0,0,2023,defunciones,Cuadro2
+81.0,,,Sin información,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+81.0,,Rural disperso,Total,226,4,49,171,0,0,2,2023,defunciones,Cuadro2
+81.0,,,Hospital/clínica,1,0,0,0,0,0,1,2023,defunciones,Cuadro2
+81.0,,,Centro/puesto de salud,3,0,0,3,0,0,0,2023,defunciones,Cuadro2
+81.0,,,Casa/domicilio,65,3,47,14,0,0,1,2023,defunciones,Cuadro2
+81.0,,,Lugar de trabajo,2,0,1,1,0,0,0,2023,defunciones,Cuadro2
+81.0,,,Vía pública,85,0,0,85,0,0,0,2023,defunciones,Cuadro2
+81.0,,,Otro sitio,69,1,1,67,0,0,0,2023,defunciones,Cuadro2
+81.0,,,Sin información,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+81.0,,Sin información,Total,2,0,0,2,0,0,0,2023,defunciones,Cuadro2
+81.0,,,Hospital/clínica,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+81.0,,,Centro/puesto de salud,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+81.0,,,Casa/domicilio,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+81.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+81.0,,,Vía pública,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+81.0,,,Otro sitio,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+81.0,,,Sin información,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+85.0,85 Casanare,Total,Total,1701,544,742,404,0,0,11,2023,defunciones,Cuadro2
+85.0,,,Hospital/clínica,1004,503,356,145,0,0,0,2023,defunciones,Cuadro2
+85.0,,,Centro/puesto de salud,30,12,12,6,0,0,0,2023,defunciones,Cuadro2
+85.0,,,Casa/domicilio,444,27,353,64,0,0,0,2023,defunciones,Cuadro2
+85.0,,,Lugar de trabajo,11,0,4,7,0,0,0,2023,defunciones,Cuadro2
+85.0,,,Vía pública,129,1,3,125,0,0,0,2023,defunciones,Cuadro2
+85.0,,,Otro sitio,67,1,12,54,0,0,0,2023,defunciones,Cuadro2
+85.0,,,Sin información,16,0,2,3,0,0,11,2023,defunciones,Cuadro2
+85.0,,Cabecera municipal,Total,1433,537,645,251,0,0,0,2023,defunciones,Cuadro2
+85.0,,,Hospital/clínica,1004,503,356,145,0,0,0,2023,defunciones,Cuadro2
+85.0,,,Centro/puesto de salud,27,11,12,4,0,0,0,2023,defunciones,Cuadro2
+85.0,,,Casa/domicilio,328,23,265,40,0,0,0,2023,defunciones,Cuadro2
+85.0,,,Lugar de trabajo,3,0,1,2,0,0,0,2023,defunciones,Cuadro2
+85.0,,,Vía pública,48,0,1,47,0,0,0,2023,defunciones,Cuadro2
+85.0,,,Otro sitio,21,0,8,13,0,0,0,2023,defunciones,Cuadro2
+85.0,,,Sin información,2,0,2,0,0,0,0,2023,defunciones,Cuadro2
+85.0,,Centro poblado,Total,20,0,15,5,0,0,0,2023,defunciones,Cuadro2
+85.0,,,Hospital/clínica,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+85.0,,,Centro/puesto de salud,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+85.0,,,Casa/domicilio,12,0,12,0,0,0,0,2023,defunciones,Cuadro2
+85.0,,,Lugar de trabajo,1,0,1,0,0,0,0,2023,defunciones,Cuadro2
+85.0,,,Vía pública,5,0,2,3,0,0,0,2023,defunciones,Cuadro2
+85.0,,,Otro sitio,2,0,0,2,0,0,0,2023,defunciones,Cuadro2
+85.0,,,Sin información,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+85.0,,Rural disperso,Total,237,7,82,148,0,0,0,2023,defunciones,Cuadro2
+85.0,,,Hospital/clínica,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+85.0,,,Centro/puesto de salud,3,1,0,2,0,0,0,2023,defunciones,Cuadro2
+85.0,,,Casa/domicilio,104,4,76,24,0,0,0,2023,defunciones,Cuadro2
+85.0,,,Lugar de trabajo,7,0,2,5,0,0,0,2023,defunciones,Cuadro2
+85.0,,,Vía pública,76,1,0,75,0,0,0,2023,defunciones,Cuadro2
+85.0,,,Otro sitio,44,1,4,39,0,0,0,2023,defunciones,Cuadro2
+85.0,,,Sin información,3,0,0,3,0,0,0,2023,defunciones,Cuadro2
+85.0,,Sin información,Total,11,0,0,0,0,0,11,2023,defunciones,Cuadro2
+85.0,,,Hospital/clínica,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+85.0,,,Centro/puesto de salud,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+85.0,,,Casa/domicilio,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+85.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+85.0,,,Vía pública,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+85.0,,,Otro sitio,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+85.0,,,Sin información,11,0,0,0,0,0,11,2023,defunciones,Cuadro2
+86.0,86 Putumayo,Total,Total,1213,218,452,460,63,0,20,2023,defunciones,Cuadro2
+86.0,,,Hospital/clínica,422,196,157,68,0,0,1,2023,defunciones,Cuadro2
+86.0,,,Centro/puesto de salud,2,0,0,2,0,0,0,2023,defunciones,Cuadro2
+86.0,,,Casa/domicilio,419,18,276,63,60,0,2,2023,defunciones,Cuadro2
+86.0,,,Lugar de trabajo,8,0,0,8,0,0,0,2023,defunciones,Cuadro2
+86.0,,,Vía pública,149,2,5,139,2,0,1,2023,defunciones,Cuadro2
+86.0,,,Otro sitio,189,2,12,173,1,0,1,2023,defunciones,Cuadro2
+86.0,,,Sin información,24,0,2,7,0,0,15,2023,defunciones,Cuadro2
+86.0,,Cabecera municipal,Total,768,215,330,213,8,0,2,2023,defunciones,Cuadro2
+86.0,,,Hospital/clínica,420,196,156,68,0,0,0,2023,defunciones,Cuadro2
+86.0,,,Centro/puesto de salud,2,0,0,2,0,0,0,2023,defunciones,Cuadro2
+86.0,,,Casa/domicilio,226,15,166,35,8,0,2,2023,defunciones,Cuadro2
+86.0,,,Lugar de trabajo,3,0,0,3,0,0,0,2023,defunciones,Cuadro2
+86.0,,,Vía pública,64,2,3,59,0,0,0,2023,defunciones,Cuadro2
+86.0,,,Otro sitio,53,2,5,46,0,0,0,2023,defunciones,Cuadro2
+86.0,,,Sin información,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+86.0,,Centro poblado,Total,34,0,18,6,10,0,0,2023,defunciones,Cuadro2
+86.0,,,Hospital/clínica,1,0,1,0,0,0,0,2023,defunciones,Cuadro2
+86.0,,,Centro/puesto de salud,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+86.0,,,Casa/domicilio,25,0,16,0,9,0,0,2023,defunciones,Cuadro2
+86.0,,,Lugar de trabajo,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+86.0,,,Vía pública,4,0,0,4,0,0,0,2023,defunciones,Cuadro2
+86.0,,,Otro sitio,3,0,1,1,1,0,0,2023,defunciones,Cuadro2
+86.0,,,Sin información,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+86.0,,Rural disperso,Total,395,3,104,240,45,0,3,2023,defunciones,Cuadro2
+86.0,,,Hospital/clínica,1,0,0,0,0,0,1,2023,defunciones,Cuadro2
+86.0,,,Centro/puesto de salud,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+86.0,,,Casa/domicilio,167,3,94,27,43,0,0,2023,defunciones,Cuadro2
+86.0,,,Lugar de trabajo,4,0,0,4,0,0,0,2023,defunciones,Cuadro2
+86.0,,,Vía pública,81,0,2,76,2,0,1,2023,defunciones,Cuadro2
+86.0,,,Otro sitio,133,0,6,126,0,0,1,2023,defunciones,Cuadro2
+86.0,,,Sin información,9,0,2,7,0,0,0,2023,defunciones,Cuadro2
+86.0,,Sin información,Total,16,0,0,1,0,0,15,2023,defunciones,Cuadro2
+86.0,,,Hospital/clínica,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+86.0,,,Centro/puesto de salud,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+86.0,,,Casa/domicilio,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+86.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+86.0,,,Vía pública,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+86.0,,,Otro sitio,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+86.0,,,Sin información,15,0,0,0,0,0,15,2023,defunciones,Cuadro2
+88.0,88 Archipiélago de San Andrés y Providencia,Total,Total,281,86,134,61,0,0,0,2023,defunciones,Cuadro2
+88.0,,,Hospital/clínica,165,85,54,26,0,0,0,2023,defunciones,Cuadro2
+88.0,,,Centro/puesto de salud,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+88.0,,,Casa/domicilio,86,1,79,6,0,0,0,2023,defunciones,Cuadro2
+88.0,,,Lugar de trabajo,2,0,0,2,0,0,0,2023,defunciones,Cuadro2
+88.0,,,Vía pública,21,0,1,20,0,0,0,2023,defunciones,Cuadro2
+88.0,,,Otro sitio,6,0,0,6,0,0,0,2023,defunciones,Cuadro2
+88.0,,,Sin información,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+88.0,,Cabecera municipal,Total,234,83,99,52,0,0,0,2023,defunciones,Cuadro2
+88.0,,,Hospital/clínica,158,82,50,26,0,0,0,2023,defunciones,Cuadro2
+88.0,,,Centro/puesto de salud,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+88.0,,,Casa/domicilio,54,1,48,5,0,0,0,2023,defunciones,Cuadro2
+88.0,,,Lugar de trabajo,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+88.0,,,Vía pública,15,0,1,14,0,0,0,2023,defunciones,Cuadro2
+88.0,,,Otro sitio,5,0,0,5,0,0,0,2023,defunciones,Cuadro2
+88.0,,,Sin información,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+88.0,,Centro poblado,Total,26,3,23,0,0,0,0,2023,defunciones,Cuadro2
+88.0,,,Hospital/clínica,7,3,4,0,0,0,0,2023,defunciones,Cuadro2
+88.0,,,Centro/puesto de salud,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+88.0,,,Casa/domicilio,19,0,19,0,0,0,0,2023,defunciones,Cuadro2
+88.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+88.0,,,Vía pública,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+88.0,,,Otro sitio,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+88.0,,,Sin información,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+88.0,,Rural disperso,Total,13,0,12,1,0,0,0,2023,defunciones,Cuadro2
+88.0,,,Hospital/clínica,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+88.0,,,Centro/puesto de salud,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+88.0,,,Casa/domicilio,12,0,12,0,0,0,0,2023,defunciones,Cuadro2
+88.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+88.0,,,Vía pública,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+88.0,,,Otro sitio,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+88.0,,,Sin información,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+88.0,,Sin información,Total,8,0,0,8,0,0,0,2023,defunciones,Cuadro2
+88.0,,,Hospital/clínica,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+88.0,,,Centro/puesto de salud,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+88.0,,,Casa/domicilio,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+88.0,,,Lugar de trabajo,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+88.0,,,Vía pública,5,0,0,5,0,0,0,2023,defunciones,Cuadro2
+88.0,,,Otro sitio,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+88.0,,,Sin información,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+91.0,91 Amazonas,Total,Total,176,37,67,47,14,0,11,2023,defunciones,Cuadro2
+91.0,,,Hospital/clínica,97,36,41,19,1,0,0,2023,defunciones,Cuadro2
+91.0,,,Centro/puesto de salud,3,1,0,2,0,0,0,2023,defunciones,Cuadro2
+91.0,,,Casa/domicilio,44,0,24,9,11,0,0,2023,defunciones,Cuadro2
+91.0,,,Lugar de trabajo,2,0,0,2,0,0,0,2023,defunciones,Cuadro2
+91.0,,,Vía pública,8,0,1,6,1,0,0,2023,defunciones,Cuadro2
+91.0,,,Otro sitio,9,0,1,7,1,0,0,2023,defunciones,Cuadro2
+91.0,,,Sin información,13,0,0,2,0,0,11,2023,defunciones,Cuadro2
+91.0,,Cabecera municipal,Total,123,30,61,31,1,0,0,2023,defunciones,Cuadro2
+91.0,,,Hospital/clínica,90,30,41,19,0,0,0,2023,defunciones,Cuadro2
+91.0,,,Centro/puesto de salud,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+91.0,,,Casa/domicilio,25,0,20,4,1,0,0,2023,defunciones,Cuadro2
+91.0,,,Lugar de trabajo,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+91.0,,,Vía pública,3,0,0,3,0,0,0,2023,defunciones,Cuadro2
+91.0,,,Otro sitio,3,0,0,3,0,0,0,2023,defunciones,Cuadro2
+91.0,,,Sin información,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+91.0,,Centro poblado,Total,20,7,3,3,7,0,0,2023,defunciones,Cuadro2
+91.0,,,Hospital/clínica,7,6,0,0,1,0,0,2023,defunciones,Cuadro2
+91.0,,,Centro/puesto de salud,2,1,0,1,0,0,0,2023,defunciones,Cuadro2
+91.0,,,Casa/domicilio,8,0,2,1,5,0,0,2023,defunciones,Cuadro2
+91.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+91.0,,,Vía pública,2,0,1,1,0,0,0,2023,defunciones,Cuadro2
+91.0,,,Otro sitio,1,0,0,0,1,0,0,2023,defunciones,Cuadro2
+91.0,,,Sin información,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+91.0,,Rural disperso,Total,16,0,3,7,6,0,0,2023,defunciones,Cuadro2
+91.0,,,Hospital/clínica,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+91.0,,,Centro/puesto de salud,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+91.0,,,Casa/domicilio,9,0,2,2,5,0,0,2023,defunciones,Cuadro2
+91.0,,,Lugar de trabajo,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+91.0,,,Vía pública,1,0,0,0,1,0,0,2023,defunciones,Cuadro2
+91.0,,,Otro sitio,4,0,1,3,0,0,0,2023,defunciones,Cuadro2
+91.0,,,Sin información,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+91.0,,Sin información,Total,17,0,0,6,0,0,11,2023,defunciones,Cuadro2
+91.0,,,Hospital/clínica,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+91.0,,,Centro/puesto de salud,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+91.0,,,Casa/domicilio,2,0,0,2,0,0,0,2023,defunciones,Cuadro2
+91.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+91.0,,,Vía pública,2,0,0,2,0,0,0,2023,defunciones,Cuadro2
+91.0,,,Otro sitio,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+91.0,,,Sin información,11,0,0,0,0,0,11,2023,defunciones,Cuadro2
+94.0,94 Guainía,Total,Total,132,54,57,9,7,0,5,2023,defunciones,Cuadro2
+94.0,,,Hospital/clínica,70,46,22,2,0,0,0,2023,defunciones,Cuadro2
+94.0,,,Centro/puesto de salud,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+94.0,,,Casa/domicilio,47,6,34,1,6,0,0,2023,defunciones,Cuadro2
+94.0,,,Lugar de trabajo,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+94.0,,,Vía pública,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+94.0,,,Otro sitio,9,2,1,5,1,0,0,2023,defunciones,Cuadro2
+94.0,,,Sin información,5,0,0,0,0,0,5,2023,defunciones,Cuadro2
+94.0,,Cabecera municipal,Total,106,50,52,3,1,0,0,2023,defunciones,Cuadro2
+94.0,,,Hospital/clínica,70,46,22,2,0,0,0,2023,defunciones,Cuadro2
+94.0,,,Centro/puesto de salud,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+94.0,,,Casa/domicilio,36,4,30,1,1,0,0,2023,defunciones,Cuadro2
+94.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+94.0,,,Vía pública,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+94.0,,,Otro sitio,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+94.0,,,Sin información,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+94.0,,Centro poblado,Total,1,0,0,0,1,0,0,2023,defunciones,Cuadro2
+94.0,,,Hospital/clínica,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+94.0,,,Centro/puesto de salud,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+94.0,,,Casa/domicilio,1,0,0,0,1,0,0,2023,defunciones,Cuadro2
+94.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+94.0,,,Vía pública,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+94.0,,,Otro sitio,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+94.0,,,Sin información,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+94.0,,Rural disperso,Total,18,4,5,4,5,0,0,2023,defunciones,Cuadro2
+94.0,,,Hospital/clínica,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+94.0,,,Centro/puesto de salud,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+94.0,,,Casa/domicilio,10,2,4,0,4,0,0,2023,defunciones,Cuadro2
+94.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+94.0,,,Vía pública,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+94.0,,,Otro sitio,8,2,1,4,1,0,0,2023,defunciones,Cuadro2
+94.0,,,Sin información,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+94.0,,Sin información,Total,7,0,0,2,0,0,5,2023,defunciones,Cuadro2
+94.0,,,Hospital/clínica,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+94.0,,,Centro/puesto de salud,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+94.0,,,Casa/domicilio,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+94.0,,,Lugar de trabajo,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+94.0,,,Vía pública,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+94.0,,,Otro sitio,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+94.0,,,Sin información,5,0,0,0,0,0,5,2023,defunciones,Cuadro2
+95.0,95 Guaviare,Total,Total,285,77,90,108,4,0,6,2023,defunciones,Cuadro2
+95.0,,,Hospital/clínica,138,72,51,14,1,0,0,2023,defunciones,Cuadro2
+95.0,,,Centro/puesto de salud,2,0,0,1,1,0,0,2023,defunciones,Cuadro2
+95.0,,,Casa/domicilio,58,5,34,17,2,0,0,2023,defunciones,Cuadro2
+95.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+95.0,,,Vía pública,39,0,1,38,0,0,0,2023,defunciones,Cuadro2
+95.0,,,Otro sitio,34,0,4,30,0,0,0,2023,defunciones,Cuadro2
+95.0,,,Sin información,14,0,0,8,0,0,6,2023,defunciones,Cuadro2
+95.0,,Cabecera municipal,Total,186,75,69,41,1,0,0,2023,defunciones,Cuadro2
+95.0,,,Hospital/clínica,138,72,51,14,1,0,0,2023,defunciones,Cuadro2
+95.0,,,Centro/puesto de salud,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+95.0,,,Casa/domicilio,27,3,15,9,0,0,0,2023,defunciones,Cuadro2
+95.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+95.0,,,Vía pública,8,0,1,7,0,0,0,2023,defunciones,Cuadro2
+95.0,,,Otro sitio,11,0,2,9,0,0,0,2023,defunciones,Cuadro2
+95.0,,,Sin información,2,0,0,2,0,0,0,2023,defunciones,Cuadro2
+95.0,,Centro poblado,Total,8,1,3,3,1,0,0,2023,defunciones,Cuadro2
+95.0,,,Hospital/clínica,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+95.0,,,Centro/puesto de salud,1,0,0,0,1,0,0,2023,defunciones,Cuadro2
+95.0,,,Casa/domicilio,5,1,2,2,0,0,0,2023,defunciones,Cuadro2
+95.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+95.0,,,Vía pública,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+95.0,,,Otro sitio,1,0,1,0,0,0,0,2023,defunciones,Cuadro2
+95.0,,,Sin información,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+95.0,,Rural disperso,Total,84,1,18,63,2,0,0,2023,defunciones,Cuadro2
+95.0,,,Hospital/clínica,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+95.0,,,Centro/puesto de salud,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+95.0,,,Casa/domicilio,26,1,17,6,2,0,0,2023,defunciones,Cuadro2
+95.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+95.0,,,Vía pública,30,0,0,30,0,0,0,2023,defunciones,Cuadro2
+95.0,,,Otro sitio,22,0,1,21,0,0,0,2023,defunciones,Cuadro2
+95.0,,,Sin información,5,0,0,5,0,0,0,2023,defunciones,Cuadro2
+95.0,,Sin información,Total,7,0,0,1,0,0,6,2023,defunciones,Cuadro2
+95.0,,,Hospital/clínica,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+95.0,,,Centro/puesto de salud,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+95.0,,,Casa/domicilio,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+95.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+95.0,,,Vía pública,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+95.0,,,Otro sitio,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+95.0,,,Sin información,7,0,0,1,0,0,6,2023,defunciones,Cuadro2
+97.0,97 Vaupés,Total,Total,100,11,34,12,41,0,2,2023,defunciones,Cuadro2
+97.0,,,Hospital/clínica,34,9,22,3,0,0,0,2023,defunciones,Cuadro2
+97.0,,,Centro/puesto de salud,2,2,0,0,0,0,0,2023,defunciones,Cuadro2
+97.0,,,Casa/domicilio,50,0,12,3,35,0,0,2023,defunciones,Cuadro2
+97.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+97.0,,,Vía pública,2,0,0,0,2,0,0,2023,defunciones,Cuadro2
+97.0,,,Otro sitio,9,0,0,5,4,0,0,2023,defunciones,Cuadro2
+97.0,,,Sin información,3,0,0,1,0,0,2,2023,defunciones,Cuadro2
+97.0,,Cabecera municipal,Total,53,11,32,9,1,0,0,2023,defunciones,Cuadro2
+97.0,,,Hospital/clínica,34,9,22,3,0,0,0,2023,defunciones,Cuadro2
+97.0,,,Centro/puesto de salud,2,2,0,0,0,0,0,2023,defunciones,Cuadro2
+97.0,,,Casa/domicilio,12,0,10,2,0,0,0,2023,defunciones,Cuadro2
+97.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+97.0,,,Vía pública,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+97.0,,,Otro sitio,4,0,0,3,1,0,0,2023,defunciones,Cuadro2
+97.0,,,Sin información,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+97.0,,Centro poblado,Total,2,0,0,1,1,0,0,2023,defunciones,Cuadro2
+97.0,,,Hospital/clínica,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+97.0,,,Centro/puesto de salud,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+97.0,,,Casa/domicilio,1,0,0,0,1,0,0,2023,defunciones,Cuadro2
+97.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+97.0,,,Vía pública,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+97.0,,,Otro sitio,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+97.0,,,Sin información,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+97.0,,Rural disperso,Total,43,0,2,2,39,0,0,2023,defunciones,Cuadro2
+97.0,,,Hospital/clínica,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+97.0,,,Centro/puesto de salud,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+97.0,,,Casa/domicilio,37,0,2,1,34,0,0,2023,defunciones,Cuadro2
+97.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+97.0,,,Vía pública,2,0,0,0,2,0,0,2023,defunciones,Cuadro2
+97.0,,,Otro sitio,4,0,0,1,3,0,0,2023,defunciones,Cuadro2
+97.0,,,Sin información,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+97.0,,Sin información,Total,2,0,0,0,0,0,2,2023,defunciones,Cuadro2
+97.0,,,Hospital/clínica,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+97.0,,,Centro/puesto de salud,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+97.0,,,Casa/domicilio,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+97.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+97.0,,,Vía pública,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+97.0,,,Otro sitio,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+97.0,,,Sin información,2,0,0,0,0,0,2,2023,defunciones,Cuadro2
+99.0,99 Vichada,Total,Total,184,72,53,56,3,0,0,2023,defunciones,Cuadro2
+99.0,,,Hospital/clínica,93,69,11,13,0,0,0,2023,defunciones,Cuadro2
+99.0,,,Centro/puesto de salud,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+99.0,,,Casa/domicilio,63,3,41,17,2,0,0,2023,defunciones,Cuadro2
+99.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+99.0,,,Vía pública,16,0,0,15,1,0,0,2023,defunciones,Cuadro2
+99.0,,,Otro sitio,11,0,1,10,0,0,0,2023,defunciones,Cuadro2
+99.0,,,Sin información,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+99.0,,Cabecera municipal,Total,143,72,40,31,0,0,0,2023,defunciones,Cuadro2
+99.0,,,Hospital/clínica,93,69,11,13,0,0,0,2023,defunciones,Cuadro2
+99.0,,,Centro/puesto de salud,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+99.0,,,Casa/domicilio,40,3,29,8,0,0,0,2023,defunciones,Cuadro2
+99.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+99.0,,,Vía pública,6,0,0,6,0,0,0,2023,defunciones,Cuadro2
+99.0,,,Otro sitio,4,0,0,4,0,0,0,2023,defunciones,Cuadro2
+99.0,,,Sin información,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+99.0,,Centro poblado,Total,8,0,1,7,0,0,0,2023,defunciones,Cuadro2
+99.0,,,Hospital/clínica,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+99.0,,,Centro/puesto de salud,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+99.0,,,Casa/domicilio,3,0,1,2,0,0,0,2023,defunciones,Cuadro2
+99.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+99.0,,,Vía pública,2,0,0,2,0,0,0,2023,defunciones,Cuadro2
+99.0,,,Otro sitio,3,0,0,3,0,0,0,2023,defunciones,Cuadro2
+99.0,,,Sin información,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+99.0,,Rural disperso,Total,33,0,12,18,3,0,0,2023,defunciones,Cuadro2
+99.0,,,Hospital/clínica,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+99.0,,,Centro/puesto de salud,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+99.0,,,Casa/domicilio,20,0,11,7,2,0,0,2023,defunciones,Cuadro2
+99.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+99.0,,,Vía pública,8,0,0,7,1,0,0,2023,defunciones,Cuadro2
+99.0,,,Otro sitio,4,0,1,3,0,0,0,2023,defunciones,Cuadro2
+99.0,,,Sin información,1,0,0,1,0,0,0,2023,defunciones,Cuadro2
+99.0,,Sin información,Total,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+99.0,,,Hospital/clínica,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+99.0,,,Centro/puesto de salud,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+99.0,,,Casa/domicilio,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+99.0,,,Lugar de trabajo,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+99.0,,,Vía pública,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+99.0,,,Otro sitio,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+99.0,,,Sin información,0,0,0,0,0,0,0,2023,defunciones,Cuadro2
+,Fuente: DANE - Estadísticas Vitales,,,,,,,,,,2023,defunciones,Cuadro2
+,Fecha de actualización: 19 de diciembre de 2024,,,,,,,,,,2023,defunciones,Cuadro2

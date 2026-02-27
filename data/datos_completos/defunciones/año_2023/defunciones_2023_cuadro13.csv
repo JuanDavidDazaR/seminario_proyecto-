@@ -1,0 +1,890 @@
+﻿columna,"CUADRO 13 - Defunciones de menores de un año por grupos de edad y sexo, según departamento de residencia de la madre y grupos de causas de defunción (Lista Colombia 105 para la tabulación de mortalidad)",columna_1,columna_2,columna_3,columna_4,columna_5,columna_6,columna_7,columna_8,columna_9,columna_10,columna_11,columna_12,columna_13,columna_14,columna_15,columna_16,columna_17,columna_18,columna_19,columna_20,columna_21,columna_22,columna_23,columna_24,columna_25,columna_26,año,tipo,hoja_origen
+,Año 2023,,,,,,,,,,,,,,,,,,,,,,,,,,,2023,defunciones,Cuadro13
+,Volver al índice,Departamento,,,,,,,,,,,,,,,,,,,,,,,,,,2023,defunciones,Cuadro13
+,Grupos de causas de defunción (lista Colombia 105 para la tabulación de mortalidad),,Total,Total,,,Menor 1 hora,,,De 1 a 23 horas,,,De 1 a 6 días,,,De 7 a 27 dias,,,De 28 a 29 días,,,De 1 a 5 meses,,,De 6 a 11 meses,,,2023,defunciones,Cuadro13
+,,,,Hombres,Mujeres,Indeterminado,Hombres,Mujeres,Indeterminado,Hombres,Mujeres,Indeterminado,Hombres,Mujeres,Indeterminado,Hombres,Mujeres,Indeterminado,Hombres,Mujeres,Indeterminado,Hombres,Mujeres,Indeterminado,Hombres,Mujeres,Indeterminado,2023,defunciones,Cuadro13
+3.0,Total Nacional,TOTAL,5610,3227,2376,7,151,108,3,310,223,1,837,613,2,672,540,1,33,21,0,844,592,0,380,279,0,2023,defunciones,Cuadro13
+3.0,,001 Enfermedades infecciosas intestinales,117,75,42,0,0,0,0,0,0,0,2,0,0,4,3,0,1,0,0,34,18,0,34,21,0,2023,defunciones,Cuadro13
+3.0,,002 Tuberculosis y secuelas,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2023,defunciones,Cuadro13
+3.0,,003 Ciertas enfermedades transmitidas por vectores y rabia,15,10,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,7,5,0,2023,defunciones,Cuadro13
+3.0,,004 Ciertas enfermedades inmunoprevenibles,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2023,defunciones,Cuadro13
+3.0,,"005 Septicemia, excepto neonatal",22,13,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,8,0,1,1,0,2023,defunciones,Cuadro13
+3.0,,006 Todas las demás enfermedades bacterianas,11,6,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,2,4,0,2023,defunciones,Cuadro13
+3.0,,007 Sífilis y otras enfermedades venéreas,14,6,8,0,0,1,0,1,4,0,4,1,0,1,2,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+3.0,,009 Enfermedad por el VIH (SIDA),3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,2023,defunciones,Cuadro13
+3.0,,010 Todas las demás enfermedades infecciosas y parasitarias,41,29,12,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,19,3,0,9,8,0,2023,defunciones,Cuadro13
+3.0,,015 Tumor maligno del hígado,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2023,defunciones,Cuadro13
+3.0,,030 Todos los demás tumores malignos de los órganos urinarios,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+3.0,,"031 Tumor maligno del encéfalo, del ojo y de otras partes del sistema nervioso central",5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,1,0,2023,defunciones,Cuadro13
+3.0,,032 Tumor maligno del tiroides y de otras glándulas endocrinas,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+3.0,,034 Tumor maligno de sitios no especificados,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2023,defunciones,Cuadro13
+3.0,,035 Leucemia,9,4,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,3,0,2023,defunciones,Cuadro13
+3.0,,"037 Tumores: in situ, benignos y de comportamiento incierto o desconocido y los no especificados",14,7,7,0,0,1,0,0,2,0,1,0,0,0,0,0,0,0,0,4,0,0,2,4,0,2023,defunciones,Cuadro13
+3.0,,038 Todos los demás tumores malignos de otras localizaciones,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+3.0,,"039 Anemias: nutricionales, hemolíticas, aplásticas y otras",8,5,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,1,0,1,2,0,2023,defunciones,Cuadro13
+3.0,,"040 Defectos de coagulación, púrpura y otras afecciones hemorrágicas y de la sangre y los trastornos que afectan la inmunidad",25,15,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,8,0,4,2,0,2023,defunciones,Cuadro13
+3.0,,042 Deficiencias nutricionales,186,117,69,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,54,35,0,61,34,0,2023,defunciones,Cuadro13
+3.0,,043 Todas las demás enfermedades endocrinas y nutricionales,23,8,15,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4,6,0,4,8,0,2023,defunciones,Cuadro13
+3.0,,045 Meningitis y otras enfermedades inflamatorias del sistema nervioso central,23,14,9,0,0,0,0,0,1,0,1,0,0,2,2,0,0,0,0,8,4,0,3,2,0,2023,defunciones,Cuadro13
+3.0,,046 Epilepsia y otros trastornos episódicos y paroxísticos,17,11,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,8,5,0,2023,defunciones,Cuadro13
+3.0,,047 Todas las demás enfermedades del sistema nervioso,30,18,12,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,8,6,0,9,5,0,2023,defunciones,Cuadro13
+3.0,,"048 Enfermedades del ojo y sus anexos, del oído y de la apófisis mastoides",2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,2023,defunciones,Cuadro13
+3.0,,050 Enfermedades hipertensivas,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2023,defunciones,Cuadro13
+3.0,,051 Enfermedades isquémicas del corazón,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+3.0,,053 Todas las demás formas de enfermedad del corazón,28,12,16,0,0,0,0,0,1,0,2,0,0,0,1,0,0,0,0,8,9,0,2,5,0,2023,defunciones,Cuadro13
+3.0,,054 Insuficiencia cardíaca,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2023,defunciones,Cuadro13
+3.0,,055 Enfermedades cerebrovasculares,14,10,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,4,0,2,0,0,2023,defunciones,Cuadro13
+3.0,,059 Neumonía,163,102,61,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,69,44,0,33,17,0,2023,defunciones,Cuadro13
+3.0,,060 Enfermedades crónicas de las vías respiratorias inferiores,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,2023,defunciones,Cuadro13
+3.0,,061 Enfermedades del pulmón debidas a agentes externos,8,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,1,2,0,2023,defunciones,Cuadro13
+3.0,,062 Todas las demás enfermedades del sistema respiratorio,130,79,51,0,0,0,0,0,0,0,0,0,0,4,2,0,2,0,0,46,33,0,27,16,0,2023,defunciones,Cuadro13
+3.0,,064 Enfermedades del esófago y otras enfermedades del estómago y del duodeno,7,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,0,1,0,0,2023,defunciones,Cuadro13
+3.0,,"065 Enfermedades del apéndice, hernia y obstrucción intestinal",16,9,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,0,4,4,0,2023,defunciones,Cuadro13
+3.0,,066 Enfermedades del hígado,8,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,1,1,0,2023,defunciones,Cuadro13
+3.0,,"067 Trastornos de la vesícula biliar, de las vías biliares y del páncreas",3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,2023,defunciones,Cuadro13
+3.0,,"068 Enteritis, colitis no infecciosa y otras enfermedades de los intestinos",6,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,2,0,0,2023,defunciones,Cuadro13
+3.0,,069 Enfermedades del peritoneo y todas las demás enfermedades del sistema digestivo,9,3,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,0,4,0,2023,defunciones,Cuadro13
+3.0,,070 Hemorragia gastrointestinal,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+3.0,,071 Enfermedades de la piel y del tejido subcutáneo,4,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,1,0,2023,defunciones,Cuadro13
+3.0,,072 Enfermedades del sistema osteomuscular y del tejido conjuntivo,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2023,defunciones,Cuadro13
+3.0,,073 Enfermedades glomerulares y tubulointersticiales,4,3,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,1,0,2023,defunciones,Cuadro13
+3.0,,074 Insuficiencia renal,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,2,1,0,2023,defunciones,Cuadro13
+3.0,,075 Todas las demás enfermedades del sistema urinario,17,7,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6,0,1,4,0,2023,defunciones,Cuadro13
+3.0,,079 Feto y recién nacido afectados por ciertas afecciones maternas,126,71,55,0,13,10,0,11,9,0,24,24,0,20,11,0,0,0,0,3,1,0,0,0,0,2023,defunciones,Cuadro13
+3.0,,080 Feto y recién nacido afectados por complicaciones obstétricas y traumatismo del nacimiento,265,155,109,1,31,22,0,42,28,0,55,37,0,24,21,1,0,0,0,3,1,0,0,0,0,2023,defunciones,Cuadro13
+3.0,,"081 Retardo del crecimiento fetal, desnutrición fetal, gestación corta y bajo peso al nacer",134,82,52,0,22,15,0,25,11,0,18,16,0,10,6,0,0,0,0,7,4,0,0,0,0,2023,defunciones,Cuadro13
+3.0,,082 Trastornos respiratorios específicos del período perinatal,1249,718,531,0,38,23,0,111,79,0,289,199,0,144,123,0,10,6,0,109,87,0,17,14,0,2023,defunciones,Cuadro13
+3.0,,083 Trastornos hemorrágicos y hematológicos del feto y del recién nacido,188,110,78,0,2,2,0,12,2,0,41,35,0,39,32,0,1,1,0,15,5,0,0,1,0,2023,defunciones,Cuadro13
+3.0,,084 Infecciones específicas del período perinatal,577,339,238,0,1,3,0,28,27,0,134,80,0,125,98,0,6,5,0,45,24,0,0,1,0,2023,defunciones,Cuadro13
+3.0,,085 Enterocolitis necrotizante del feto y del recién nacido,211,123,88,0,0,1,0,1,0,0,16,12,0,67,54,0,5,0,0,32,21,0,2,0,0,2023,defunciones,Cuadro13
+3.0,,086 Todas las demás afecciones originadas en el período perinatal,281,158,122,1,11,4,1,15,9,0,67,69,0,47,26,0,0,3,0,13,10,0,5,1,0,2023,defunciones,Cuadro13
+3.0,,087 Malformaciones congénitas del sistema circulatorio,729,404,324,1,7,5,1,18,23,0,102,77,0,117,86,0,3,4,0,120,94,0,37,35,0,2023,defunciones,Cuadro13
+3.0,,"088 Las demás malformaciones congénitas, deformidades y anomalías congénitas",611,321,287,3,25,21,1,45,26,1,72,59,1,57,69,0,4,2,0,77,82,0,41,28,0,2023,defunciones,Cuadro13
+3.0,,"089 Signos, síntomas y afecciones mal definidas",158,93,65,0,1,0,0,0,1,0,6,0,0,4,2,0,0,0,0,58,38,0,24,24,0,2023,defunciones,Cuadro13
+3.0,,090 Accidentes de transporte de motor y secuelas,12,9,3,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,3,1,0,3,2,0,2023,defunciones,Cuadro13
+3.0,,093 Caídas,8,5,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,3,3,0,2023,defunciones,Cuadro13
+3.0,,095 Ahogamiento y sumersión accidentales,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2023,defunciones,Cuadro13
+3.0,,096 Otros accidentes que obstruyen la respiración,7,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,3,1,0,2023,defunciones,Cuadro13
+3.0,,"097 Exposición a la corriente eléctrica, radiación y temperatura y presión del aire ambientales extremas",2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2023,defunciones,Cuadro13
+3.0,,"098 Exposición al humo, fuego y llamas",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+3.0,,"099 Envenenamiento accidental por, y exposición a sustancias nocivas",3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,2023,defunciones,Cuadro13
+3.0,,101 Agresiones (homicidios) y secuelas,16,10,5,1,0,0,0,0,0,0,1,2,1,0,0,0,0,0,0,5,3,0,4,0,0,2023,defunciones,Cuadro13
+3.0,,102 Eventos de intención no determinada y secuelas,16,10,6,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,3,2,0,6,3,0,2023,defunciones,Cuadro13
+3.0,,104 Contratiempos de la atención médico quirúrgica y secuelas,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,2023,defunciones,Cuadro13
+3.0,,105 Otros accidentes y secuelas,4,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,2023,defunciones,Cuadro13
+5.0,05 Antioquia,TOTAL,461,254,207,0,20,12,0,31,27,0,54,53,0,52,43,0,2,4,0,61,46,0,34,22,0,2023,defunciones,Cuadro13
+5.0,,001 Enfermedades infecciosas intestinales,3,1,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,2023,defunciones,Cuadro13
+5.0,,003 Ciertas enfermedades transmitidas por vectores y rabia,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+5.0,,"005 Septicemia, excepto neonatal",3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,2023,defunciones,Cuadro13
+5.0,,006 Todas las demás enfermedades bacterianas,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2023,defunciones,Cuadro13
+5.0,,007 Sífilis y otras enfermedades venéreas,5,1,4,0,0,0,0,0,2,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+5.0,,010 Todas las demás enfermedades infecciosas y parasitarias,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,1,0,2023,defunciones,Cuadro13
+5.0,,015 Tumor maligno del hígado,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+5.0,,"031 Tumor maligno del encéfalo, del ojo y de otras partes del sistema nervioso central",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+5.0,,035 Leucemia,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,0,0,2023,defunciones,Cuadro13
+5.0,,"037 Tumores: in situ, benignos y de comportamiento incierto o desconocido y los no especificados",3,1,2,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+5.0,,"039 Anemias: nutricionales, hemolíticas, aplásticas y otras",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+5.0,,042 Deficiencias nutricionales,10,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,4,1,0,2023,defunciones,Cuadro13
+5.0,,043 Todas las demás enfermedades endocrinas y nutricionales,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2023,defunciones,Cuadro13
+5.0,,045 Meningitis y otras enfermedades inflamatorias del sistema nervioso central,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+5.0,,046 Epilepsia y otros trastornos episódicos y paroxísticos,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,0,2023,defunciones,Cuadro13
+5.0,,047 Todas las demás enfermedades del sistema nervioso,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2023,defunciones,Cuadro13
+5.0,,053 Todas las demás formas de enfermedad del corazón,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2023,defunciones,Cuadro13
+5.0,,055 Enfermedades cerebrovasculares,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+5.0,,059 Neumonía,12,9,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,3,0,3,0,0,2023,defunciones,Cuadro13
+5.0,,061 Enfermedades del pulmón debidas a agentes externos,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+5.0,,062 Todas las demás enfermedades del sistema respiratorio,8,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,2,2,0,2023,defunciones,Cuadro13
+5.0,,"065 Enfermedades del apéndice, hernia y obstrucción intestinal",2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2023,defunciones,Cuadro13
+5.0,,066 Enfermedades del hígado,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+5.0,,"068 Enteritis, colitis no infecciosa y otras enfermedades de los intestinos",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+5.0,,069 Enfermedades del peritoneo y todas las demás enfermedades del sistema digestivo,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,2023,defunciones,Cuadro13
+5.0,,071 Enfermedades de la piel y del tejido subcutáneo,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+5.0,,079 Feto y recién nacido afectados por ciertas afecciones maternas,9,4,5,0,1,2,0,1,1,0,1,2,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+5.0,,080 Feto y recién nacido afectados por complicaciones obstétricas y traumatismo del nacimiento,23,14,9,0,4,2,0,4,2,0,4,3,0,2,2,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+5.0,,"081 Retardo del crecimiento fetal, desnutrición fetal, gestación corta y bajo peso al nacer",23,14,9,0,5,4,0,5,2,0,3,1,0,1,1,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+5.0,,082 Trastornos respiratorios específicos del período perinatal,72,43,29,0,3,1,0,8,7,0,14,10,0,10,2,0,0,1,0,8,6,0,0,2,0,2023,defunciones,Cuadro13
+5.0,,083 Trastornos hemorrágicos y hematológicos del feto y del recién nacido,31,13,18,0,1,0,0,2,0,0,4,9,0,4,6,0,0,0,0,2,3,0,0,0,0,2023,defunciones,Cuadro13
+5.0,,084 Infecciones específicas del período perinatal,46,26,20,0,0,0,0,3,3,0,10,2,0,8,11,0,0,1,0,5,3,0,0,0,0,2023,defunciones,Cuadro13
+5.0,,085 Enterocolitis necrotizante del feto y del recién nacido,14,6,8,0,0,0,0,0,0,0,0,1,0,4,5,0,1,0,0,0,2,0,1,0,0,2023,defunciones,Cuadro13
+5.0,,086 Todas las demás afecciones originadas en el período perinatal,30,12,18,0,1,1,0,1,1,0,3,12,0,6,3,0,0,1,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+5.0,,087 Malformaciones congénitas del sistema circulatorio,59,32,27,0,1,0,0,0,3,0,5,5,0,8,7,0,1,0,0,11,7,0,6,5,0,2023,defunciones,Cuadro13
+5.0,,"088 Las demás malformaciones congénitas, deformidades y anomalías congénitas",64,37,27,0,4,1,0,6,5,0,8,7,0,8,4,0,0,1,0,6,6,0,5,3,0,2023,defunciones,Cuadro13
+5.0,,"089 Signos, síntomas y afecciones mal definidas",6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,1,1,0,2023,defunciones,Cuadro13
+5.0,,090 Accidentes de transporte de motor y secuelas,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+5.0,,093 Caídas,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+5.0,,"097 Exposición a la corriente eléctrica, radiación y temperatura y presión del aire ambientales extremas",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+5.0,,101 Agresiones (homicidios) y secuelas,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,2023,defunciones,Cuadro13
+5.0,,102 Eventos de intención no determinada y secuelas,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+5.0,,104 Contratiempos de la atención médico quirúrgica y secuelas,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+8.0,08 Atlántico,TOTAL,440,250,190,0,3,3,0,27,24,0,72,72,0,65,46,0,3,1,0,64,34,0,16,10,0,2023,defunciones,Cuadro13
+8.0,,001 Enfermedades infecciosas intestinales,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+8.0,,"005 Septicemia, excepto neonatal",2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2023,defunciones,Cuadro13
+8.0,,007 Sífilis y otras enfermedades venéreas,2,2,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+8.0,,010 Todas las demás enfermedades infecciosas y parasitarias,2,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,2023,defunciones,Cuadro13
+8.0,,015 Tumor maligno del hígado,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+8.0,,030 Todos los demás tumores malignos de los órganos urinarios,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+8.0,,032 Tumor maligno del tiroides y de otras glándulas endocrinas,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+8.0,,034 Tumor maligno de sitios no especificados,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+8.0,,"039 Anemias: nutricionales, hemolíticas, aplásticas y otras",2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2023,defunciones,Cuadro13
+8.0,,"040 Defectos de coagulación, púrpura y otras afecciones hemorrágicas y de la sangre y los trastornos que afectan la inmunidad",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+8.0,,042 Deficiencias nutricionales,7,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,2,2,0,2023,defunciones,Cuadro13
+8.0,,043 Todas las demás enfermedades endocrinas y nutricionales,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+8.0,,047 Todas las demás enfermedades del sistema nervioso,2,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+8.0,,053 Todas las demás formas de enfermedad del corazón,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,2023,defunciones,Cuadro13
+8.0,,055 Enfermedades cerebrovasculares,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2023,defunciones,Cuadro13
+8.0,,059 Neumonía,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,2023,defunciones,Cuadro13
+8.0,,062 Todas las demás enfermedades del sistema respiratorio,9,3,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,4,0,1,1,0,2023,defunciones,Cuadro13
+8.0,,064 Enfermedades del esófago y otras enfermedades del estómago y del duodeno,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+8.0,,"065 Enfermedades del apéndice, hernia y obstrucción intestinal",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+8.0,,073 Enfermedades glomerulares y tubulointersticiales,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+8.0,,079 Feto y recién nacido afectados por ciertas afecciones maternas,3,1,2,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+8.0,,080 Feto y recién nacido afectados por complicaciones obstétricas y traumatismo del nacimiento,7,4,3,0,1,0,0,0,0,0,2,2,0,1,1,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+8.0,,"081 Retardo del crecimiento fetal, desnutrición fetal, gestación corta y bajo peso al nacer",6,3,3,0,0,0,0,1,1,0,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+8.0,,082 Trastornos respiratorios específicos del período perinatal,162,90,72,0,2,1,0,11,11,0,42,42,0,18,15,0,2,0,0,14,3,0,1,0,0,2023,defunciones,Cuadro13
+8.0,,083 Trastornos hemorrágicos y hematológicos del feto y del recién nacido,8,6,2,0,0,0,0,1,0,0,2,1,0,3,1,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+8.0,,084 Infecciones específicas del período perinatal,71,36,35,0,0,1,0,5,6,0,8,14,0,14,10,0,1,0,0,8,4,0,0,0,0,2023,defunciones,Cuadro13
+8.0,,085 Enterocolitis necrotizante del feto y del recién nacido,12,9,3,0,0,0,0,0,0,0,1,0,0,4,2,0,0,0,0,4,1,0,0,0,0,2023,defunciones,Cuadro13
+8.0,,086 Todas las demás afecciones originadas en el período perinatal,17,11,6,0,0,0,0,2,1,0,3,2,0,5,3,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+8.0,,087 Malformaciones congénitas del sistema circulatorio,45,26,19,0,0,0,0,1,1,0,4,4,0,10,7,0,0,1,0,10,4,0,1,2,0,2023,defunciones,Cuadro13
+8.0,,"088 Las demás malformaciones congénitas, deformidades y anomalías congénitas",53,28,25,0,0,1,0,5,3,0,6,5,0,6,6,0,0,0,0,7,9,0,4,1,0,2023,defunciones,Cuadro13
+8.0,,"089 Signos, síntomas y afecciones mal definidas",7,4,3,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,2,2,0,0,1,0,2023,defunciones,Cuadro13
+8.0,,"097 Exposición a la corriente eléctrica, radiación y temperatura y presión del aire ambientales extremas",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+8.0,,101 Agresiones (homicidios) y secuelas,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+8.0,,104 Contratiempos de la atención médico quirúrgica y secuelas,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2023,defunciones,Cuadro13
+11.0,11 Bogotá,TOTAL,529,300,229,0,22,11,0,14,24,0,78,63,0,72,55,0,3,1,0,76,57,0,35,18,0,2023,defunciones,Cuadro13
+11.0,,006 Todas las demás enfermedades bacterianas,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2023,defunciones,Cuadro13
+11.0,,010 Todas las demás enfermedades infecciosas y parasitarias,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,3,0,2023,defunciones,Cuadro13
+11.0,,035 Leucemia,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+11.0,,"037 Tumores: in situ, benignos y de comportamiento incierto o desconocido y los no especificados",1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+11.0,,"040 Defectos de coagulación, púrpura y otras afecciones hemorrágicas y de la sangre y los trastornos que afectan la inmunidad",8,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,1,1,0,2023,defunciones,Cuadro13
+11.0,,042 Deficiencias nutricionales,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,2023,defunciones,Cuadro13
+11.0,,043 Todas las demás enfermedades endocrinas y nutricionales,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2023,defunciones,Cuadro13
+11.0,,045 Meningitis y otras enfermedades inflamatorias del sistema nervioso central,3,1,2,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+11.0,,047 Todas las demás enfermedades del sistema nervioso,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,2023,defunciones,Cuadro13
+11.0,,053 Todas las demás formas de enfermedad del corazón,4,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,1,0,0,2023,defunciones,Cuadro13
+11.0,,059 Neumonía,20,9,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,7,0,4,4,0,2023,defunciones,Cuadro13
+11.0,,062 Todas las demás enfermedades del sistema respiratorio,16,11,5,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,6,3,0,4,2,0,2023,defunciones,Cuadro13
+11.0,,"065 Enfermedades del apéndice, hernia y obstrucción intestinal",4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,0,0,2023,defunciones,Cuadro13
+11.0,,074 Insuficiencia renal,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2023,defunciones,Cuadro13
+11.0,,075 Todas las demás enfermedades del sistema urinario,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,2023,defunciones,Cuadro13
+11.0,,079 Feto y recién nacido afectados por ciertas afecciones maternas,21,12,9,0,4,3,0,0,2,0,1,3,0,7,1,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+11.0,,080 Feto y recién nacido afectados por complicaciones obstétricas y traumatismo del nacimiento,33,18,15,0,5,2,0,3,2,0,10,5,0,0,5,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+11.0,,"081 Retardo del crecimiento fetal, desnutrición fetal, gestación corta y bajo peso al nacer",12,3,9,0,2,1,0,1,2,0,0,2,0,0,2,0,0,0,0,0,2,0,0,0,0,2023,defunciones,Cuadro13
+11.0,,082 Trastornos respiratorios específicos del período perinatal,78,46,32,0,3,2,0,4,6,0,21,12,0,11,7,0,0,1,0,5,4,0,2,0,0,2023,defunciones,Cuadro13
+11.0,,083 Trastornos hemorrágicos y hematológicos del feto y del recién nacido,22,13,9,0,0,1,0,1,0,0,7,4,0,3,4,0,0,0,0,2,0,0,0,0,0,2023,defunciones,Cuadro13
+11.0,,084 Infecciones específicas del período perinatal,67,36,31,0,1,0,0,2,5,0,18,15,0,8,9,0,1,0,0,6,2,0,0,0,0,2023,defunciones,Cuadro13
+11.0,,085 Enterocolitis necrotizante del feto y del recién nacido,30,20,10,0,0,0,0,0,0,0,1,1,0,13,5,0,1,0,0,5,4,0,0,0,0,2023,defunciones,Cuadro13
+11.0,,086 Todas las demás afecciones originadas en el período perinatal,28,18,10,0,1,0,0,1,0,0,7,6,0,7,2,0,0,0,0,1,2,0,1,0,0,2023,defunciones,Cuadro13
+11.0,,087 Malformaciones congénitas del sistema circulatorio,58,28,30,0,1,0,0,0,4,0,4,8,0,10,10,0,0,0,0,10,7,0,3,1,0,2023,defunciones,Cuadro13
+11.0,,"088 Las demás malformaciones congénitas, deformidades y anomalías congénitas",78,47,31,0,5,2,0,2,1,0,7,6,0,12,10,0,1,0,0,12,9,0,8,3,0,2023,defunciones,Cuadro13
+11.0,,"089 Signos, síntomas y afecciones mal definidas",25,16,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,8,0,5,1,0,2023,defunciones,Cuadro13
+11.0,,101 Agresiones (homicidios) y secuelas,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+11.0,,102 Eventos de intención no determinada y secuelas,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+13.0,13 Bolívar,TOTAL,369,220,149,0,12,8,0,16,11,0,70,42,0,48,34,0,3,1,0,57,39,0,14,14,0,2023,defunciones,Cuadro13
+13.0,,001 Enfermedades infecciosas intestinales,4,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,2023,defunciones,Cuadro13
+13.0,,"005 Septicemia, excepto neonatal",4,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,1,0,2023,defunciones,Cuadro13
+13.0,,006 Todas las demás enfermedades bacterianas,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+13.0,,010 Todas las demás enfermedades infecciosas y parasitarias,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,2023,defunciones,Cuadro13
+13.0,,"037 Tumores: in situ, benignos y de comportamiento incierto o desconocido y los no especificados",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+13.0,,"040 Defectos de coagulación, púrpura y otras afecciones hemorrágicas y de la sangre y los trastornos que afectan la inmunidad",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+13.0,,042 Deficiencias nutricionales,12,8,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,0,3,1,0,2023,defunciones,Cuadro13
+13.0,,045 Meningitis y otras enfermedades inflamatorias del sistema nervioso central,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,0,2023,defunciones,Cuadro13
+13.0,,046 Epilepsia y otros trastornos episódicos y paroxísticos,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2023,defunciones,Cuadro13
+13.0,,047 Todas las demás enfermedades del sistema nervioso,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,2023,defunciones,Cuadro13
+13.0,,053 Todas las demás formas de enfermedad del corazón,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+13.0,,059 Neumonía,6,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0,0,2023,defunciones,Cuadro13
+13.0,,061 Enfermedades del pulmón debidas a agentes externos,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,2023,defunciones,Cuadro13
+13.0,,062 Todas las demás enfermedades del sistema respiratorio,9,4,5,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,4,0,1,1,0,2023,defunciones,Cuadro13
+13.0,,"067 Trastornos de la vesícula biliar, de las vías biliares y del páncreas",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+13.0,,072 Enfermedades del sistema osteomuscular y del tejido conjuntivo,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+13.0,,074 Insuficiencia renal,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+13.0,,075 Todas las demás enfermedades del sistema urinario,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2023,defunciones,Cuadro13
+13.0,,079 Feto y recién nacido afectados por ciertas afecciones maternas,8,4,4,0,1,2,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+13.0,,080 Feto y recién nacido afectados por complicaciones obstétricas y traumatismo del nacimiento,24,10,14,0,5,3,0,2,5,0,3,2,0,0,4,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+13.0,,"081 Retardo del crecimiento fetal, desnutrición fetal, gestación corta y bajo peso al nacer",6,5,1,0,0,0,0,0,0,0,2,0,0,1,1,0,0,0,0,2,0,0,0,0,0,2023,defunciones,Cuadro13
+13.0,,082 Trastornos respiratorios específicos del período perinatal,105,63,42,0,2,1,0,8,4,0,26,18,0,18,10,0,1,1,0,7,7,0,1,1,0,2023,defunciones,Cuadro13
+13.0,,083 Trastornos hemorrágicos y hematológicos del feto y del recién nacido,14,11,3,0,0,0,0,2,0,0,6,1,0,3,2,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+13.0,,084 Infecciones específicas del período perinatal,46,31,15,0,0,1,0,0,1,0,15,5,0,10,6,0,1,0,0,5,2,0,0,0,0,2023,defunciones,Cuadro13
+13.0,,085 Enterocolitis necrotizante del feto y del recién nacido,13,6,7,0,0,0,0,0,0,0,2,0,0,2,5,0,1,0,0,1,2,0,0,0,0,2023,defunciones,Cuadro13
+13.0,,086 Todas las demás afecciones originadas en el período perinatal,14,10,4,0,1,0,0,1,0,0,3,4,0,5,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+13.0,,087 Malformaciones congénitas del sistema circulatorio,52,27,25,0,1,0,0,1,1,0,7,7,0,3,5,0,0,0,0,15,8,0,0,4,0,2023,defunciones,Cuadro13
+13.0,,"088 Las demás malformaciones congénitas, deformidades y anomalías congénitas",28,20,8,0,2,1,0,2,0,0,3,3,0,5,1,0,0,0,0,4,1,0,4,2,0,2023,defunciones,Cuadro13
+13.0,,"089 Signos, síntomas y afecciones mal definidas",4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,1,0,2023,defunciones,Cuadro13
+13.0,,102 Eventos de intención no determinada y secuelas,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+15.0,15 Boyacá,TOTAL,86,50,36,0,2,1,0,3,5,0,12,11,0,15,9,0,2,0,0,10,6,0,6,4,0,2023,defunciones,Cuadro13
+15.0,,001 Enfermedades infecciosas intestinales,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,2023,defunciones,Cuadro13
+15.0,,006 Todas las demás enfermedades bacterianas,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2023,defunciones,Cuadro13
+15.0,,042 Deficiencias nutricionales,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,2023,defunciones,Cuadro13
+15.0,,046 Epilepsia y otros trastornos episódicos y paroxísticos,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+15.0,,055 Enfermedades cerebrovasculares,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+15.0,,059 Neumonía,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+15.0,,060 Enfermedades crónicas de las vías respiratorias inferiores,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+15.0,,062 Todas las demás enfermedades del sistema respiratorio,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,2023,defunciones,Cuadro13
+15.0,,064 Enfermedades del esófago y otras enfermedades del estómago y del duodeno,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+15.0,,"065 Enfermedades del apéndice, hernia y obstrucción intestinal",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+15.0,,079 Feto y recién nacido afectados por ciertas afecciones maternas,4,4,0,0,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+15.0,,080 Feto y recién nacido afectados por complicaciones obstétricas y traumatismo del nacimiento,5,2,3,0,0,0,0,0,1,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+15.0,,"081 Retardo del crecimiento fetal, desnutrición fetal, gestación corta y bajo peso al nacer",2,2,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+15.0,,082 Trastornos respiratorios específicos del período perinatal,19,12,7,0,0,0,0,1,2,0,3,2,0,3,2,0,2,0,0,3,1,0,0,0,0,2023,defunciones,Cuadro13
+15.0,,083 Trastornos hemorrágicos y hematológicos del feto y del recién nacido,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+15.0,,084 Infecciones específicas del período perinatal,6,3,3,0,0,0,0,0,0,0,2,2,0,1,1,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+15.0,,085 Enterocolitis necrotizante del feto y del recién nacido,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+15.0,,086 Todas las demás afecciones originadas en el período perinatal,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+15.0,,087 Malformaciones congénitas del sistema circulatorio,15,5,10,0,0,1,0,1,0,0,1,3,0,2,2,0,0,0,0,1,2,0,0,2,0,2023,defunciones,Cuadro13
+15.0,,"088 Las demás malformaciones congénitas, deformidades y anomalías congénitas",17,9,8,0,1,0,0,1,2,0,1,3,0,4,2,0,0,0,0,0,0,0,2,1,0,2023,defunciones,Cuadro13
+15.0,,"089 Signos, síntomas y afecciones mal definidas",1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+15.0,,093 Caídas,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+17.0,17 Caldas,TOTAL,73,45,28,0,1,0,0,5,2,0,13,13,0,12,3,0,0,0,0,12,7,0,2,3,0,2023,defunciones,Cuadro13
+17.0,,042 Deficiencias nutricionales,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,2023,defunciones,Cuadro13
+17.0,,045 Meningitis y otras enfermedades inflamatorias del sistema nervioso central,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+17.0,,046 Epilepsia y otros trastornos episódicos y paroxísticos,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2023,defunciones,Cuadro13
+17.0,,047 Todas las demás enfermedades del sistema nervioso,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+17.0,,053 Todas las demás formas de enfermedad del corazón,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+17.0,,059 Neumonía,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+17.0,,062 Todas las demás enfermedades del sistema respiratorio,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+17.0,,069 Enfermedades del peritoneo y todas las demás enfermedades del sistema digestivo,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+17.0,,080 Feto y recién nacido afectados por complicaciones obstétricas y traumatismo del nacimiento,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+17.0,,"081 Retardo del crecimiento fetal, desnutrición fetal, gestación corta y bajo peso al nacer",1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+17.0,,082 Trastornos respiratorios específicos del período perinatal,20,14,6,0,0,0,0,1,0,0,5,4,0,4,0,0,0,0,0,3,1,0,1,1,0,2023,defunciones,Cuadro13
+17.0,,083 Trastornos hemorrágicos y hematológicos del feto y del recién nacido,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+17.0,,084 Infecciones específicas del período perinatal,12,6,6,0,0,0,0,1,0,0,3,4,0,2,1,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+17.0,,085 Enterocolitis necrotizante del feto y del recién nacido,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+17.0,,086 Todas las demás afecciones originadas en el período perinatal,6,4,2,0,1,0,0,0,0,0,2,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+17.0,,087 Malformaciones congénitas del sistema circulatorio,11,8,3,0,0,0,0,1,0,0,3,1,0,3,1,0,0,0,0,1,0,0,0,1,0,2023,defunciones,Cuadro13
+17.0,,"088 Las demás malformaciones congénitas, deformidades y anomalías congénitas",7,4,3,0,0,0,0,2,0,0,0,1,0,1,1,0,0,0,0,1,1,0,0,0,0,2023,defunciones,Cuadro13
+17.0,,"089 Signos, síntomas y afecciones mal definidas",3,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,2023,defunciones,Cuadro13
+17.0,,102 Eventos de intención no determinada y secuelas,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+18.0,18 Caquetá,TOTAL,61,29,32,0,0,1,0,5,3,0,8,10,0,5,6,0,0,0,0,8,8,0,3,4,0,2023,defunciones,Cuadro13
+18.0,,004 Ciertas enfermedades inmunoprevenibles,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+18.0,,"040 Defectos de coagulación, púrpura y otras afecciones hemorrágicas y de la sangre y los trastornos que afectan la inmunidad",2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2023,defunciones,Cuadro13
+18.0,,042 Deficiencias nutricionales,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,2023,defunciones,Cuadro13
+18.0,,047 Todas las demás enfermedades del sistema nervioso,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2023,defunciones,Cuadro13
+18.0,,059 Neumonía,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+18.0,,075 Todas las demás enfermedades del sistema urinario,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+18.0,,080 Feto y recién nacido afectados por complicaciones obstétricas y traumatismo del nacimiento,2,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+18.0,,"081 Retardo del crecimiento fetal, desnutrición fetal, gestación corta y bajo peso al nacer",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+18.0,,082 Trastornos respiratorios específicos del período perinatal,11,6,5,0,0,0,0,1,2,0,2,1,0,0,0,0,0,0,0,3,2,0,0,0,0,2023,defunciones,Cuadro13
+18.0,,083 Trastornos hemorrágicos y hematológicos del feto y del recién nacido,4,2,2,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+18.0,,084 Infecciones específicas del período perinatal,9,6,3,0,0,0,0,1,1,0,2,1,0,3,1,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+18.0,,085 Enterocolitis necrotizante del feto y del recién nacido,3,0,3,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+18.0,,086 Todas las demás afecciones originadas en el período perinatal,3,1,2,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+18.0,,087 Malformaciones congénitas del sistema circulatorio,4,2,2,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,1,0,0,2023,defunciones,Cuadro13
+18.0,,"088 Las demás malformaciones congénitas, deformidades y anomalías congénitas",13,7,6,0,0,0,0,3,0,0,3,2,0,0,1,0,0,0,0,1,2,0,0,1,0,2023,defunciones,Cuadro13
+18.0,,"089 Signos, síntomas y afecciones mal definidas",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+19.0,19 Cauca,TOTAL,167,108,59,0,7,3,0,9,3,0,26,11,0,30,16,0,2,0,0,23,14,0,11,12,0,2023,defunciones,Cuadro13
+19.0,,001 Enfermedades infecciosas intestinales,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,2023,defunciones,Cuadro13
+19.0,,"005 Septicemia, excepto neonatal",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+19.0,,010 Todas las demás enfermedades infecciosas y parasitarias,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2023,defunciones,Cuadro13
+19.0,,035 Leucemia,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2023,defunciones,Cuadro13
+19.0,,045 Meningitis y otras enfermedades inflamatorias del sistema nervioso central,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+19.0,,047 Todas las demás enfermedades del sistema nervioso,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+19.0,,053 Todas las demás formas de enfermedad del corazón,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+19.0,,055 Enfermedades cerebrovasculares,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2023,defunciones,Cuadro13
+19.0,,059 Neumonía,7,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,3,1,0,2023,defunciones,Cuadro13
+19.0,,061 Enfermedades del pulmón debidas a agentes externos,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2023,defunciones,Cuadro13
+19.0,,062 Todas las demás enfermedades del sistema respiratorio,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,2023,defunciones,Cuadro13
+19.0,,064 Enfermedades del esófago y otras enfermedades del estómago y del duodeno,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+19.0,,"065 Enfermedades del apéndice, hernia y obstrucción intestinal",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+19.0,,069 Enfermedades del peritoneo y todas las demás enfermedades del sistema digestivo,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2023,defunciones,Cuadro13
+19.0,,079 Feto y recién nacido afectados por ciertas afecciones maternas,7,4,3,0,1,1,0,0,0,0,1,1,0,2,1,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+19.0,,080 Feto y recién nacido afectados por complicaciones obstétricas y traumatismo del nacimiento,9,8,1,0,1,0,0,0,1,0,3,0,0,4,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+19.0,,"081 Retardo del crecimiento fetal, desnutrición fetal, gestación corta y bajo peso al nacer",1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+19.0,,082 Trastornos respiratorios específicos del período perinatal,39,31,8,0,4,2,0,6,0,0,11,2,0,6,0,0,1,0,0,3,3,0,0,1,0,2023,defunciones,Cuadro13
+19.0,,083 Trastornos hemorrágicos y hematológicos del feto y del recién nacido,6,3,3,0,0,0,0,0,0,0,1,0,0,2,3,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+19.0,,084 Infecciones específicas del período perinatal,18,11,7,0,0,0,0,0,0,0,3,0,0,7,6,0,0,0,0,1,1,0,0,0,0,2023,defunciones,Cuadro13
+19.0,,085 Enterocolitis necrotizante del feto y del recién nacido,6,5,1,0,0,0,0,0,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+19.0,,086 Todas las demás afecciones originadas en el período perinatal,6,4,2,0,0,0,0,1,0,0,2,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+19.0,,087 Malformaciones congénitas del sistema circulatorio,31,16,15,0,0,0,0,0,1,0,1,4,0,3,5,0,1,0,0,7,3,0,4,2,0,2023,defunciones,Cuadro13
+19.0,,"088 Las demás malformaciones congénitas, deformidades y anomalías congénitas",12,7,5,0,0,0,0,1,0,0,3,1,0,0,1,0,0,0,0,2,3,0,1,0,0,2023,defunciones,Cuadro13
+19.0,,"089 Signos, síntomas y afecciones mal definidas",4,2,2,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2023,defunciones,Cuadro13
+19.0,,090 Accidentes de transporte de motor y secuelas,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2023,defunciones,Cuadro13
+19.0,,093 Caídas,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2023,defunciones,Cuadro13
+20.0,20 Cesar,TOTAL,217,116,101,0,8,3,0,17,12,0,27,25,0,17,21,0,0,1,0,31,27,0,16,12,0,2023,defunciones,Cuadro13
+20.0,,001 Enfermedades infecciosas intestinales,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,2023,defunciones,Cuadro13
+20.0,,007 Sífilis y otras enfermedades venéreas,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+20.0,,009 Enfermedad por el VIH (SIDA),1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+20.0,,010 Todas las demás enfermedades infecciosas y parasitarias,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+20.0,,"040 Defectos de coagulación, púrpura y otras afecciones hemorrágicas y de la sangre y los trastornos que afectan la inmunidad",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+20.0,,042 Deficiencias nutricionales,14,12,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,0,4,1,0,2023,defunciones,Cuadro13
+20.0,,043 Todas las demás enfermedades endocrinas y nutricionales,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,2023,defunciones,Cuadro13
+20.0,,"048 Enfermedades del ojo y sus anexos, del oído y de la apófisis mastoides",2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,2023,defunciones,Cuadro13
+20.0,,055 Enfermedades cerebrovasculares,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+20.0,,059 Neumonía,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,0,0,0,0,2023,defunciones,Cuadro13
+20.0,,062 Todas las demás enfermedades del sistema respiratorio,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+20.0,,"065 Enfermedades del apéndice, hernia y obstrucción intestinal",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2023,defunciones,Cuadro13
+20.0,,"068 Enteritis, colitis no infecciosa y otras enfermedades de los intestinos",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+20.0,,075 Todas las demás enfermedades del sistema urinario,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,2023,defunciones,Cuadro13
+20.0,,079 Feto y recién nacido afectados por ciertas afecciones maternas,3,2,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+20.0,,080 Feto y recién nacido afectados por complicaciones obstétricas y traumatismo del nacimiento,10,8,2,0,3,0,0,2,1,0,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+20.0,,"081 Retardo del crecimiento fetal, desnutrición fetal, gestación corta y bajo peso al nacer",3,2,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+20.0,,082 Trastornos respiratorios específicos del período perinatal,57,27,30,0,0,0,0,7,5,0,11,11,0,3,6,0,0,1,0,5,6,0,1,1,0,2023,defunciones,Cuadro13
+20.0,,083 Trastornos hemorrágicos y hematológicos del feto y del recién nacido,8,4,4,0,1,0,0,0,0,0,2,2,0,1,2,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+20.0,,084 Infecciones específicas del período perinatal,23,8,15,0,0,0,0,1,2,0,3,4,0,2,8,0,0,0,0,2,0,0,0,1,0,2023,defunciones,Cuadro13
+20.0,,085 Enterocolitis necrotizante del feto y del recién nacido,2,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+20.0,,086 Todas las demás afecciones originadas en el período perinatal,10,6,4,0,1,0,0,0,1,0,1,0,0,3,2,0,0,0,0,1,1,0,0,0,0,2023,defunciones,Cuadro13
+20.0,,087 Malformaciones congénitas del sistema circulatorio,32,18,14,0,1,1,0,4,2,0,5,5,0,4,1,0,0,0,0,2,3,0,2,2,0,2023,defunciones,Cuadro13
+20.0,,"088 Las demás malformaciones congénitas, deformidades y anomalías congénitas",18,7,11,0,1,0,0,0,1,0,3,2,0,0,2,0,0,0,0,1,6,0,2,0,0,2023,defunciones,Cuadro13
+20.0,,"089 Signos, síntomas y afecciones mal definidas",9,7,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,4,2,0,2,0,0,2023,defunciones,Cuadro13
+20.0,,096 Otros accidentes que obstruyen la respiración,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+20.0,,"099 Envenenamiento accidental por, y exposición a sustancias nocivas",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2023,defunciones,Cuadro13
+20.0,,102 Eventos de intención no determinada y secuelas,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2023,defunciones,Cuadro13
+23.0,23 Córdoba,TOTAL,306,163,143,0,6,11,0,18,8,0,43,38,0,49,40,0,2,0,0,36,34,0,9,12,0,2023,defunciones,Cuadro13
+23.0,,001 Enfermedades infecciosas intestinales,4,2,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,2,0,2023,defunciones,Cuadro13
+23.0,,003 Ciertas enfermedades transmitidas por vectores y rabia,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2023,defunciones,Cuadro13
+23.0,,"005 Septicemia, excepto neonatal",3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,2023,defunciones,Cuadro13
+23.0,,010 Todas las demás enfermedades infecciosas y parasitarias,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2023,defunciones,Cuadro13
+23.0,,"031 Tumor maligno del encéfalo, del ojo y de otras partes del sistema nervioso central",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+23.0,,"037 Tumores: in situ, benignos y de comportamiento incierto o desconocido y los no especificados",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+23.0,,"039 Anemias: nutricionales, hemolíticas, aplásticas y otras",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+23.0,,"040 Defectos de coagulación, púrpura y otras afecciones hemorrágicas y de la sangre y los trastornos que afectan la inmunidad",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+23.0,,042 Deficiencias nutricionales,8,3,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,2,3,0,2023,defunciones,Cuadro13
+23.0,,043 Todas las demás enfermedades endocrinas y nutricionales,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2023,defunciones,Cuadro13
+23.0,,046 Epilepsia y otros trastornos episódicos y paroxísticos,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+23.0,,047 Todas las demás enfermedades del sistema nervioso,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,2023,defunciones,Cuadro13
+23.0,,054 Insuficiencia cardíaca,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+23.0,,059 Neumonía,7,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,2,0,0,2023,defunciones,Cuadro13
+23.0,,062 Todas las demás enfermedades del sistema respiratorio,6,2,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,3,0,0,0,0,2023,defunciones,Cuadro13
+23.0,,064 Enfermedades del esófago y otras enfermedades del estómago y del duodeno,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+23.0,,"065 Enfermedades del apéndice, hernia y obstrucción intestinal",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2023,defunciones,Cuadro13
+23.0,,069 Enfermedades del peritoneo y todas las demás enfermedades del sistema digestivo,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+23.0,,071 Enfermedades de la piel y del tejido subcutáneo,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+23.0,,074 Insuficiencia renal,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+23.0,,079 Feto y recién nacido afectados por ciertas afecciones maternas,5,2,3,0,2,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+23.0,,080 Feto y recién nacido afectados por complicaciones obstétricas y traumatismo del nacimiento,15,9,6,0,1,3,0,3,0,0,4,1,0,1,2,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+23.0,,"081 Retardo del crecimiento fetal, desnutrición fetal, gestación corta y bajo peso al nacer",8,5,3,0,1,2,0,2,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+23.0,,082 Trastornos respiratorios específicos del período perinatal,108,55,53,0,2,3,0,9,6,0,18,20,0,19,14,0,0,0,0,6,9,0,1,1,0,2023,defunciones,Cuadro13
+23.0,,083 Trastornos hemorrágicos y hematológicos del feto y del recién nacido,3,2,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,2023,defunciones,Cuadro13
+23.0,,084 Infecciones específicas del período perinatal,37,22,15,0,0,1,0,2,0,0,9,6,0,9,7,0,0,0,0,2,1,0,0,0,0,2023,defunciones,Cuadro13
+23.0,,085 Enterocolitis necrotizante del feto y del recién nacido,11,6,5,0,0,0,0,0,0,0,2,1,0,3,4,0,1,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+23.0,,086 Todas las demás afecciones originadas en el período perinatal,4,4,0,0,0,0,0,0,0,0,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+23.0,,087 Malformaciones congénitas del sistema circulatorio,32,19,13,0,0,0,0,1,1,0,4,2,0,6,4,0,0,0,0,8,5,0,0,1,0,2023,defunciones,Cuadro13
+23.0,,"088 Las demás malformaciones congénitas, deformidades y anomalías congénitas",32,13,19,0,0,2,0,1,1,0,4,6,0,4,5,0,1,0,0,3,5,0,0,0,0,2023,defunciones,Cuadro13
+23.0,,"089 Signos, síntomas y afecciones mal definidas",5,2,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,1,1,0,2023,defunciones,Cuadro13
+25.0,25 Cundinamarca,TOTAL,281,176,105,0,10,1,0,12,10,0,45,28,0,49,29,0,0,0,0,53,24,0,7,13,0,2023,defunciones,Cuadro13
+25.0,,001 Enfermedades infecciosas intestinales,2,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+25.0,,010 Todas las demás enfermedades infecciosas y parasitarias,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,2023,defunciones,Cuadro13
+25.0,,"037 Tumores: in situ, benignos y de comportamiento incierto o desconocido y los no especificados",2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2023,defunciones,Cuadro13
+25.0,,"040 Defectos de coagulación, púrpura y otras afecciones hemorrágicas y de la sangre y los trastornos que afectan la inmunidad",2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,2023,defunciones,Cuadro13
+25.0,,045 Meningitis y otras enfermedades inflamatorias del sistema nervioso central,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,2023,defunciones,Cuadro13
+25.0,,051 Enfermedades isquémicas del corazón,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+25.0,,053 Todas las demás formas de enfermedad del corazón,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,2023,defunciones,Cuadro13
+25.0,,059 Neumonía,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,2023,defunciones,Cuadro13
+25.0,,062 Todas las demás enfermedades del sistema respiratorio,4,2,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,2,0,2023,defunciones,Cuadro13
+25.0,,064 Enfermedades del esófago y otras enfermedades del estómago y del duodeno,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+25.0,,"065 Enfermedades del apéndice, hernia y obstrucción intestinal",2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2023,defunciones,Cuadro13
+25.0,,066 Enfermedades del hígado,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+25.0,,069 Enfermedades del peritoneo y todas las demás enfermedades del sistema digestivo,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2023,defunciones,Cuadro13
+25.0,,071 Enfermedades de la piel y del tejido subcutáneo,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2023,defunciones,Cuadro13
+25.0,,073 Enfermedades glomerulares y tubulointersticiales,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+25.0,,079 Feto y recién nacido afectados por ciertas afecciones maternas,9,5,4,0,0,0,0,0,0,0,3,3,0,2,1,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+25.0,,080 Feto y recién nacido afectados por complicaciones obstétricas y traumatismo del nacimiento,14,8,6,0,1,1,0,3,2,0,3,3,0,1,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+25.0,,"081 Retardo del crecimiento fetal, desnutrición fetal, gestación corta y bajo peso al nacer",6,4,2,0,3,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+25.0,,082 Trastornos respiratorios específicos del período perinatal,48,30,18,0,3,0,0,2,2,0,9,4,0,7,6,0,0,0,0,9,6,0,0,0,0,2023,defunciones,Cuadro13
+25.0,,083 Trastornos hemorrágicos y hematológicos del feto y del recién nacido,12,9,3,0,0,0,0,1,0,0,3,2,0,3,1,0,0,0,0,2,0,0,0,0,0,2023,defunciones,Cuadro13
+25.0,,084 Infecciones específicas del período perinatal,33,22,11,0,0,0,0,0,3,0,12,2,0,9,5,0,0,0,0,1,1,0,0,0,0,2023,defunciones,Cuadro13
+25.0,,085 Enterocolitis necrotizante del feto y del recién nacido,21,16,5,0,0,0,0,0,0,0,1,1,0,6,3,0,0,0,0,9,1,0,0,0,0,2023,defunciones,Cuadro13
+25.0,,086 Todas las demás afecciones originadas en el período perinatal,22,13,9,0,1,0,0,1,1,0,6,5,0,2,1,0,0,0,0,3,2,0,0,0,0,2023,defunciones,Cuadro13
+25.0,,087 Malformaciones congénitas del sistema circulatorio,38,25,13,0,0,0,0,1,0,0,4,4,0,13,7,0,0,0,0,5,1,0,2,1,0,2023,defunciones,Cuadro13
+25.0,,"088 Las demás malformaciones congénitas, deformidades y anomalías congénitas",34,18,16,0,2,0,0,4,1,0,4,3,0,2,5,0,0,0,0,4,4,0,2,3,0,2023,defunciones,Cuadro13
+25.0,,"089 Signos, síntomas y afecciones mal definidas",12,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,4,0,1,2,0,2023,defunciones,Cuadro13
+25.0,,102 Eventos de intención no determinada y secuelas,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+25.0,,105 Otros accidentes y secuelas,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+27.0,27 Chocó,TOTAL,193,103,90,0,2,2,0,10,7,0,9,15,0,14,13,0,4,2,0,37,31,0,27,20,0,2023,defunciones,Cuadro13
+27.0,,001 Enfermedades infecciosas intestinales,20,11,9,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,5,0,8,3,0,2023,defunciones,Cuadro13
+27.0,,002 Tuberculosis y secuelas,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2023,defunciones,Cuadro13
+27.0,,003 Ciertas enfermedades transmitidas por vectores y rabia,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+27.0,,"005 Septicemia, excepto neonatal",2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,2023,defunciones,Cuadro13
+27.0,,007 Sífilis y otras enfermedades venéreas,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+27.0,,"040 Defectos de coagulación, púrpura y otras afecciones hemorrágicas y de la sangre y los trastornos que afectan la inmunidad",2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2023,defunciones,Cuadro13
+27.0,,042 Deficiencias nutricionales,25,14,11,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,7,5,0,6,6,0,2023,defunciones,Cuadro13
+27.0,,043 Todas las demás enfermedades endocrinas y nutricionales,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,2023,defunciones,Cuadro13
+27.0,,045 Meningitis y otras enfermedades inflamatorias del sistema nervioso central,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+27.0,,046 Epilepsia y otros trastornos episódicos y paroxísticos,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+27.0,,047 Todas las demás enfermedades del sistema nervioso,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2023,defunciones,Cuadro13
+27.0,,059 Neumonía,11,7,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,1,3,0,2023,defunciones,Cuadro13
+27.0,,060 Enfermedades crónicas de las vías respiratorias inferiores,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+27.0,,061 Enfermedades del pulmón debidas a agentes externos,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+27.0,,062 Todas las demás enfermedades del sistema respiratorio,16,11,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,7,4,0,3,1,0,2023,defunciones,Cuadro13
+27.0,,069 Enfermedades del peritoneo y todas las demás enfermedades del sistema digestivo,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2023,defunciones,Cuadro13
+27.0,,079 Feto y recién nacido afectados por ciertas afecciones maternas,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+27.0,,080 Feto y recién nacido afectados por complicaciones obstétricas y traumatismo del nacimiento,4,4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+27.0,,"081 Retardo del crecimiento fetal, desnutrición fetal, gestación corta y bajo peso al nacer",4,1,3,0,0,2,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+27.0,,082 Trastornos respiratorios específicos del período perinatal,29,13,16,0,0,0,0,3,4,0,4,6,0,3,3,0,0,0,0,3,2,0,0,1,0,2023,defunciones,Cuadro13
+27.0,,083 Trastornos hemorrágicos y hematológicos del feto y del recién nacido,5,3,2,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+27.0,,084 Infecciones específicas del período perinatal,18,11,7,0,0,0,0,1,1,0,1,4,0,5,1,0,1,0,0,3,1,0,0,0,0,2023,defunciones,Cuadro13
+27.0,,085 Enterocolitis necrotizante del feto y del recién nacido,5,2,3,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,1,1,0,0,0,0,2023,defunciones,Cuadro13
+27.0,,086 Todas las demás afecciones originadas en el período perinatal,4,1,3,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+27.0,,087 Malformaciones congénitas del sistema circulatorio,15,8,7,0,0,0,0,0,1,0,1,1,0,3,1,0,0,1,0,2,3,0,2,0,0,2023,defunciones,Cuadro13
+27.0,,"088 Las demás malformaciones congénitas, deformidades y anomalías congénitas",14,7,7,0,1,0,0,0,0,0,2,2,0,1,3,0,0,0,0,2,1,0,1,1,0,2023,defunciones,Cuadro13
+27.0,,"089 Signos, síntomas y afecciones mal definidas",3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,2023,defunciones,Cuadro13
+27.0,,093 Caídas,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+27.0,,"099 Envenenamiento accidental por, y exposición a sustancias nocivas",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2023,defunciones,Cuadro13
+27.0,,102 Eventos de intención no determinada y secuelas,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2023,defunciones,Cuadro13
+41.0,41 Huila,TOTAL,129,78,49,2,4,5,2,10,4,0,18,11,0,18,12,0,2,4,0,19,11,0,7,2,0,2023,defunciones,Cuadro13
+41.0,,010 Todas las demás enfermedades infecciosas y parasitarias,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+41.0,,"037 Tumores: in situ, benignos y de comportamiento incierto o desconocido y los no especificados",2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,2023,defunciones,Cuadro13
+41.0,,042 Deficiencias nutricionales,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,2023,defunciones,Cuadro13
+41.0,,045 Meningitis y otras enfermedades inflamatorias del sistema nervioso central,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+41.0,,055 Enfermedades cerebrovasculares,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+41.0,,059 Neumonía,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,2,0,0,2023,defunciones,Cuadro13
+41.0,,062 Todas las demás enfermedades del sistema respiratorio,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,2023,defunciones,Cuadro13
+41.0,,"065 Enfermedades del apéndice, hernia y obstrucción intestinal",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+41.0,,066 Enfermedades del hígado,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+41.0,,079 Feto y recién nacido afectados por ciertas afecciones maternas,2,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+41.0,,080 Feto y recién nacido afectados por complicaciones obstétricas y traumatismo del nacimiento,6,4,2,0,1,1,0,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+41.0,,"081 Retardo del crecimiento fetal, desnutrición fetal, gestación corta y bajo peso al nacer",4,3,1,0,1,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+41.0,,082 Trastornos respiratorios específicos del período perinatal,18,10,8,0,1,1,0,4,1,0,3,2,0,1,3,0,0,0,0,0,1,0,1,0,0,2023,defunciones,Cuadro13
+41.0,,083 Trastornos hemorrágicos y hematológicos del feto y del recién nacido,4,2,2,0,0,0,0,0,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+41.0,,084 Infecciones específicas del período perinatal,15,10,5,0,0,0,0,2,1,0,1,1,0,6,1,0,0,2,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+41.0,,085 Enterocolitis necrotizante del feto y del recién nacido,6,2,4,0,0,0,0,0,0,0,1,0,0,1,3,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+41.0,,086 Todas las demás afecciones originadas en el período perinatal,6,5,1,0,0,0,0,1,1,0,1,0,0,2,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+41.0,,087 Malformaciones congénitas del sistema circulatorio,24,13,10,1,1,1,1,1,0,0,4,2,0,5,2,0,0,1,0,2,3,0,0,1,0,2023,defunciones,Cuadro13
+41.0,,"088 Las demás malformaciones congénitas, deformidades y anomalías congénitas",22,11,10,1,0,1,1,1,0,0,3,3,0,1,3,0,1,1,0,4,2,0,1,0,0,2023,defunciones,Cuadro13
+41.0,,"089 Signos, síntomas y afecciones mal definidas",2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2023,defunciones,Cuadro13
+41.0,,090 Accidentes de transporte de motor y secuelas,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+41.0,,093 Caídas,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+44.0,44 La Guajira,TOTAL,377,220,157,0,7,5,0,14,13,0,62,41,0,32,31,0,3,0,0,64,38,0,38,29,0,2023,defunciones,Cuadro13
+44.0,,001 Enfermedades infecciosas intestinales,23,17,6,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,11,3,0,4,3,0,2023,defunciones,Cuadro13
+44.0,,003 Ciertas enfermedades transmitidas por vectores y rabia,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2023,defunciones,Cuadro13
+44.0,,004 Ciertas enfermedades inmunoprevenibles,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+44.0,,"005 Septicemia, excepto neonatal",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+44.0,,010 Todas las demás enfermedades infecciosas y parasitarias,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+44.0,,035 Leucemia,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2023,defunciones,Cuadro13
+44.0,,"037 Tumores: in situ, benignos y de comportamiento incierto o desconocido y los no especificados",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2023,defunciones,Cuadro13
+44.0,,"039 Anemias: nutricionales, hemolíticas, aplásticas y otras",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+44.0,,"040 Defectos de coagulación, púrpura y otras afecciones hemorrágicas y de la sangre y los trastornos que afectan la inmunidad",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+44.0,,042 Deficiencias nutricionales,38,22,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,8,0,16,8,0,2023,defunciones,Cuadro13
+44.0,,043 Todas las demás enfermedades endocrinas y nutricionales,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2023,defunciones,Cuadro13
+44.0,,053 Todas las demás formas de enfermedad del corazón,3,1,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,2023,defunciones,Cuadro13
+44.0,,055 Enfermedades cerebrovasculares,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+44.0,,059 Neumonía,10,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,2,3,0,2023,defunciones,Cuadro13
+44.0,,061 Enfermedades del pulmón debidas a agentes externos,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2023,defunciones,Cuadro13
+44.0,,062 Todas las demás enfermedades del sistema respiratorio,9,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,5,0,0,2023,defunciones,Cuadro13
+44.0,,064 Enfermedades del esófago y otras enfermedades del estómago y del duodeno,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+44.0,,066 Enfermedades del hígado,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2023,defunciones,Cuadro13
+44.0,,"067 Trastornos de la vesícula biliar, de las vías biliares y del páncreas",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+44.0,,"068 Enteritis, colitis no infecciosa y otras enfermedades de los intestinos",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+44.0,,073 Enfermedades glomerulares y tubulointersticiales,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2023,defunciones,Cuadro13
+44.0,,074 Insuficiencia renal,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+44.0,,075 Todas las demás enfermedades del sistema urinario,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2023,defunciones,Cuadro13
+44.0,,079 Feto y recién nacido afectados por ciertas afecciones maternas,2,0,2,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+44.0,,080 Feto y recién nacido afectados por complicaciones obstétricas y traumatismo del nacimiento,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+44.0,,"081 Retardo del crecimiento fetal, desnutrición fetal, gestación corta y bajo peso al nacer",10,9,1,0,1,0,0,3,1,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,2023,defunciones,Cuadro13
+44.0,,082 Trastornos respiratorios específicos del período perinatal,119,60,59,0,3,3,0,6,8,0,29,23,0,10,16,0,1,0,0,11,6,0,0,3,0,2023,defunciones,Cuadro13
+44.0,,083 Trastornos hemorrágicos y hematológicos del feto y del recién nacido,8,6,2,0,0,0,0,0,0,0,1,1,0,3,0,0,0,0,0,2,1,0,0,0,0,2023,defunciones,Cuadro13
+44.0,,084 Infecciones específicas del período perinatal,37,25,12,0,0,0,0,3,1,0,12,5,0,10,4,0,0,0,0,0,2,0,0,0,0,2023,defunciones,Cuadro13
+44.0,,085 Enterocolitis necrotizante del feto y del recién nacido,13,6,7,0,0,1,0,0,0,0,1,2,0,4,2,0,0,0,0,1,2,0,0,0,0,2023,defunciones,Cuadro13
+44.0,,086 Todas las demás afecciones originadas en el período perinatal,13,8,5,0,0,1,0,0,0,0,5,2,0,2,2,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+44.0,,087 Malformaciones congénitas del sistema circulatorio,41,22,19,0,0,0,0,2,3,0,7,3,0,2,3,0,1,0,0,8,9,0,2,1,0,2023,defunciones,Cuadro13
+44.0,,"088 Las demás malformaciones congénitas, deformidades y anomalías congénitas",22,13,9,0,3,0,0,0,0,0,4,3,0,1,2,0,0,0,0,4,2,0,1,2,0,2023,defunciones,Cuadro13
+44.0,,"089 Signos, síntomas y afecciones mal definidas",3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,2023,defunciones,Cuadro13
+44.0,,"099 Envenenamiento accidental por, y exposición a sustancias nocivas",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+44.0,,102 Eventos de intención no determinada y secuelas,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2023,defunciones,Cuadro13
+44.0,,105 Otros accidentes y secuelas,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+47.0,47 Magdalena,TOTAL,223,124,99,0,5,3,0,13,6,0,33,15,0,19,30,0,1,0,0,40,30,0,13,15,0,2023,defunciones,Cuadro13
+47.0,,001 Enfermedades infecciosas intestinales,8,7,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,3,0,0,2,0,0,2023,defunciones,Cuadro13
+47.0,,"005 Septicemia, excepto neonatal",3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,2023,defunciones,Cuadro13
+47.0,,007 Sífilis y otras enfermedades venéreas,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+47.0,,034 Tumor maligno de sitios no especificados,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+47.0,,035 Leucemia,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+47.0,,"040 Defectos de coagulación, púrpura y otras afecciones hemorrágicas y de la sangre y los trastornos que afectan la inmunidad",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+47.0,,042 Deficiencias nutricionales,11,7,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,2,3,0,2023,defunciones,Cuadro13
+47.0,,043 Todas las demás enfermedades endocrinas y nutricionales,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+47.0,,046 Epilepsia y otros trastornos episódicos y paroxísticos,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2023,defunciones,Cuadro13
+47.0,,047 Todas las demás enfermedades del sistema nervioso,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,2023,defunciones,Cuadro13
+47.0,,053 Todas las demás formas de enfermedad del corazón,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2023,defunciones,Cuadro13
+47.0,,059 Neumonía,10,4,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,0,1,1,0,2023,defunciones,Cuadro13
+47.0,,062 Todas las demás enfermedades del sistema respiratorio,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,2023,defunciones,Cuadro13
+47.0,,066 Enfermedades del hígado,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+47.0,,"067 Trastornos de la vesícula biliar, de las vías biliares y del páncreas",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+47.0,,"068 Enteritis, colitis no infecciosa y otras enfermedades de los intestinos",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+47.0,,069 Enfermedades del peritoneo y todas las demás enfermedades del sistema digestivo,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+47.0,,071 Enfermedades de la piel y del tejido subcutáneo,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+47.0,,074 Insuficiencia renal,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+47.0,,075 Todas las demás enfermedades del sistema urinario,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,2023,defunciones,Cuadro13
+47.0,,079 Feto y recién nacido afectados por ciertas afecciones maternas,2,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+47.0,,080 Feto y recién nacido afectados por complicaciones obstétricas y traumatismo del nacimiento,9,4,5,0,0,1,0,1,1,0,3,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+47.0,,"081 Retardo del crecimiento fetal, desnutrición fetal, gestación corta y bajo peso al nacer",10,8,2,0,2,0,0,4,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+47.0,,082 Trastornos respiratorios específicos del período perinatal,39,17,22,0,1,0,0,3,3,0,6,5,0,3,9,0,0,0,0,4,5,0,0,0,0,2023,defunciones,Cuadro13
+47.0,,083 Trastornos hemorrágicos y hematológicos del feto y del recién nacido,12,5,7,0,0,0,0,1,1,0,0,3,0,2,3,0,0,0,0,2,0,0,0,0,0,2023,defunciones,Cuadro13
+47.0,,084 Infecciones específicas del período perinatal,20,18,2,0,0,0,0,3,0,0,8,0,0,4,2,0,1,0,0,2,0,0,0,0,0,2023,defunciones,Cuadro13
+47.0,,085 Enterocolitis necrotizante del feto y del recién nacido,10,7,3,0,0,0,0,0,0,0,1,0,0,3,3,0,0,0,0,3,0,0,0,0,0,2023,defunciones,Cuadro13
+47.0,,086 Todas las demás afecciones originadas en el período perinatal,9,7,2,0,0,1,0,0,0,0,5,0,0,0,1,0,0,0,0,1,0,0,1,0,0,2023,defunciones,Cuadro13
+47.0,,087 Malformaciones congénitas del sistema circulatorio,30,17,13,0,0,0,0,1,0,0,7,4,0,3,4,0,0,0,0,5,3,0,1,2,0,2023,defunciones,Cuadro13
+47.0,,"088 Las demás malformaciones congénitas, deformidades y anomalías congénitas",18,4,14,0,1,1,0,0,1,0,1,0,0,1,3,0,0,0,0,1,6,0,0,3,0,2023,defunciones,Cuadro13
+47.0,,"089 Signos, síntomas y afecciones mal definidas",5,3,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,1,0,0,1,0,2023,defunciones,Cuadro13
+47.0,,090 Accidentes de transporte de motor y secuelas,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,2023,defunciones,Cuadro13
+47.0,,095 Ahogamiento y sumersión accidentales,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2023,defunciones,Cuadro13
+47.0,,101 Agresiones (homicidios) y secuelas,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+50.0,50 Meta,TOTAL,129,73,55,1,1,2,0,5,4,0,20,8,1,15,24,0,0,1,0,18,11,0,14,5,0,2023,defunciones,Cuadro13
+50.0,,001 Enfermedades infecciosas intestinales,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,2023,defunciones,Cuadro13
+50.0,,003 Ciertas enfermedades transmitidas por vectores y rabia,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,2023,defunciones,Cuadro13
+50.0,,010 Todas las demás enfermedades infecciosas y parasitarias,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0,2023,defunciones,Cuadro13
+50.0,,"037 Tumores: in situ, benignos y de comportamiento incierto o desconocido y los no especificados",2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2023,defunciones,Cuadro13
+50.0,,042 Deficiencias nutricionales,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,2,0,0,2023,defunciones,Cuadro13
+50.0,,045 Meningitis y otras enfermedades inflamatorias del sistema nervioso central,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+50.0,,047 Todas las demás enfermedades del sistema nervioso,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+50.0,,059 Neumonía,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,2,0,0,2023,defunciones,Cuadro13
+50.0,,062 Todas las demás enfermedades del sistema respiratorio,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2023,defunciones,Cuadro13
+50.0,,"068 Enteritis, colitis no infecciosa y otras enfermedades de los intestinos",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+50.0,,070 Hemorragia gastrointestinal,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+50.0,,075 Todas las demás enfermedades del sistema urinario,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+50.0,,079 Feto y recién nacido afectados por ciertas afecciones maternas,7,5,2,0,0,0,0,0,1,0,2,0,0,2,1,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+50.0,,080 Feto y recién nacido afectados por complicaciones obstétricas y traumatismo del nacimiento,11,7,4,0,0,1,0,2,0,0,4,1,0,1,2,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+50.0,,"081 Retardo del crecimiento fetal, desnutrición fetal, gestación corta y bajo peso al nacer",1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+50.0,,082 Trastornos respiratorios específicos del período perinatal,24,13,11,0,0,0,0,0,2,0,8,3,0,1,3,0,0,1,0,2,2,0,2,0,0,2023,defunciones,Cuadro13
+50.0,,083 Trastornos hemorrágicos y hematológicos del feto y del recién nacido,6,3,3,0,0,0,0,0,0,0,0,1,0,2,2,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+50.0,,084 Infecciones específicas del período perinatal,5,4,1,0,0,0,0,0,0,0,1,0,0,2,1,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+50.0,,085 Enterocolitis necrotizante del feto y del recién nacido,5,1,4,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+50.0,,086 Todas las demás afecciones originadas en el período perinatal,6,3,3,0,0,1,0,0,1,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+50.0,,087 Malformaciones congénitas del sistema circulatorio,16,12,4,0,0,0,0,2,0,0,2,0,0,5,4,0,0,0,0,2,0,0,1,0,0,2023,defunciones,Cuadro13
+50.0,,"088 Las demás malformaciones congénitas, deformidades y anomalías congénitas",15,5,9,1,0,0,0,1,0,0,1,2,1,0,6,0,0,0,0,1,1,0,2,0,0,2023,defunciones,Cuadro13
+50.0,,"089 Signos, síntomas y afecciones mal definidas",4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,2023,defunciones,Cuadro13
+50.0,,090 Accidentes de transporte de motor y secuelas,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+52.0,52 Nariño,TOTAL,127,74,51,2,3,3,1,4,6,1,11,12,0,19,10,0,0,2,0,24,12,0,13,6,0,2023,defunciones,Cuadro13
+52.0,,001 Enfermedades infecciosas intestinales,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+52.0,,003 Ciertas enfermedades transmitidas por vectores y rabia,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+52.0,,006 Todas las demás enfermedades bacterianas,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+52.0,,010 Todas las demás enfermedades infecciosas y parasitarias,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2023,defunciones,Cuadro13
+52.0,,"040 Defectos de coagulación, púrpura y otras afecciones hemorrágicas y de la sangre y los trastornos que afectan la inmunidad",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+52.0,,042 Deficiencias nutricionales,6,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,3,0,0,2023,defunciones,Cuadro13
+52.0,,043 Todas las demás enfermedades endocrinas y nutricionales,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2023,defunciones,Cuadro13
+52.0,,047 Todas las demás enfermedades del sistema nervioso,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,2023,defunciones,Cuadro13
+52.0,,053 Todas las demás formas de enfermedad del corazón,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+52.0,,059 Neumonía,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,0,0,0,0,2023,defunciones,Cuadro13
+52.0,,061 Enfermedades del pulmón debidas a agentes externos,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+52.0,,062 Todas las demás enfermedades del sistema respiratorio,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2023,defunciones,Cuadro13
+52.0,,073 Enfermedades glomerulares y tubulointersticiales,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+52.0,,079 Feto y recién nacido afectados por ciertas afecciones maternas,5,3,2,0,0,0,0,1,1,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+52.0,,080 Feto y recién nacido afectados por complicaciones obstétricas y traumatismo del nacimiento,7,1,6,0,1,1,0,0,1,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+52.0,,"081 Retardo del crecimiento fetal, desnutrición fetal, gestación corta y bajo peso al nacer",2,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+52.0,,082 Trastornos respiratorios específicos del período perinatal,25,17,8,0,1,1,0,2,1,0,4,2,0,4,1,0,0,1,0,4,2,0,2,0,0,2023,defunciones,Cuadro13
+52.0,,083 Trastornos hemorrágicos y hematológicos del feto y del recién nacido,5,3,2,0,0,0,0,0,0,0,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+52.0,,084 Infecciones específicas del período perinatal,17,9,8,0,0,0,0,0,1,0,2,1,0,4,5,0,0,1,0,3,0,0,0,0,0,2023,defunciones,Cuadro13
+52.0,,085 Enterocolitis necrotizante del feto y del recién nacido,3,1,2,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+52.0,,086 Todas las demás afecciones originadas en el período perinatal,4,3,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,2023,defunciones,Cuadro13
+52.0,,087 Malformaciones congénitas del sistema circulatorio,16,10,6,0,1,1,0,0,0,0,1,1,0,6,1,0,0,0,0,1,2,0,1,1,0,2023,defunciones,Cuadro13
+52.0,,"088 Las demás malformaciones congénitas, deformidades y anomalías congénitas",12,6,5,1,0,0,0,0,2,1,0,0,0,1,1,0,0,0,0,5,1,0,0,1,0,2023,defunciones,Cuadro13
+52.0,,"089 Signos, síntomas y afecciones mal definidas",1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+52.0,,096 Otros accidentes que obstruyen la respiración,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2023,defunciones,Cuadro13
+52.0,,105 Otros accidentes y secuelas,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+54.0,54 Norte de Santander,TOTAL,164,93,71,0,6,5,0,11,2,0,23,16,0,17,10,0,1,0,0,25,31,0,10,7,0,2023,defunciones,Cuadro13
+54.0,,001 Enfermedades infecciosas intestinales,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2023,defunciones,Cuadro13
+54.0,,"005 Septicemia, excepto neonatal",2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,2023,defunciones,Cuadro13
+54.0,,007 Sífilis y otras enfermedades venéreas,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+54.0,,009 Enfermedad por el VIH (SIDA),1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+54.0,,010 Todas las demás enfermedades infecciosas y parasitarias,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2023,defunciones,Cuadro13
+54.0,,"040 Defectos de coagulación, púrpura y otras afecciones hemorrágicas y de la sangre y los trastornos que afectan la inmunidad",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+54.0,,043 Todas las demás enfermedades endocrinas y nutricionales,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+54.0,,045 Meningitis y otras enfermedades inflamatorias del sistema nervioso central,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+54.0,,046 Epilepsia y otros trastornos episódicos y paroxísticos,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,2023,defunciones,Cuadro13
+54.0,,047 Todas las demás enfermedades del sistema nervioso,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+54.0,,050 Enfermedades hipertensivas,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2023,defunciones,Cuadro13
+54.0,,053 Todas las demás formas de enfermedad del corazón,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,2023,defunciones,Cuadro13
+54.0,,059 Neumonía,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,2023,defunciones,Cuadro13
+54.0,,062 Todas las demás enfermedades del sistema respiratorio,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,1,1,0,2023,defunciones,Cuadro13
+54.0,,"068 Enteritis, colitis no infecciosa y otras enfermedades de los intestinos",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+54.0,,075 Todas las demás enfermedades del sistema urinario,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+54.0,,080 Feto y recién nacido afectados por complicaciones obstétricas y traumatismo del nacimiento,2,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+54.0,,"081 Retardo del crecimiento fetal, desnutrición fetal, gestación corta y bajo peso al nacer",2,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+54.0,,082 Trastornos respiratorios específicos del período perinatal,43,28,15,0,4,3,0,6,0,0,8,6,0,5,2,0,1,0,0,4,4,0,0,0,0,2023,defunciones,Cuadro13
+54.0,,083 Trastornos hemorrágicos y hematológicos del feto y del recién nacido,2,2,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+54.0,,084 Infecciones específicas del período perinatal,8,5,3,0,0,0,0,0,0,0,2,0,0,2,1,0,0,0,0,1,2,0,0,0,0,2023,defunciones,Cuadro13
+54.0,,085 Enterocolitis necrotizante del feto y del recién nacido,4,2,2,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+54.0,,086 Todas las demás afecciones originadas en el período perinatal,15,9,6,0,0,0,0,1,0,0,4,4,0,3,1,0,0,0,0,1,0,0,0,1,0,2023,defunciones,Cuadro13
+54.0,,087 Malformaciones congénitas del sistema circulatorio,32,15,17,0,0,1,0,2,0,0,5,3,0,4,3,0,0,0,0,4,8,0,0,2,0,2023,defunciones,Cuadro13
+54.0,,"088 Las demás malformaciones congénitas, deformidades y anomalías congénitas",20,9,11,0,1,1,0,2,1,0,2,1,0,0,2,0,0,0,0,2,6,0,2,0,0,2023,defunciones,Cuadro13
+54.0,,"089 Signos, síntomas y afecciones mal definidas",4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,2023,defunciones,Cuadro13
+54.0,,090 Accidentes de transporte de motor y secuelas,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+54.0,,101 Agresiones (homicidios) y secuelas,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+54.0,,102 Eventos de intención no determinada y secuelas,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+63.0,63 Quindío,TOTAL,45,29,16,0,3,5,0,8,2,0,5,5,0,4,2,0,0,0,0,6,2,0,3,0,0,2023,defunciones,Cuadro13
+63.0,,059 Neumonía,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+63.0,,062 Todas las demás enfermedades del sistema respiratorio,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,2023,defunciones,Cuadro13
+63.0,,079 Feto y recién nacido afectados por ciertas afecciones maternas,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+63.0,,080 Feto y recién nacido afectados por complicaciones obstétricas y traumatismo del nacimiento,4,3,1,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+63.0,,"081 Retardo del crecimiento fetal, desnutrición fetal, gestación corta y bajo peso al nacer",3,2,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+63.0,,082 Trastornos respiratorios específicos del período perinatal,12,6,6,0,1,2,0,1,0,0,3,3,0,1,1,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+63.0,,083 Trastornos hemorrágicos y hematológicos del feto y del recién nacido,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+63.0,,084 Infecciones específicas del período perinatal,2,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+63.0,,085 Enterocolitis necrotizante del feto y del recién nacido,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+63.0,,086 Todas las demás afecciones originadas en el período perinatal,6,2,4,0,1,0,0,1,1,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+63.0,,087 Malformaciones congénitas del sistema circulatorio,6,6,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,4,0,0,0,0,0,2023,defunciones,Cuadro13
+63.0,,"088 Las demás malformaciones congénitas, deformidades y anomalías congénitas",5,3,2,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+66.0,66 Risaralda,TOTAL,78,49,29,0,5,0,0,1,2,0,14,7,0,6,4,0,1,0,0,9,6,0,13,10,0,2023,defunciones,Cuadro13
+66.0,,001 Enfermedades infecciosas intestinales,7,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,4,1,0,2023,defunciones,Cuadro13
+66.0,,003 Ciertas enfermedades transmitidas por vectores y rabia,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,2023,defunciones,Cuadro13
+66.0,,010 Todas las demás enfermedades infecciosas y parasitarias,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+66.0,,"040 Defectos de coagulación, púrpura y otras afecciones hemorrágicas y de la sangre y los trastornos que afectan la inmunidad",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+66.0,,042 Deficiencias nutricionales,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,2023,defunciones,Cuadro13
+66.0,,054 Insuficiencia cardíaca,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+66.0,,059 Neumonía,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,0,2023,defunciones,Cuadro13
+66.0,,062 Todas las demás enfermedades del sistema respiratorio,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,2023,defunciones,Cuadro13
+66.0,,075 Todas las demás enfermedades del sistema urinario,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+66.0,,080 Feto y recién nacido afectados por complicaciones obstétricas y traumatismo del nacimiento,2,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+66.0,,"081 Retardo del crecimiento fetal, desnutrición fetal, gestación corta y bajo peso al nacer",7,3,4,0,3,0,0,0,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+66.0,,082 Trastornos respiratorios específicos del período perinatal,14,9,5,0,0,0,0,0,0,0,5,2,0,3,0,0,1,0,0,0,0,0,0,3,0,2023,defunciones,Cuadro13
+66.0,,084 Infecciones específicas del período perinatal,8,4,4,0,0,0,0,0,1,0,3,2,0,0,1,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+66.0,,085 Enterocolitis necrotizante del feto y del recién nacido,2,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+66.0,,086 Todas las demás afecciones originadas en el período perinatal,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+66.0,,087 Malformaciones congénitas del sistema circulatorio,9,6,3,0,0,0,0,0,0,0,3,0,0,2,1,0,0,0,0,1,1,0,0,1,0,2023,defunciones,Cuadro13
+66.0,,"088 Las demás malformaciones congénitas, deformidades y anomalías congénitas",9,6,3,0,0,0,0,1,0,0,3,0,0,0,1,0,0,0,0,1,1,0,1,1,0,2023,defunciones,Cuadro13
+66.0,,093 Caídas,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2023,defunciones,Cuadro13
+68.0,68 Santander,TOTAL,147,78,69,0,4,8,0,7,9,0,17,13,0,15,11,0,1,1,0,21,18,0,13,9,0,2023,defunciones,Cuadro13
+68.0,,001 Enfermedades infecciosas intestinales,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,1,0,2023,defunciones,Cuadro13
+68.0,,003 Ciertas enfermedades transmitidas por vectores y rabia,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2023,defunciones,Cuadro13
+68.0,,007 Sífilis y otras enfermedades venéreas,2,0,2,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+68.0,,010 Todas las demás enfermedades infecciosas y parasitarias,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,2023,defunciones,Cuadro13
+68.0,,"031 Tumor maligno del encéfalo, del ojo y de otras partes del sistema nervioso central",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2023,defunciones,Cuadro13
+68.0,,035 Leucemia,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2023,defunciones,Cuadro13
+68.0,,042 Deficiencias nutricionales,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,2023,defunciones,Cuadro13
+68.0,,043 Todas las demás enfermedades endocrinas y nutricionales,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+68.0,,046 Epilepsia y otros trastornos episódicos y paroxísticos,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2023,defunciones,Cuadro13
+68.0,,047 Todas las demás enfermedades del sistema nervioso,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+68.0,,053 Todas las demás formas de enfermedad del corazón,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+68.0,,055 Enfermedades cerebrovasculares,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+68.0,,059 Neumonía,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,2023,defunciones,Cuadro13
+68.0,,062 Todas las demás enfermedades del sistema respiratorio,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+68.0,,066 Enfermedades del hígado,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+68.0,,079 Feto y recién nacido afectados por ciertas afecciones maternas,3,1,2,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+68.0,,080 Feto y recién nacido afectados por complicaciones obstétricas y traumatismo del nacimiento,16,11,5,0,2,2,0,2,2,0,2,1,0,3,0,0,0,0,0,2,0,0,0,0,0,2023,defunciones,Cuadro13
+68.0,,"081 Retardo del crecimiento fetal, desnutrición fetal, gestación corta y bajo peso al nacer",1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+68.0,,082 Trastornos respiratorios específicos del período perinatal,26,14,12,0,0,0,0,1,4,0,7,1,0,1,4,0,1,0,0,4,3,0,0,0,0,2023,defunciones,Cuadro13
+68.0,,083 Trastornos hemorrágicos y hematológicos del feto y del recién nacido,7,4,3,0,0,1,0,0,0,0,2,2,0,1,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+68.0,,084 Infecciones específicas del período perinatal,9,5,4,0,0,0,0,0,1,0,1,1,0,3,1,0,0,0,0,1,1,0,0,0,0,2023,defunciones,Cuadro13
+68.0,,085 Enterocolitis necrotizante del feto y del recién nacido,5,4,1,0,0,0,0,1,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+68.0,,086 Todas las demás afecciones originadas en el período perinatal,9,3,6,0,1,0,0,1,0,0,0,3,0,1,2,0,0,1,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+68.0,,087 Malformaciones congénitas del sistema circulatorio,13,8,5,0,0,0,0,0,0,0,3,1,0,1,0,0,0,0,0,2,4,0,2,0,0,2023,defunciones,Cuadro13
+68.0,,"088 Las demás malformaciones congénitas, deformidades y anomalías congénitas",21,7,14,0,1,4,0,1,1,0,0,2,0,1,3,0,0,0,0,2,3,0,2,1,0,2023,defunciones,Cuadro13
+68.0,,"089 Signos, síntomas y afecciones mal definidas",8,5,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,3,2,0,1,1,0,2023,defunciones,Cuadro13
+68.0,,090 Accidentes de transporte de motor y secuelas,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+68.0,,093 Caídas,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2023,defunciones,Cuadro13
+68.0,,101 Agresiones (homicidios) y secuelas,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+70.0,70 Sucre,TOTAL,151,80,71,0,1,6,0,8,8,0,37,31,0,11,14,0,0,1,0,18,7,0,5,4,0,2023,defunciones,Cuadro13
+70.0,,001 Enfermedades infecciosas intestinales,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,2023,defunciones,Cuadro13
+70.0,,"005 Septicemia, excepto neonatal",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+70.0,,"031 Tumor maligno del encéfalo, del ojo y de otras partes del sistema nervioso central",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+70.0,,"040 Defectos de coagulación, púrpura y otras afecciones hemorrágicas y de la sangre y los trastornos que afectan la inmunidad",2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,2023,defunciones,Cuadro13
+70.0,,042 Deficiencias nutricionales,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,2023,defunciones,Cuadro13
+70.0,,043 Todas las demás enfermedades endocrinas y nutricionales,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+70.0,,045 Meningitis y otras enfermedades inflamatorias del sistema nervioso central,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+70.0,,053 Todas las demás formas de enfermedad del corazón,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+70.0,,055 Enfermedades cerebrovasculares,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+70.0,,059 Neumonía,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,0,2023,defunciones,Cuadro13
+70.0,,079 Feto y recién nacido afectados por ciertas afecciones maternas,2,1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+70.0,,080 Feto y recién nacido afectados por complicaciones obstétricas y traumatismo del nacimiento,2,0,2,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+70.0,,"081 Retardo del crecimiento fetal, desnutrición fetal, gestación corta y bajo peso al nacer",7,3,4,0,0,2,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+70.0,,082 Trastornos respiratorios específicos del período perinatal,37,22,15,0,1,3,0,4,3,0,13,6,0,1,2,0,0,0,0,2,1,0,1,0,0,2023,defunciones,Cuadro13
+70.0,,083 Trastornos hemorrágicos y hematológicos del feto y del recién nacido,8,4,4,0,0,0,0,0,0,0,2,2,0,2,1,0,0,1,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+70.0,,084 Infecciones específicas del período perinatal,11,5,6,0,0,0,0,1,0,0,4,2,0,0,3,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+70.0,,085 Enterocolitis necrotizante del feto y del recién nacido,6,4,2,0,0,0,0,0,0,0,1,1,0,3,1,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+70.0,,086 Todas las demás afecciones originadas en el período perinatal,10,5,5,0,0,0,0,1,0,0,3,4,0,0,1,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+70.0,,087 Malformaciones congénitas del sistema circulatorio,40,20,20,0,0,0,0,0,1,0,9,10,0,4,5,0,0,0,0,6,3,0,1,1,0,2023,defunciones,Cuadro13
+70.0,,"088 Las demás malformaciones congénitas, deformidades y anomalías congénitas",9,3,6,0,0,1,0,1,2,0,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+70.0,,090 Accidentes de transporte de motor y secuelas,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+70.0,,102 Eventos de intención no determinada y secuelas,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2023,defunciones,Cuadro13
+73.0,73 Tolima,TOTAL,114,62,52,0,3,0,0,11,3,0,23,17,0,6,10,0,0,0,0,12,17,0,7,5,0,2023,defunciones,Cuadro13
+73.0,,009 Enfermedad por el VIH (SIDA),1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+73.0,,"039 Anemias: nutricionales, hemolíticas, aplásticas y otras",1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+73.0,,042 Deficiencias nutricionales,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2023,defunciones,Cuadro13
+73.0,,043 Todas las demás enfermedades endocrinas y nutricionales,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+73.0,,047 Todas las demás enfermedades del sistema nervioso,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+73.0,,055 Enfermedades cerebrovasculares,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+73.0,,059 Neumonía,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,3,0,0,2023,defunciones,Cuadro13
+73.0,,061 Enfermedades del pulmón debidas a agentes externos,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+73.0,,062 Todas las demás enfermedades del sistema respiratorio,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,2023,defunciones,Cuadro13
+73.0,,069 Enfermedades del peritoneo y todas las demás enfermedades del sistema digestivo,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2023,defunciones,Cuadro13
+73.0,,079 Feto y recién nacido afectados por ciertas afecciones maternas,7,5,2,0,1,0,0,2,0,0,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+73.0,,080 Feto y recién nacido afectados por complicaciones obstétricas y traumatismo del nacimiento,4,2,2,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+73.0,,"081 Retardo del crecimiento fetal, desnutrición fetal, gestación corta y bajo peso al nacer",2,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+73.0,,082 Trastornos respiratorios específicos del período perinatal,20,11,9,0,2,0,0,4,1,0,4,4,0,0,2,0,0,0,0,1,2,0,0,0,0,2023,defunciones,Cuadro13
+73.0,,083 Trastornos hemorrágicos y hematológicos del feto y del recién nacido,2,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+73.0,,084 Infecciones específicas del período perinatal,14,8,6,0,0,0,0,1,0,0,5,3,0,1,2,0,0,0,0,1,1,0,0,0,0,2023,defunciones,Cuadro13
+73.0,,085 Enterocolitis necrotizante del feto y del recién nacido,4,2,2,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,0,0,2023,defunciones,Cuadro13
+73.0,,086 Todas las demás afecciones originadas en el período perinatal,9,5,4,0,0,0,0,0,0,0,5,3,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+73.0,,087 Malformaciones congénitas del sistema circulatorio,19,7,12,0,0,0,0,0,1,0,4,2,0,3,4,0,0,0,0,0,4,0,0,1,0,2023,defunciones,Cuadro13
+73.0,,"088 Las demás malformaciones congénitas, deformidades y anomalías congénitas",11,6,5,0,0,0,0,3,0,0,0,2,0,0,1,0,0,0,0,3,0,0,0,2,0,2023,defunciones,Cuadro13
+73.0,,"089 Signos, síntomas y afecciones mal definidas",4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,2023,defunciones,Cuadro13
+73.0,,"098 Exposición al humo, fuego y llamas",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+76.0,76 Valle del Cauca,TOTAL,368,226,142,0,9,6,0,30,17,0,71,23,0,47,37,0,2,0,0,46,44,0,21,15,0,2023,defunciones,Cuadro13
+76.0,,001 Enfermedades infecciosas intestinales,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,2023,defunciones,Cuadro13
+76.0,,006 Todas las demás enfermedades bacterianas,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,2023,defunciones,Cuadro13
+76.0,,010 Todas las demás enfermedades infecciosas y parasitarias,4,2,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,1,0,0,2023,defunciones,Cuadro13
+76.0,,"031 Tumor maligno del encéfalo, del ojo y de otras partes del sistema nervioso central",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+76.0,,038 Todos los demás tumores malignos de otras localizaciones,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+76.0,,042 Deficiencias nutricionales,9,4,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,1,2,0,2023,defunciones,Cuadro13
+76.0,,043 Todas las demás enfermedades endocrinas y nutricionales,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,2023,defunciones,Cuadro13
+76.0,,045 Meningitis y otras enfermedades inflamatorias del sistema nervioso central,4,2,2,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,1,0,2023,defunciones,Cuadro13
+76.0,,046 Epilepsia y otros trastornos episódicos y paroxísticos,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2023,defunciones,Cuadro13
+76.0,,047 Todas las demás enfermedades del sistema nervioso,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,2023,defunciones,Cuadro13
+76.0,,053 Todas las demás formas de enfermedad del corazón,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,2023,defunciones,Cuadro13
+76.0,,055 Enfermedades cerebrovasculares,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2023,defunciones,Cuadro13
+76.0,,059 Neumonía,14,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,5,0,1,2,0,2023,defunciones,Cuadro13
+76.0,,062 Todas las demás enfermedades del sistema respiratorio,10,4,6,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,4,0,1,2,0,2023,defunciones,Cuadro13
+76.0,,064 Enfermedades del esófago y otras enfermedades del estómago y del duodeno,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+76.0,,"065 Enfermedades del apéndice, hernia y obstrucción intestinal",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+76.0,,066 Enfermedades del hígado,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+76.0,,075 Todas las demás enfermedades del sistema urinario,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+76.0,,079 Feto y recién nacido afectados por ciertas afecciones maternas,17,12,5,0,0,1,0,3,1,0,7,1,0,2,2,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+76.0,,080 Feto y recién nacido afectados por complicaciones obstétricas y traumatismo del nacimiento,34,24,10,0,2,2,0,8,4,0,9,4,0,5,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+76.0,,"081 Retardo del crecimiento fetal, desnutrición fetal, gestación corta y bajo peso al nacer",8,5,3,0,0,0,0,2,2,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+76.0,,082 Trastornos respiratorios específicos del período perinatal,69,47,22,0,4,0,0,11,3,0,18,5,0,6,7,0,0,0,0,6,7,0,2,0,0,2023,defunciones,Cuadro13
+76.0,,083 Trastornos hemorrágicos y hematológicos del feto y del recién nacido,16,10,6,0,0,0,0,2,0,0,4,2,0,3,4,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+76.0,,084 Infecciones específicas del período perinatal,21,12,9,0,0,0,0,1,0,0,5,2,0,5,7,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+76.0,,085 Enterocolitis necrotizante del feto y del recién nacido,22,13,9,0,0,0,0,0,0,0,4,0,0,5,6,0,1,0,0,2,3,0,1,0,0,2023,defunciones,Cuadro13
+76.0,,086 Todas las demás afecciones originadas en el período perinatal,10,5,5,0,1,0,0,1,1,0,3,3,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+76.0,,087 Malformaciones congénitas del sistema circulatorio,58,35,23,0,1,0,0,0,2,0,9,3,0,11,7,0,0,0,0,7,9,0,7,2,0,2023,defunciones,Cuadro13
+76.0,,"088 Las demás malformaciones congénitas, deformidades y anomalías congénitas",42,25,17,0,1,3,0,2,4,0,10,2,0,6,2,0,1,0,0,5,4,0,0,2,0,2023,defunciones,Cuadro13
+76.0,,"089 Signos, síntomas y afecciones mal definidas",3,1,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,2023,defunciones,Cuadro13
+76.0,,090 Accidentes de transporte de motor y secuelas,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2023,defunciones,Cuadro13
+76.0,,101 Agresiones (homicidios) y secuelas,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,2023,defunciones,Cuadro13
+81.0,81 Arauca,TOTAL,34,19,15,0,1,0,0,1,0,0,2,5,0,5,4,0,0,0,0,7,3,0,3,3,0,2023,defunciones,Cuadro13
+81.0,,001 Enfermedades infecciosas intestinales,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,2023,defunciones,Cuadro13
+81.0,,003 Ciertas enfermedades transmitidas por vectores y rabia,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+81.0,,006 Todas las demás enfermedades bacterianas,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2023,defunciones,Cuadro13
+81.0,,"039 Anemias: nutricionales, hemolíticas, aplásticas y otras",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2023,defunciones,Cuadro13
+81.0,,042 Deficiencias nutricionales,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+81.0,,059 Neumonía,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+81.0,,062 Todas las demás enfermedades del sistema respiratorio,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+81.0,,"065 Enfermedades del apéndice, hernia y obstrucción intestinal",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+81.0,,079 Feto y recién nacido afectados por ciertas afecciones maternas,2,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+81.0,,080 Feto y recién nacido afectados por complicaciones obstétricas y traumatismo del nacimiento,2,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+81.0,,"081 Retardo del crecimiento fetal, desnutrición fetal, gestación corta y bajo peso al nacer",1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+81.0,,082 Trastornos respiratorios específicos del período perinatal,2,0,2,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+81.0,,083 Trastornos hemorrágicos y hematológicos del feto y del recién nacido,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+81.0,,084 Infecciones específicas del período perinatal,2,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+81.0,,085 Enterocolitis necrotizante del feto y del recién nacido,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+81.0,,087 Malformaciones congénitas del sistema circulatorio,7,5,2,0,0,0,0,0,0,0,2,1,0,2,1,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+81.0,,"088 Las demás malformaciones congénitas, deformidades y anomalías congénitas",6,3,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,2,1,0,2023,defunciones,Cuadro13
+81.0,,102 Eventos de intención no determinada y secuelas,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+85.0,85 Casanare,TOTAL,56,34,22,0,1,1,0,4,2,0,6,3,0,7,7,0,0,0,0,12,5,0,4,4,0,2023,defunciones,Cuadro13
+85.0,,001 Enfermedades infecciosas intestinales,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2023,defunciones,Cuadro13
+85.0,,006 Todas las demás enfermedades bacterianas,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+85.0,,"037 Tumores: in situ, benignos y de comportamiento incierto o desconocido y los no especificados",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+85.0,,059 Neumonía,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,2023,defunciones,Cuadro13
+85.0,,062 Todas las demás enfermedades del sistema respiratorio,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+85.0,,075 Todas las demás enfermedades del sistema urinario,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2023,defunciones,Cuadro13
+85.0,,079 Feto y recién nacido afectados por ciertas afecciones maternas,2,0,2,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+85.0,,080 Feto y recién nacido afectados por complicaciones obstétricas y traumatismo del nacimiento,7,3,4,0,0,1,0,1,1,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+85.0,,082 Trastornos respiratorios específicos del período perinatal,10,7,3,0,0,0,0,2,1,0,3,0,0,1,1,0,0,0,0,1,1,0,0,0,0,2023,defunciones,Cuadro13
+85.0,,083 Trastornos hemorrágicos y hematológicos del feto y del recién nacido,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+85.0,,084 Infecciones específicas del período perinatal,6,5,1,0,0,0,0,0,0,0,1,0,0,4,1,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+85.0,,085 Enterocolitis necrotizante del feto y del recién nacido,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+85.0,,086 Todas las demás afecciones originadas en el período perinatal,2,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+85.0,,087 Malformaciones congénitas del sistema circulatorio,5,3,2,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,2,0,0,0,1,0,2023,defunciones,Cuadro13
+85.0,,"088 Las demás malformaciones congénitas, deformidades y anomalías congénitas",9,5,4,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,4,2,0,0,0,0,2023,defunciones,Cuadro13
+85.0,,"089 Signos, síntomas y afecciones mal definidas",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+85.0,,096 Otros accidentes que obstruyen la respiración,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+85.0,,101 Agresiones (homicidios) y secuelas,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+86.0,86 Putumayo,TOTAL,44,27,17,0,1,0,0,7,3,0,6,3,0,4,2,0,1,0,0,6,7,0,2,2,0,2023,defunciones,Cuadro13
+86.0,,001 Enfermedades infecciosas intestinales,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2023,defunciones,Cuadro13
+86.0,,079 Feto y recién nacido afectados por ciertas afecciones maternas,2,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+86.0,,080 Feto y recién nacido afectados por complicaciones obstétricas y traumatismo del nacimiento,2,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+86.0,,082 Trastornos respiratorios específicos del período perinatal,12,9,3,0,1,0,0,3,0,0,3,1,0,1,1,0,0,0,0,1,1,0,0,0,0,2023,defunciones,Cuadro13
+86.0,,084 Infecciones específicas del período perinatal,3,2,1,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+86.0,,085 Enterocolitis necrotizante del feto y del recién nacido,3,3,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+86.0,,086 Todas las demás afecciones originadas en el período perinatal,4,2,2,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+86.0,,087 Malformaciones congénitas del sistema circulatorio,5,2,3,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,2023,defunciones,Cuadro13
+86.0,,"088 Las demás malformaciones congénitas, deformidades y anomalías congénitas",4,2,2,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2023,defunciones,Cuadro13
+86.0,,"089 Signos, síntomas y afecciones mal definidas",4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,1,0,0,2023,defunciones,Cuadro13
+86.0,,095 Ahogamiento y sumersión accidentales,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+86.0,,096 Otros accidentes que obstruyen la respiración,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2023,defunciones,Cuadro13
+86.0,,101 Agresiones (homicidios) y secuelas,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+86.0,,105 Otros accidentes y secuelas,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+88.0,88 Archipiélago de San Andrés y Providencia,TOTAL,6,3,3,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,1,0,0,0,1,0,2023,defunciones,Cuadro13
+88.0,,010 Todas las demás enfermedades infecciosas y parasitarias,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+88.0,,059 Neumonía,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2023,defunciones,Cuadro13
+88.0,,082 Trastornos respiratorios específicos del período perinatal,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+88.0,,084 Infecciones específicas del período perinatal,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+88.0,,087 Malformaciones congénitas del sistema circulatorio,2,2,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+91.0,91 Amazonas,TOTAL,15,11,4,0,0,0,0,1,1,0,2,0,0,1,2,0,0,0,0,3,1,0,4,0,0,2023,defunciones,Cuadro13
+91.0,,001 Enfermedades infecciosas intestinales,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,2023,defunciones,Cuadro13
+91.0,,003 Ciertas enfermedades transmitidas por vectores y rabia,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+91.0,,062 Todas las demás enfermedades del sistema respiratorio,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+91.0,,079 Feto y recién nacido afectados por ciertas afecciones maternas,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+91.0,,080 Feto y recién nacido afectados por complicaciones obstétricas y traumatismo del nacimiento,2,2,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+91.0,,082 Trastornos respiratorios específicos del período perinatal,2,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+91.0,,084 Infecciones específicas del período perinatal,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+91.0,,087 Malformaciones congénitas del sistema circulatorio,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+91.0,,"088 Las demás malformaciones congénitas, deformidades y anomalías congénitas",3,2,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+91.0,,"089 Signos, síntomas y afecciones mal definidas",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+94.0,94 Guainía,TOTAL,23,14,9,0,0,1,0,2,1,0,2,0,0,4,1,0,0,0,0,4,3,0,2,3,0,2023,defunciones,Cuadro13
+94.0,,001 Enfermedades infecciosas intestinales,4,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,2023,defunciones,Cuadro13
+94.0,,010 Todas las demás enfermedades infecciosas y parasitarias,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+94.0,,042 Deficiencias nutricionales,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+94.0,,059 Neumonía,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+94.0,,062 Todas las demás enfermedades del sistema respiratorio,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+94.0,,079 Feto y recién nacido afectados por ciertas afecciones maternas,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+94.0,,082 Trastornos respiratorios específicos del período perinatal,4,3,1,0,0,0,0,0,1,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+94.0,,084 Infecciones específicas del período perinatal,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+94.0,,087 Malformaciones congénitas del sistema circulatorio,3,2,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+94.0,,"088 Las demás malformaciones congénitas, deformidades y anomalías congénitas",5,2,3,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+94.0,,"089 Signos, síntomas y afecciones mal definidas",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+95.0,95 Guaviare,TOTAL,8,4,4,0,0,0,0,0,0,0,1,1,0,1,3,0,0,0,0,2,0,0,0,0,0,2023,defunciones,Cuadro13
+95.0,,053 Todas las demás formas de enfermedad del corazón,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+95.0,,059 Neumonía,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+95.0,,082 Trastornos respiratorios específicos del período perinatal,2,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+95.0,,084 Infecciones específicas del período perinatal,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+95.0,,085 Enterocolitis necrotizante del feto y del recién nacido,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+95.0,,"089 Signos, síntomas y afecciones mal definidas",1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+95.0,,096 Otros accidentes que obstruyen la respiración,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+97.0,97 Vaupés,TOTAL,11,9,2,0,0,0,0,1,0,0,2,0,0,2,1,0,0,0,0,3,1,0,1,0,0,2023,defunciones,Cuadro13
+97.0,,045 Meningitis y otras enfermedades inflamatorias del sistema nervioso central,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+97.0,,059 Neumonía,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+97.0,,062 Todas las demás enfermedades del sistema respiratorio,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2023,defunciones,Cuadro13
+97.0,,082 Trastornos respiratorios específicos del período perinatal,2,2,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+97.0,,084 Infecciones específicas del período perinatal,2,2,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+97.0,,085 Enterocolitis necrotizante del feto y del recién nacido,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+97.0,,093 Caídas,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+97.0,,102 Eventos de intención no determinada y secuelas,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+99.0,99 Vichada,TOTAL,27,19,8,0,1,1,0,1,0,0,6,2,0,1,0,0,0,0,0,7,4,0,3,1,0,2023,defunciones,Cuadro13
+99.0,,001 Enfermedades infecciosas intestinales,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,2023,defunciones,Cuadro13
+99.0,,007 Sífilis y otras enfermedades venéreas,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+99.0,,"039 Anemias: nutricionales, hemolíticas, aplásticas y otras",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+99.0,,042 Deficiencias nutricionales,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,2023,defunciones,Cuadro13
+99.0,,059 Neumonía,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+99.0,,062 Todas las demás enfermedades del sistema respiratorio,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+99.0,,080 Feto y recién nacido afectados por complicaciones obstétricas y traumatismo del nacimiento,2,0,2,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+99.0,,"081 Retardo del crecimiento fetal, desnutrición fetal, gestación corta y bajo peso al nacer",2,2,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+99.0,,082 Trastornos respiratorios específicos del período perinatal,4,3,1,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+99.0,,084 Infecciones específicas del período perinatal,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+99.0,,085 Enterocolitis necrotizante del feto y del recién nacido,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2023,defunciones,Cuadro13
+99.0,,086 Todas las demás afecciones originadas en el período perinatal,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+99.0,,087 Malformaciones congénitas del sistema circulatorio,3,2,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2023,defunciones,Cuadro13
+99.0,,"088 Las demás malformaciones congénitas, deformidades y anomalías congénitas",2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,2023,defunciones,Cuadro13
+99.0,,096 Otros accidentes que obstruyen la respiración,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+75.0,Extranjero,TOTAL,68,39,28,1,2,1,0,4,4,0,7,4,0,4,4,1,0,1,0,12,11,0,10,3,0,2023,defunciones,Cuadro13
+75.0,,001 Enfermedades infecciosas intestinales,6,2,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,1,2,0,2023,defunciones,Cuadro13
+75.0,,010 Todas las demás enfermedades infecciosas y parasitarias,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,2023,defunciones,Cuadro13
+75.0,,042 Deficiencias nutricionales,8,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,5,0,0,2023,defunciones,Cuadro13
+75.0,,043 Todas las demás enfermedades endocrinas y nutricionales,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+75.0,,053 Todas las demás formas de enfermedad del corazón,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2023,defunciones,Cuadro13
+75.0,,059 Neumonía,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,0,0,2023,defunciones,Cuadro13
+75.0,,062 Todas las demás enfermedades del sistema respiratorio,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,2023,defunciones,Cuadro13
+75.0,,066 Enfermedades del hígado,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+75.0,,072 Enfermedades del sistema osteomuscular y del tejido conjuntivo,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+75.0,,080 Feto y recién nacido afectados por complicaciones obstétricas y traumatismo del nacimiento,3,1,1,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+75.0,,082 Trastornos respiratorios específicos del período perinatal,14,7,7,0,0,0,0,3,2,0,4,1,0,0,2,0,0,0,0,0,2,0,0,0,0,2023,defunciones,Cuadro13
+75.0,,084 Infecciones específicas del período perinatal,5,3,2,0,0,0,0,0,0,0,1,1,0,2,1,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+75.0,,085 Enterocolitis necrotizante del feto y del recién nacido,2,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+75.0,,086 Todas las demás afecciones originadas en el período perinatal,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+75.0,,087 Malformaciones congénitas del sistema circulatorio,6,2,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,1,1,0,1,0,0,2023,defunciones,Cuadro13
+75.0,,"088 Las demás malformaciones congénitas, deformidades y anomalías congénitas",6,4,2,0,2,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+75.0,,"089 Signos, síntomas y afecciones mal definidas",2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2023,defunciones,Cuadro13
+75.0,,102 Eventos de intención no determinada y secuelas,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+1.0,Sin Información,TOTAL,83,48,34,1,1,0,0,0,0,0,11,14,1,5,6,0,0,0,0,17,3,0,14,11,0,2023,defunciones,Cuadro13
+1.0,,001 Enfermedades infecciosas intestinales,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+1.0,,042 Deficiencias nutricionales,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,2023,defunciones,Cuadro13
+1.0,,062 Todas las demás enfermedades del sistema respiratorio,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2023,defunciones,Cuadro13
+1.0,,080 Feto y recién nacido afectados por complicaciones obstétricas y traumatismo del nacimiento,2,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+1.0,,"081 Retardo del crecimiento fetal, desnutrición fetal, gestación corta y bajo peso al nacer",1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+1.0,,082 Trastornos respiratorios específicos del período perinatal,2,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+1.0,,084 Infecciones específicas del período perinatal,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+1.0,,086 Todas las demás afecciones originadas en el período perinatal,30,13,17,0,1,0,0,0,0,0,8,12,0,4,5,0,0,0,0,0,0,0,0,0,0,2023,defunciones,Cuadro13
+1.0,,087 Malformaciones congénitas del sistema circulatorio,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+1.0,,"089 Signos, síntomas y afecciones mal definidas",34,23,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,1,0,9,10,0,2023,defunciones,Cuadro13
+1.0,,090 Accidentes de transporte de motor y secuelas,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2023,defunciones,Cuadro13
+1.0,,101 Agresiones (homicidios) y secuelas,5,2,2,1,0,0,0,0,0,0,1,2,1,0,0,0,0,0,0,1,0,0,0,0,0,2023,defunciones,Cuadro13
+1.0,,102 Eventos de intención no determinada y secuelas,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2023,defunciones,Cuadro13
+,Fuente: DANE - Estadísticas Vitales,,,,,,,,,,,,,,,,,,,,,,,,,,,2023,defunciones,Cuadro13
+,Fecha de actualización: 19 de diciembre de 2024,,,,,,,,,,,,,,,,,,,,,,,,,,,2023,defunciones,Cuadro13

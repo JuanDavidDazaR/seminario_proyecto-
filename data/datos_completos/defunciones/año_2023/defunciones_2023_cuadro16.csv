@@ -1,0 +1,402 @@
+﻿columna,"CUADRO 16 - Diez primeras causas de defunción, según departamento de residencia",columna_1,columna_2,año,tipo,hoja_origen
+,Año 2023,,,2023,defunciones,Cuadro16
+,Volver al índice,Departamento,,2023,defunciones,Cuadro16
+,Departamento de Residencia,Causas de defunción a 3 caracteres CIE-10,Total,2023,defunciones,Cuadro16
+3.0,Total Nacional,Total Defunciones,268411,2023,defunciones,Cuadro16
+3.0,,I21 Infarto agudo del miocardio,41365,2023,defunciones,Cuadro16
+3.0,,J44 Otras enfermedades pulmonares obstructivas crónicas,14888,2023,defunciones,Cuadro16
+3.0,,"X95 Agresión con disparo de otras armas de fuego, y las no especificadas",9757,2023,defunciones,Cuadro16
+3.0,,"J18 Neumonía, organismo no especificado",5776,2023,defunciones,Cuadro16
+3.0,,C16 Tumor maligno del estómago,5313,2023,defunciones,Cuadro16
+3.0,,C34 Tumor maligno de los bronquios y del pulmón,4732,2023,defunciones,Cuadro16
+3.0,,E11 Diabetes mellitus tipo 2,4498,2023,defunciones,Cuadro16
+3.0,,C50 Tumor maligno de la mama,3846,2023,defunciones,Cuadro16
+3.0,,G30 Enfermedad de alzheimer,3735,2023,defunciones,Cuadro16
+3.0,,I69 Secuelas de enfermedad cerebrovascular,3723,2023,defunciones,Cuadro16
+5.0,05 Antioquia,Total Defunciones,36680,2023,defunciones,Cuadro16
+5.0,,I21 Infarto agudo del miocardio,4919,2023,defunciones,Cuadro16
+5.0,,J44 Otras enfermedades pulmonares obstructivas crónicas,2560,2023,defunciones,Cuadro16
+5.0,,C34 Tumor maligno de los bronquios y del pulmón,1164,2023,defunciones,Cuadro16
+5.0,,"J18 Neumonía, organismo no especificado",1009,2023,defunciones,Cuadro16
+5.0,,"X95 Agresión con disparo de otras armas de fuego, y las no especificadas",867,2023,defunciones,Cuadro16
+5.0,,C16 Tumor maligno del estómago,700,2023,defunciones,Cuadro16
+5.0,,I10 Hipertensión esencial (primaria),698,2023,defunciones,Cuadro16
+5.0,,N39 Otros trastornos del sistema urinario,613,2023,defunciones,Cuadro16
+5.0,,G30 Enfermedad de alzheimer,578,2023,defunciones,Cuadro16
+5.0,,C50 Tumor maligno de la mama,537,2023,defunciones,Cuadro16
+8.0,08 Atlántico,Total Defunciones,14538,2023,defunciones,Cuadro16
+8.0,,I21 Infarto agudo del miocardio,2088,2023,defunciones,Cuadro16
+8.0,,J44 Otras enfermedades pulmonares obstructivas crónicas,605,2023,defunciones,Cuadro16
+8.0,,"X95 Agresión con disparo de otras armas de fuego, y las no especificadas",603,2023,defunciones,Cuadro16
+8.0,,"J18 Neumonía, organismo no especificado",556,2023,defunciones,Cuadro16
+8.0,,I69 Secuelas de enfermedad cerebrovascular,368,2023,defunciones,Cuadro16
+8.0,,E11 Diabetes mellitus tipo 2,321,2023,defunciones,Cuadro16
+8.0,,I67 Otras enfermedades cerebrovasculares,289,2023,defunciones,Cuadro16
+8.0,,G30 Enfermedad de alzheimer,281,2023,defunciones,Cuadro16
+8.0,,"J15 Neumonía bacteriana, no clasificada en otra parte",256,2023,defunciones,Cuadro16
+8.0,,C50 Tumor maligno de la mama,255,2023,defunciones,Cuadro16
+11.0,11 Bogotá,Total Defunciones,35052,2023,defunciones,Cuadro16
+11.0,,I21 Infarto agudo del miocardio,5174,2023,defunciones,Cuadro16
+11.0,,J44 Otras enfermedades pulmonares obstructivas crónicas,2020,2023,defunciones,Cuadro16
+11.0,,C16 Tumor maligno del estómago,964,2023,defunciones,Cuadro16
+11.0,,G30 Enfermedad de alzheimer,842,2023,defunciones,Cuadro16
+11.0,,I11 Enfermedad cardíaca hipertensiva,646,2023,defunciones,Cuadro16
+11.0,,C18 Tumor maligno del colon,644,2023,defunciones,Cuadro16
+11.0,,C34 Tumor maligno de los bronquios y del pulmón,617,2023,defunciones,Cuadro16
+11.0,,I25 Enfermedad isquémica crónica del corazón,608,2023,defunciones,Cuadro16
+11.0,,E11 Diabetes mellitus tipo 2,592,2023,defunciones,Cuadro16
+11.0,,C50 Tumor maligno de la mama,580,2023,defunciones,Cuadro16
+13.0,13 Bolívar,Total Defunciones,10771,2023,defunciones,Cuadro16
+13.0,,I21 Infarto agudo del miocardio,1151,2023,defunciones,Cuadro16
+13.0,,"X95 Agresión con disparo de otras armas de fuego, y las no especificadas",545,2023,defunciones,Cuadro16
+13.0,,J44 Otras enfermedades pulmonares obstructivas crónicas,433,2023,defunciones,Cuadro16
+13.0,,"J18 Neumonía, organismo no especificado",390,2023,defunciones,Cuadro16
+13.0,,I10 Hipertensión esencial (primaria),342,2023,defunciones,Cuadro16
+13.0,,I69 Secuelas de enfermedad cerebrovascular,280,2023,defunciones,Cuadro16
+13.0,,E11 Diabetes mellitus tipo 2,202,2023,defunciones,Cuadro16
+13.0,,"E14 Diabetes mellitus, no especificada",201,2023,defunciones,Cuadro16
+13.0,,C34 Tumor maligno de los bronquios y del pulmón,196,2023,defunciones,Cuadro16
+13.0,,C61 Tumor maligno de la próstata,184,2023,defunciones,Cuadro16
+15.0,15 Boyacá,Total Defunciones,7237,2023,defunciones,Cuadro16
+15.0,,I21 Infarto agudo del miocardio,1223,2023,defunciones,Cuadro16
+15.0,,J44 Otras enfermedades pulmonares obstructivas crónicas,707,2023,defunciones,Cuadro16
+15.0,,C16 Tumor maligno del estómago,187,2023,defunciones,Cuadro16
+15.0,,I11 Enfermedad cardíaca hipertensiva,171,2023,defunciones,Cuadro16
+15.0,,E11 Diabetes mellitus tipo 2,160,2023,defunciones,Cuadro16
+15.0,,C61 Tumor maligno de la próstata,106,2023,defunciones,Cuadro16
+15.0,,"J15 Neumonía bacteriana, no clasificada en otra parte",106,2023,defunciones,Cuadro16
+15.0,,K70 Enfermedad alcohólica del hígado,96,2023,defunciones,Cuadro16
+15.0,,I63 Infarto cerebral,94,2023,defunciones,Cuadro16
+15.0,,E78 Trastornos del metabolismo de las lipoproteínas y otras lipidemias,93,2023,defunciones,Cuadro16
+17.0,17 Caldas,Total Defunciones,6682,2023,defunciones,Cuadro16
+17.0,,I21 Infarto agudo del miocardio,1187,2023,defunciones,Cuadro16
+17.0,,J44 Otras enfermedades pulmonares obstructivas crónicas,499,2023,defunciones,Cuadro16
+17.0,,C16 Tumor maligno del estómago,153,2023,defunciones,Cuadro16
+17.0,,"J18 Neumonía, organismo no especificado",146,2023,defunciones,Cuadro16
+17.0,,C34 Tumor maligno de los bronquios y del pulmón,134,2023,defunciones,Cuadro16
+17.0,,E11 Diabetes mellitus tipo 2,117,2023,defunciones,Cuadro16
+17.0,,I25 Enfermedad isquémica crónica del corazón,103,2023,defunciones,Cuadro16
+17.0,,I67 Otras enfermedades cerebrovasculares,95,2023,defunciones,Cuadro16
+17.0,,I63 Infarto cerebral,92,2023,defunciones,Cuadro16
+17.0,,"J15 Neumonía bacteriana, no clasificada en otra parte",90,2023,defunciones,Cuadro16
+18.0,18 Caquetá,Total Defunciones,1933,2023,defunciones,Cuadro16
+18.0,,I21 Infarto agudo del miocardio,260,2023,defunciones,Cuadro16
+18.0,,J44 Otras enfermedades pulmonares obstructivas crónicas,128,2023,defunciones,Cuadro16
+18.0,,C16 Tumor maligno del estómago,57,2023,defunciones,Cuadro16
+18.0,,X93 Agresión con disparo de arma corta,50,2023,defunciones,Cuadro16
+18.0,,"X95 Agresión con disparo de otras armas de fuego, y las no especificadas",46,2023,defunciones,Cuadro16
+18.0,,E11 Diabetes mellitus tipo 2,44,2023,defunciones,Cuadro16
+18.0,,"J18 Neumonía, organismo no especificado",37,2023,defunciones,Cuadro16
+18.0,,"V29 Motociclista lesionado en otros accidentes de transporte, y en los no especificados",37,2023,defunciones,Cuadro16
+18.0,,I63 Infarto cerebral,33,2023,defunciones,Cuadro16
+18.0,,I11 Enfermedad cardíaca hipertensiva,32,2023,defunciones,Cuadro16
+19.0,19 Cauca,Total Defunciones,6852,2023,defunciones,Cuadro16
+19.0,,I21 Infarto agudo del miocardio,872,2023,defunciones,Cuadro16
+19.0,,"X95 Agresión con disparo de otras armas de fuego, y las no especificadas",497,2023,defunciones,Cuadro16
+19.0,,J44 Otras enfermedades pulmonares obstructivas crónicas,322,2023,defunciones,Cuadro16
+19.0,,C16 Tumor maligno del estómago,199,2023,defunciones,Cuadro16
+19.0,,Y09 Agresión por medios no especificados,146,2023,defunciones,Cuadro16
+19.0,,I69 Secuelas de enfermedad cerebrovascular,140,2023,defunciones,Cuadro16
+19.0,,I63 Infarto cerebral,116,2023,defunciones,Cuadro16
+19.0,,I11 Enfermedad cardíaca hipertensiva,107,2023,defunciones,Cuadro16
+19.0,,I61 Hemorragia intraencefálica,107,2023,defunciones,Cuadro16
+19.0,,"J18 Neumonía, organismo no especificado",93,2023,defunciones,Cuadro16
+20.0,20 Cesar,Total Defunciones,5587,2023,defunciones,Cuadro16
+20.0,,I21 Infarto agudo del miocardio,719,2023,defunciones,Cuadro16
+20.0,,J44 Otras enfermedades pulmonares obstructivas crónicas,314,2023,defunciones,Cuadro16
+20.0,,"X95 Agresión con disparo de otras armas de fuego, y las no especificadas",260,2023,defunciones,Cuadro16
+20.0,,"J18 Neumonía, organismo no especificado",158,2023,defunciones,Cuadro16
+20.0,,E11 Diabetes mellitus tipo 2,124,2023,defunciones,Cuadro16
+20.0,,I10 Hipertensión esencial (primaria),95,2023,defunciones,Cuadro16
+20.0,,I67 Otras enfermedades cerebrovasculares,94,2023,defunciones,Cuadro16
+20.0,,I11 Enfermedad cardíaca hipertensiva,93,2023,defunciones,Cuadro16
+20.0,,I69 Secuelas de enfermedad cerebrovascular,88,2023,defunciones,Cuadro16
+20.0,,C34 Tumor maligno de los bronquios y del pulmón,87,2023,defunciones,Cuadro16
+23.0,23 Córdoba,Total Defunciones,8280,2023,defunciones,Cuadro16
+23.0,,I21 Infarto agudo del miocardio,1284,2023,defunciones,Cuadro16
+23.0,,J44 Otras enfermedades pulmonares obstructivas crónicas,457,2023,defunciones,Cuadro16
+23.0,,"J18 Neumonía, organismo no especificado",329,2023,defunciones,Cuadro16
+23.0,,"X95 Agresión con disparo de otras armas de fuego, y las no especificadas",179,2023,defunciones,Cuadro16
+23.0,,E11 Diabetes mellitus tipo 2,178,2023,defunciones,Cuadro16
+23.0,,I63 Infarto cerebral,170,2023,defunciones,Cuadro16
+23.0,,C34 Tumor maligno de los bronquios y del pulmón,145,2023,defunciones,Cuadro16
+23.0,,I69 Secuelas de enfermedad cerebrovascular,141,2023,defunciones,Cuadro16
+23.0,,C61 Tumor maligno de la próstata,139,2023,defunciones,Cuadro16
+23.0,,I49 Otras arritmias cardíacas,131,2023,defunciones,Cuadro16
+25.0,25 Cundinamarca,Total Defunciones,15516,2023,defunciones,Cuadro16
+25.0,,I21 Infarto agudo del miocardio,2945,2023,defunciones,Cuadro16
+25.0,,J44 Otras enfermedades pulmonares obstructivas crónicas,1052,2023,defunciones,Cuadro16
+25.0,,C16 Tumor maligno del estómago,337,2023,defunciones,Cuadro16
+25.0,,"J18 Neumonía, organismo no especificado",333,2023,defunciones,Cuadro16
+25.0,,N39 Otros trastornos del sistema urinario,257,2023,defunciones,Cuadro16
+25.0,,I25 Enfermedad isquémica crónica del corazón,245,2023,defunciones,Cuadro16
+25.0,,"X95 Agresión con disparo de otras armas de fuego, y las no especificadas",218,2023,defunciones,Cuadro16
+25.0,,E11 Diabetes mellitus tipo 2,216,2023,defunciones,Cuadro16
+25.0,,I11 Enfermedad cardíaca hipertensiva,211,2023,defunciones,Cuadro16
+25.0,,C18 Tumor maligno del colon,199,2023,defunciones,Cuadro16
+27.0,27 Chocó,Total Defunciones,1919,2023,defunciones,Cuadro16
+27.0,,I21 Infarto agudo del miocardio,218,2023,defunciones,Cuadro16
+27.0,,"X95 Agresión con disparo de otras armas de fuego, y las no especificadas",133,2023,defunciones,Cuadro16
+27.0,,J44 Otras enfermedades pulmonares obstructivas crónicas,82,2023,defunciones,Cuadro16
+27.0,,I67 Otras enfermedades cerebrovasculares,63,2023,defunciones,Cuadro16
+27.0,,"J18 Neumonía, organismo no especificado",39,2023,defunciones,Cuadro16
+27.0,,"E14 Diabetes mellitus, no especificada",36,2023,defunciones,Cuadro16
+27.0,,"I64 Accidente vascular encefálico agudo, no especificado como hemorrágico o isquémico",35,2023,defunciones,Cuadro16
+27.0,,A09 Otras gastroenteritis y colitis de origen infeccioso y no especificado,34,2023,defunciones,Cuadro16
+27.0,,I10 Hipertensión esencial (primaria),34,2023,defunciones,Cuadro16
+27.0,,I61 Hemorragia intraencefálica,30,2023,defunciones,Cuadro16
+41.0,41 Huila,Total Defunciones,6614,2023,defunciones,Cuadro16
+41.0,,I21 Infarto agudo del miocardio,1254,2023,defunciones,Cuadro16
+41.0,,J44 Otras enfermedades pulmonares obstructivas crónicas,326,2023,defunciones,Cuadro16
+41.0,,"X95 Agresión con disparo de otras armas de fuego, y las no especificadas",250,2023,defunciones,Cuadro16
+41.0,,C16 Tumor maligno del estómago,217,2023,defunciones,Cuadro16
+41.0,,E11 Diabetes mellitus tipo 2,124,2023,defunciones,Cuadro16
+41.0,,I25 Enfermedad isquémica crónica del corazón,123,2023,defunciones,Cuadro16
+41.0,,"J18 Neumonía, organismo no especificado",117,2023,defunciones,Cuadro16
+41.0,,G30 Enfermedad de alzheimer,109,2023,defunciones,Cuadro16
+41.0,,"V29 Motociclista lesionado en otros accidentes de transporte, y en los no especificados",101,2023,defunciones,Cuadro16
+41.0,,C34 Tumor maligno de los bronquios y del pulmón,95,2023,defunciones,Cuadro16
+44.0,44 La Guajira,Total Defunciones,3198,2023,defunciones,Cuadro16
+44.0,,I21 Infarto agudo del miocardio,296,2023,defunciones,Cuadro16
+44.0,,"X95 Agresión con disparo de otras armas de fuego, y las no especificadas",120,2023,defunciones,Cuadro16
+44.0,,J44 Otras enfermedades pulmonares obstructivas crónicas,119,2023,defunciones,Cuadro16
+44.0,,"J18 Neumonía, organismo no especificado",105,2023,defunciones,Cuadro16
+44.0,,I10 Hipertensión esencial (primaria),58,2023,defunciones,Cuadro16
+44.0,,A09 Otras gastroenteritis y colitis de origen infeccioso y no especificado,53,2023,defunciones,Cuadro16
+44.0,,C34 Tumor maligno de los bronquios y del pulmón,50,2023,defunciones,Cuadro16
+44.0,,"E43 Desnutrición proteicocalórica severa, no especificada",50,2023,defunciones,Cuadro16
+44.0,,E11 Diabetes mellitus tipo 2,46,2023,defunciones,Cuadro16
+44.0,,I69 Secuelas de enfermedad cerebrovascular,46,2023,defunciones,Cuadro16
+47.0,47 Magdalena,Total Defunciones,6671,2023,defunciones,Cuadro16
+47.0,,I21 Infarto agudo del miocardio,1078,2023,defunciones,Cuadro16
+47.0,,"X95 Agresión con disparo de otras armas de fuego, y las no especificadas",373,2023,defunciones,Cuadro16
+47.0,,J44 Otras enfermedades pulmonares obstructivas crónicas,327,2023,defunciones,Cuadro16
+47.0,,"J18 Neumonía, organismo no especificado",207,2023,defunciones,Cuadro16
+47.0,,I10 Hipertensión esencial (primaria),159,2023,defunciones,Cuadro16
+47.0,,E11 Diabetes mellitus tipo 2,134,2023,defunciones,Cuadro16
+47.0,,I67 Otras enfermedades cerebrovasculares,120,2023,defunciones,Cuadro16
+47.0,,C34 Tumor maligno de los bronquios y del pulmón,112,2023,defunciones,Cuadro16
+47.0,,N18 Insuficiencia renal crónica,98,2023,defunciones,Cuadro16
+47.0,,C61 Tumor maligno de la próstata,91,2023,defunciones,Cuadro16
+50.0,50 Meta,Total Defunciones,5642,2023,defunciones,Cuadro16
+50.0,,I21 Infarto agudo del miocardio,1069,2023,defunciones,Cuadro16
+50.0,,J44 Otras enfermedades pulmonares obstructivas crónicas,290,2023,defunciones,Cuadro16
+50.0,,E11 Diabetes mellitus tipo 2,214,2023,defunciones,Cuadro16
+50.0,,"X95 Agresión con disparo de otras armas de fuego, y las no especificadas",199,2023,defunciones,Cuadro16
+50.0,,"J15 Neumonía bacteriana, no clasificada en otra parte",146,2023,defunciones,Cuadro16
+50.0,,"J18 Neumonía, organismo no especificado",114,2023,defunciones,Cuadro16
+50.0,,C16 Tumor maligno del estómago,111,2023,defunciones,Cuadro16
+50.0,,N39 Otros trastornos del sistema urinario,96,2023,defunciones,Cuadro16
+50.0,,I25 Enfermedad isquémica crónica del corazón,91,2023,defunciones,Cuadro16
+50.0,,C50 Tumor maligno de la mama,87,2023,defunciones,Cuadro16
+52.0,52 Nariño,Total Defunciones,7718,2023,defunciones,Cuadro16
+52.0,,I21 Infarto agudo del miocardio,1264,2023,defunciones,Cuadro16
+52.0,,J44 Otras enfermedades pulmonares obstructivas crónicas,428,2023,defunciones,Cuadro16
+52.0,,"X95 Agresión con disparo de otras armas de fuego, y las no especificadas",298,2023,defunciones,Cuadro16
+52.0,,C16 Tumor maligno del estómago,217,2023,defunciones,Cuadro16
+52.0,,I11 Enfermedad cardíaca hipertensiva,185,2023,defunciones,Cuadro16
+52.0,,I10 Hipertensión esencial (primaria),151,2023,defunciones,Cuadro16
+52.0,,I63 Infarto cerebral,143,2023,defunciones,Cuadro16
+52.0,,E11 Diabetes mellitus tipo 2,141,2023,defunciones,Cuadro16
+52.0,,"J15 Neumonía bacteriana, no clasificada en otra parte",124,2023,defunciones,Cuadro16
+52.0,,C34 Tumor maligno de los bronquios y del pulmón,97,2023,defunciones,Cuadro16
+54.0,54 Norte de Santand,Total Defunciones,8655,2023,defunciones,Cuadro16
+54.0,,I21 Infarto agudo del miocardio,1522,2023,defunciones,Cuadro16
+54.0,,J44 Otras enfermedades pulmonares obstructivas crónicas,467,2023,defunciones,Cuadro16
+54.0,,"X95 Agresión con disparo de otras armas de fuego, y las no especificadas",398,2023,defunciones,Cuadro16
+54.0,,C16 Tumor maligno del estómago,218,2023,defunciones,Cuadro16
+54.0,,I11 Enfermedad cardíaca hipertensiva,192,2023,defunciones,Cuadro16
+54.0,,E11 Diabetes mellitus tipo 2,181,2023,defunciones,Cuadro16
+54.0,,"J18 Neumonía, organismo no especificado",172,2023,defunciones,Cuadro16
+54.0,,I25 Enfermedad isquémica crónica del corazón,160,2023,defunciones,Cuadro16
+54.0,,C34 Tumor maligno de los bronquios y del pulmón,145,2023,defunciones,Cuadro16
+54.0,,C50 Tumor maligno de la mama,137,2023,defunciones,Cuadro16
+63.0,63 Quindío,Total Defunciones,4312,2023,defunciones,Cuadro16
+63.0,,I21 Infarto agudo del miocardio,631,2023,defunciones,Cuadro16
+63.0,,J44 Otras enfermedades pulmonares obstructivas crónicas,401,2023,defunciones,Cuadro16
+63.0,,"X95 Agresión con disparo de otras armas de fuego, y las no especificadas",120,2023,defunciones,Cuadro16
+63.0,,"J18 Neumonía, organismo no especificado",116,2023,defunciones,Cuadro16
+63.0,,C16 Tumor maligno del estómago,101,2023,defunciones,Cuadro16
+63.0,,N39 Otros trastornos del sistema urinario,93,2023,defunciones,Cuadro16
+63.0,,C34 Tumor maligno de los bronquios y del pulmón,88,2023,defunciones,Cuadro16
+63.0,,E11 Diabetes mellitus tipo 2,78,2023,defunciones,Cuadro16
+63.0,,I25 Enfermedad isquémica crónica del corazón,71,2023,defunciones,Cuadro16
+63.0,,I63 Infarto cerebral,62,2023,defunciones,Cuadro16
+66.0,66 Risaralda,Total Defunciones,6771,2023,defunciones,Cuadro16
+66.0,,I21 Infarto agudo del miocardio,1197,2023,defunciones,Cuadro16
+66.0,,J44 Otras enfermedades pulmonares obstructivas crónicas,471,2023,defunciones,Cuadro16
+66.0,,"J18 Neumonía, organismo no especificado",188,2023,defunciones,Cuadro16
+66.0,,C16 Tumor maligno del estómago,167,2023,defunciones,Cuadro16
+66.0,,"X95 Agresión con disparo de otras armas de fuego, y las no especificadas",158,2023,defunciones,Cuadro16
+66.0,,C34 Tumor maligno de los bronquios y del pulmón,144,2023,defunciones,Cuadro16
+66.0,,N39 Otros trastornos del sistema urinario,123,2023,defunciones,Cuadro16
+66.0,,C18 Tumor maligno del colon,98,2023,defunciones,Cuadro16
+66.0,,"E14 Diabetes mellitus, no especificada",98,2023,defunciones,Cuadro16
+66.0,,C50 Tumor maligno de la mama,92,2023,defunciones,Cuadro16
+68.0,68 Santander,Total Defunciones,12279,2023,defunciones,Cuadro16
+68.0,,I21 Infarto agudo del miocardio,2104,2023,defunciones,Cuadro16
+68.0,,J44 Otras enfermedades pulmonares obstructivas crónicas,489,2023,defunciones,Cuadro16
+68.0,,E11 Diabetes mellitus tipo 2,305,2023,defunciones,Cuadro16
+68.0,,G30 Enfermedad de alzheimer,291,2023,defunciones,Cuadro16
+68.0,,I11 Enfermedad cardíaca hipertensiva,279,2023,defunciones,Cuadro16
+68.0,,"X95 Agresión con disparo de otras armas de fuego, y las no especificadas",268,2023,defunciones,Cuadro16
+68.0,,C16 Tumor maligno del estómago,264,2023,defunciones,Cuadro16
+68.0,,J67 Neumonitis debida a hipersensibilidad al polvo orgánico,251,2023,defunciones,Cuadro16
+68.0,,C50 Tumor maligno de la mama,241,2023,defunciones,Cuadro16
+68.0,,I63 Infarto cerebral,208,2023,defunciones,Cuadro16
+70.0,70 Sucre,Total Defunciones,4672,2023,defunciones,Cuadro16
+70.0,,I21 Infarto agudo del miocardio,732,2023,defunciones,Cuadro16
+70.0,,"X95 Agresión con disparo de otras armas de fuego, y las no especificadas",268,2023,defunciones,Cuadro16
+70.0,,J44 Otras enfermedades pulmonares obstructivas crónicas,194,2023,defunciones,Cuadro16
+70.0,,"J18 Neumonía, organismo no especificado",124,2023,defunciones,Cuadro16
+70.0,,I69 Secuelas de enfermedad cerebrovascular,118,2023,defunciones,Cuadro16
+70.0,,I10 Hipertensión esencial (primaria),96,2023,defunciones,Cuadro16
+70.0,,E11 Diabetes mellitus tipo 2,80,2023,defunciones,Cuadro16
+70.0,,I67 Otras enfermedades cerebrovasculares,75,2023,defunciones,Cuadro16
+70.0,,I63 Infarto cerebral,73,2023,defunciones,Cuadro16
+70.0,,"E14 Diabetes mellitus, no especificada",69,2023,defunciones,Cuadro16
+73.0,73 Tolima,Total Defunciones,9028,2023,defunciones,Cuadro16
+73.0,,I21 Infarto agudo del miocardio,2025,2023,defunciones,Cuadro16
+73.0,,J44 Otras enfermedades pulmonares obstructivas crónicas,592,2023,defunciones,Cuadro16
+73.0,,"J18 Neumonía, organismo no especificado",240,2023,defunciones,Cuadro16
+73.0,,"X95 Agresión con disparo de otras armas de fuego, y las no especificadas",228,2023,defunciones,Cuadro16
+73.0,,C16 Tumor maligno del estómago,183,2023,defunciones,Cuadro16
+73.0,,N39 Otros trastornos del sistema urinario,159,2023,defunciones,Cuadro16
+73.0,,E11 Diabetes mellitus tipo 2,156,2023,defunciones,Cuadro16
+73.0,,I25 Enfermedad isquémica crónica del corazón,141,2023,defunciones,Cuadro16
+73.0,,I69 Secuelas de enfermedad cerebrovascular,141,2023,defunciones,Cuadro16
+73.0,,C34 Tumor maligno de los bronquios y del pulmón,138,2023,defunciones,Cuadro16
+75.0,75 Extranjero,Total Defunciones,825,2023,defunciones,Cuadro16
+75.0,,I21 Infarto agudo del miocardio,74,2023,defunciones,Cuadro16
+75.0,,"X95 Agresión con disparo de otras armas de fuego, y las no especificadas",57,2023,defunciones,Cuadro16
+75.0,,"J18 Neumonía, organismo no especificado",26,2023,defunciones,Cuadro16
+75.0,,E11 Diabetes mellitus tipo 2,21,2023,defunciones,Cuadro16
+75.0,,"E14 Diabetes mellitus, no especificada",15,2023,defunciones,Cuadro16
+75.0,,"B20 Enfermedad por virus de la inmunodeficiencia humana [vih], resultante en enfermedades ­infecciosas y parasitarias",14,2023,defunciones,Cuadro16
+75.0,,C50 Tumor maligno de la mama,14,2023,defunciones,Cuadro16
+75.0,,I25 Enfermedad isquémica crónica del corazón,14,2023,defunciones,Cuadro16
+75.0,,J44 Otras enfermedades pulmonares obstructivas crónicas,14,2023,defunciones,Cuadro16
+75.0,,A09 Otras gastroenteritis y colitis de origen infeccioso y no especificado,13,2023,defunciones,Cuadro16
+76.0,76 Valle,Total Defunciones,29304,2023,defunciones,Cuadro16
+76.0,,I21 Infarto agudo del miocardio,5187,2023,defunciones,Cuadro16
+76.0,,"X95 Agresión con disparo de otras armas de fuego, y las no especificadas",1665,2023,defunciones,Cuadro16
+76.0,,J44 Otras enfermedades pulmonares obstructivas crónicas,1327,2023,defunciones,Cuadro16
+76.0,,"I64 Accidente vascular encefálico agudo, no especificado como hemorrágico o isquémico",656,2023,defunciones,Cuadro16
+76.0,,C16 Tumor maligno del estómago,574,2023,defunciones,Cuadro16
+76.0,,I69 Secuelas de enfermedad cerebrovascular,535,2023,defunciones,Cuadro16
+76.0,,C34 Tumor maligno de los bronquios y del pulmón,510,2023,defunciones,Cuadro16
+76.0,,"J18 Neumonía, organismo no especificado",505,2023,defunciones,Cuadro16
+76.0,,C50 Tumor maligno de la mama,498,2023,defunciones,Cuadro16
+76.0,,G30 Enfermedad de alzheimer,492,2023,defunciones,Cuadro16
+81.0,81 Arauca,Total Defunciones,1212,2023,defunciones,Cuadro16
+81.0,,I21 Infarto agudo del miocardio,175,2023,defunciones,Cuadro16
+81.0,,J44 Otras enfermedades pulmonares obstructivas crónicas,50,2023,defunciones,Cuadro16
+81.0,,"X95 Agresión con disparo de otras armas de fuego, y las no especificadas",44,2023,defunciones,Cuadro16
+81.0,,"J18 Neumonía, organismo no especificado",33,2023,defunciones,Cuadro16
+81.0,,I11 Enfermedad cardíaca hipertensiva,32,2023,defunciones,Cuadro16
+81.0,,X93 Agresión con disparo de arma corta,32,2023,defunciones,Cuadro16
+81.0,,U07 Uso emergente de u07,27,2023,defunciones,Cuadro16
+81.0,,C16 Tumor maligno del estómago,22,2023,defunciones,Cuadro16
+81.0,,E11 Diabetes mellitus tipo 2,22,2023,defunciones,Cuadro16
+81.0,,I63 Infarto cerebral,22,2023,defunciones,Cuadro16
+85.0,85 Casanare,Total Defunciones,1824,2023,defunciones,Cuadro16
+85.0,,I21 Infarto agudo del miocardio,269,2023,defunciones,Cuadro16
+85.0,,J44 Otras enfermedades pulmonares obstructivas crónicas,102,2023,defunciones,Cuadro16
+85.0,,"X95 Agresión con disparo de otras armas de fuego, y las no especificadas",40,2023,defunciones,Cuadro16
+85.0,,E11 Diabetes mellitus tipo 2,39,2023,defunciones,Cuadro16
+85.0,,I11 Enfermedad cardíaca hipertensiva,38,2023,defunciones,Cuadro16
+85.0,,C16 Tumor maligno del estómago,36,2023,defunciones,Cuadro16
+85.0,,C50 Tumor maligno de la mama,32,2023,defunciones,Cuadro16
+85.0,,V27 Motociclista lesionado por colisión con objeto fijo o estacionado,30,2023,defunciones,Cuadro16
+85.0,,"V29 Motociclista lesionado en otros accidentes de transporte, y en los no especificados",30,2023,defunciones,Cuadro16
+85.0,,"J18 Neumonía, organismo no especificado",28,2023,defunciones,Cuadro16
+86.0,86 Putumayo,Total Defunciones,1364,2023,defunciones,Cuadro16
+86.0,,I21 Infarto agudo del miocardio,159,2023,defunciones,Cuadro16
+86.0,,"X95 Agresión con disparo de otras armas de fuego, y las no especificadas",158,2023,defunciones,Cuadro16
+86.0,,J44 Otras enfermedades pulmonares obstructivas crónicas,56,2023,defunciones,Cuadro16
+86.0,,"V29 Motociclista lesionado en otros accidentes de transporte, y en los no especificados",40,2023,defunciones,Cuadro16
+86.0,,C16 Tumor maligno del estómago,37,2023,defunciones,Cuadro16
+86.0,,E11 Diabetes mellitus tipo 2,34,2023,defunciones,Cuadro16
+86.0,,R98 Muerte sin asistencia,34,2023,defunciones,Cuadro16
+86.0,,"J15 Neumonía bacteriana, no clasificada en otra parte",23,2023,defunciones,Cuadro16
+86.0,,C34 Tumor maligno de los bronquios y del pulmón,19,2023,defunciones,Cuadro16
+86.0,,I61 Hemorragia intraencefálica,18,2023,defunciones,Cuadro16
+88.0,88 San Andrés y Pr,Total Defunciones,342,2023,defunciones,Cuadro16
+88.0,,I21 Infarto agudo del miocardio,76,2023,defunciones,Cuadro16
+88.0,,"X95 Agresión con disparo de otras armas de fuego, y las no especificadas",39,2023,defunciones,Cuadro16
+88.0,,J44 Otras enfermedades pulmonares obstructivas crónicas,12,2023,defunciones,Cuadro16
+88.0,,I11 Enfermedad cardíaca hipertensiva,10,2023,defunciones,Cuadro16
+88.0,,C61 Tumor maligno de la próstata,9,2023,defunciones,Cuadro16
+88.0,,E11 Diabetes mellitus tipo 2,8,2023,defunciones,Cuadro16
+88.0,,I10 Hipertensión esencial (primaria),8,2023,defunciones,Cuadro16
+88.0,,I61 Hemorragia intraencefálica,8,2023,defunciones,Cuadro16
+88.0,,C34 Tumor maligno de los bronquios y del pulmón,6,2023,defunciones,Cuadro16
+88.0,,"E14 Diabetes mellitus, no especificada",6,2023,defunciones,Cuadro16
+91.0,91 Amazonas,Total Defunciones,221,2023,defunciones,Cuadro16
+91.0,,"J18 Neumonía, organismo no especificado",15,2023,defunciones,Cuadro16
+91.0,,"X95 Agresión con disparo de otras armas de fuego, y las no especificadas",10,2023,defunciones,Cuadro16
+91.0,,"X70 Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",9,2023,defunciones,Cuadro16
+91.0,,"A16 Tuberculosis respiratoria, no confirmada bacteriológica e histológicamente",7,2023,defunciones,Cuadro16
+91.0,,C53 Tumor maligno del cuello del útero,7,2023,defunciones,Cuadro16
+91.0,,X99 Agresión con objeto cortante,7,2023,defunciones,Cuadro16
+91.0,,J44 Otras enfermedades pulmonares obstructivas crónicas,6,2023,defunciones,Cuadro16
+91.0,,C25 Tumor maligno del páncreas,5,2023,defunciones,Cuadro16
+91.0,,I67 Otras enfermedades cerebrovasculares,4,2023,defunciones,Cuadro16
+91.0,,N39 Otros trastornos del sistema urinario,4,2023,defunciones,Cuadro16
+94.0,94 Guainía,Total Defunciones,150,2023,defunciones,Cuadro16
+94.0,,I21 Infarto agudo del miocardio,11,2023,defunciones,Cuadro16
+94.0,,A09 Otras gastroenteritis y colitis de origen infeccioso y no especificado,7,2023,defunciones,Cuadro16
+94.0,,"J18 Neumonía, organismo no especificado",6,2023,defunciones,Cuadro16
+94.0,,J44 Otras enfermedades pulmonares obstructivas crónicas,5,2023,defunciones,Cuadro16
+94.0,,"E43 Desnutrición proteicocalórica severa, no especificada",4,2023,defunciones,Cuadro16
+94.0,,I61 Hemorragia intraencefálica,4,2023,defunciones,Cuadro16
+94.0,,"Y34 Evento no especificado, de intención no determinada",4,2023,defunciones,Cuadro16
+94.0,,"I64 Accidente vascular encefálico agudo, no especificado como hemorrágico o isquémico",3,2023,defunciones,Cuadro16
+94.0,,K65 Peritonitis,3,2023,defunciones,Cuadro16
+94.0,,K74 Fibrosis y cirrosis del hígado,3,2023,defunciones,Cuadro16
+95.0,95 Guaviare,Total Defunciones,350,2023,defunciones,Cuadro16
+95.0,,I21 Infarto agudo del miocardio,51,2023,defunciones,Cuadro16
+95.0,,"X95 Agresión con disparo de otras armas de fuego, y las no especificadas",27,2023,defunciones,Cuadro16
+95.0,,J44 Otras enfermedades pulmonares obstructivas crónicas,17,2023,defunciones,Cuadro16
+95.0,,"J18 Neumonía, organismo no especificado",9,2023,defunciones,Cuadro16
+95.0,,"X70 Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",9,2023,defunciones,Cuadro16
+95.0,,C53 Tumor maligno del cuello del útero,7,2023,defunciones,Cuadro16
+95.0,,"E14 Diabetes mellitus, no especificada",7,2023,defunciones,Cuadro16
+95.0,,C16 Tumor maligno del estómago,6,2023,defunciones,Cuadro16
+95.0,,C18 Tumor maligno del colon,5,2023,defunciones,Cuadro16
+95.0,,I60 Hemorragia subaracnoidea,5,2023,defunciones,Cuadro16
+97.0,97 Vaupés,Total Defunciones,128,2023,defunciones,Cuadro16
+97.0,,"X70 Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",17,2023,defunciones,Cuadro16
+97.0,,I21 Infarto agudo del miocardio,12,2023,defunciones,Cuadro16
+97.0,,J44 Otras enfermedades pulmonares obstructivas crónicas,9,2023,defunciones,Cuadro16
+97.0,,J22 Infección aguda no especificada de las vías respiratorias inferiores,4,2023,defunciones,Cuadro16
+97.0,,K74 Fibrosis y cirrosis del hígado,4,2023,defunciones,Cuadro16
+97.0,,"A16 Tuberculosis respiratoria, no confirmada bacteriológica e histológicamente",2,2023,defunciones,Cuadro16
+97.0,,B18 Hepatitis viral crónica,2,2023,defunciones,Cuadro16
+97.0,,C53 Tumor maligno del cuello del útero,2,2023,defunciones,Cuadro16
+97.0,,C61 Tumor maligno de la próstata,2,2023,defunciones,Cuadro16
+97.0,,C80 Tumor maligno de sitios no especificados,2,2023,defunciones,Cuadro16
+99.0,99 Vichada,Total Defunciones,246,2023,defunciones,Cuadro16
+99.0,,I21 Infarto agudo del miocardio,36,2023,defunciones,Cuadro16
+99.0,,E11 Diabetes mellitus tipo 2,13,2023,defunciones,Cuadro16
+99.0,,"X95 Agresión con disparo de otras armas de fuego, y las no especificadas",8,2023,defunciones,Cuadro16
+99.0,,A09 Otras gastroenteritis y colitis de origen infeccioso y no especificado,6,2023,defunciones,Cuadro16
+99.0,,X99 Agresión con objeto cortante,6,2023,defunciones,Cuadro16
+99.0,,"A16 Tuberculosis respiratoria, no confirmada bacteriológica e histológicamente",5,2023,defunciones,Cuadro16
+99.0,,"J18 Neumonía, organismo no especificado",5,2023,defunciones,Cuadro16
+99.0,,"V29 Motociclista lesionado en otros accidentes de transporte, y en los no especificados",5,2023,defunciones,Cuadro16
+99.0,,"E43 Desnutrición proteicocalórica severa, no especificada",4,2023,defunciones,Cuadro16
+99.0,,"E46 Desnutrición proteicocalórica, no especificada",4,2023,defunciones,Cuadro16
+1.0,01 Sin información,Total Defunciones,5838,2023,defunciones,Cuadro16
+1.0,,R99 Otras causas mal definidas y las no especificadas de mortalidad,2099,2023,defunciones,Cuadro16
+1.0,,"X95 Agresión con disparo de otras armas de fuego, y las no especificadas",993,2023,defunciones,Cuadro16
+1.0,,X99 Agresión con objeto cortante,281,2023,defunciones,Cuadro16
+1.0,,R98 Muerte sin asistencia,159,2023,defunciones,Cuadro16
+1.0,,"X70 Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",159,2023,defunciones,Cuadro16
+1.0,,Y09 Agresión por medios no especificados,157,2023,defunciones,Cuadro16
+1.0,,"V29 Motociclista lesionado en otros accidentes de transporte, y en los no especificados",133,2023,defunciones,Cuadro16
+1.0,,"Y34 Evento no especificado, de intención no determinada",110,2023,defunciones,Cuadro16
+1.0,,I21 Infarto agudo del miocardio,100,2023,defunciones,Cuadro16
+1.0,,V24 Motociclista lesionado por colisión con vehículo de transporte pesado o autobús,99,2023,defunciones,Cuadro16
+,Fuente: DANE - Estadísticas Vitales,,,2023,defunciones,Cuadro16
+,Fecha de actualización: 19 de diciembre de 2024,,,2023,defunciones,Cuadro16

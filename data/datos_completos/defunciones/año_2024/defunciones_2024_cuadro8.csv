@@ -1,0 +1,50 @@
+﻿"CUADRO 8 - Defunciones maternas por grupos de edad, según lista de causas a 3 caracteres CIE-10",columna,columna_1,columna_2,columna_3,columna_4,columna_5,columna_6,columna_7,columna_8,columna_9,columna_10,año,tipo,hoja_origen
+Año 2024,,,,,,,,,,,,2024,defunciones,Cuadro8
+Lista de causas a 3 caracteres,Total,Grupos de edad,,,,,,,,,,2024,defunciones,Cuadro8
+,,"10 - 14
+ años","15 - 19
+ años","20 - 24
+ años","25 - 29
+ años","30 - 34
+ años","35 - 39
+ años","40 - 44
+ años","45 - 49
+ años","50 - 54
+ años",Edad desconocida,2024,defunciones,Cuadro8
+Total Nacional,355,3,49,69,78,72,45,31,7,1,0,2024,defunciones,Cuadro8
+O00 embarazo ectópico,11,0,1,3,2,0,4,1,0,0,0,2024,defunciones,Cuadro8
+O01 mola hidatiforme,1,0,0,0,0,1,0,0,0,0,0,2024,defunciones,Cuadro8
+O02 otros productos anormales de la concepción,1,0,0,0,1,0,0,0,0,0,0,2024,defunciones,Cuadro8
+O03 aborto espontáneo,1,0,1,0,0,0,0,0,0,0,0,2024,defunciones,Cuadro8
+O04 aborto médico,1,0,0,1,0,0,0,0,0,0,0,2024,defunciones,Cuadro8
+O06 aborto no especificado,4,0,0,1,0,0,2,0,1,0,0,2024,defunciones,Cuadro8
+O13 hipertensión gestacional [inducida por el embarazo],1,0,0,0,0,0,1,0,0,0,0,2024,defunciones,Cuadro8
+O14 preeclampsia,23,0,4,1,6,7,3,2,0,0,0,2024,defunciones,Cuadro8
+O15 eclampsia,18,1,7,2,2,3,1,2,0,0,0,2024,defunciones,Cuadro8
+O22 complicaciones venosas y hemorroides en el embarazo,1,0,0,0,0,0,1,0,0,0,0,2024,defunciones,Cuadro8
+O23 infección de las vías urinarias en el embarazo,5,0,1,1,1,1,0,1,0,0,0,2024,defunciones,Cuadro8
+O26 atención a la madre por otras complicaciones principalmente relacionadas con el embarazo,1,0,0,0,0,0,1,0,0,0,0,2024,defunciones,Cuadro8
+O41 otros trastornos del líquido amniótico y de las membranas,1,0,0,0,1,0,0,0,0,0,0,2024,defunciones,Cuadro8
+O42 ruptura prematura de las membranas,1,0,1,0,0,0,0,0,0,0,0,2024,defunciones,Cuadro8
+O43 trastornos placentarios,3,0,0,1,1,1,0,0,0,0,0,2024,defunciones,Cuadro8
+O44 placenta previa,2,0,1,0,0,0,1,0,0,0,0,2024,defunciones,Cuadro8
+O45 desprendimiento prematuro de la placenta [abruptio placentae],7,0,0,2,2,1,1,0,1,0,0,2024,defunciones,Cuadro8
+"O46 hemorragia anteparto, no clasificada en otra parte",2,0,0,0,1,1,0,0,0,0,0,2024,defunciones,Cuadro8
+O62 anormalidades de la dinámica del trabajo de parto,2,0,0,0,1,1,0,0,0,0,0,2024,defunciones,Cuadro8
+O65 trabajo de parto obstruido debido a anormalidad de la pelvis materna,1,0,0,0,1,0,0,0,0,0,0,2024,defunciones,Cuadro8
+"O67 trabajo de parto y parto complicados por hemorragia intraparto, no clasificados en otra parte",2,0,0,0,0,0,1,1,0,0,0,2024,defunciones,Cuadro8
+O68 trabajo de parto y parto complicados por sufrimiento fetal,1,0,0,1,0,0,0,0,0,0,0,2024,defunciones,Cuadro8
+O71 otro trauma obstétrico,2,0,0,0,1,0,0,1,0,0,0,2024,defunciones,Cuadro8
+O72 hemorragia postparto,21,1,1,5,3,6,2,3,0,0,0,2024,defunciones,Cuadro8
+"O75 otras complicaciones del trabajo de parto y del parto, no clasificadas en otra parte",1,0,0,1,0,0,0,0,0,0,0,2024,defunciones,Cuadro8
+O85 sepsis puerperal,1,0,1,0,0,0,0,0,0,0,0,2024,defunciones,Cuadro8
+O86 otras infecciones puerperales,4,0,2,0,1,1,0,0,0,0,0,2024,defunciones,Cuadro8
+O87 complicaciones venosas y hemorroides en el puerperio,1,0,0,0,0,0,1,0,0,0,0,2024,defunciones,Cuadro8
+O88 embolia obstétrica,10,0,1,1,5,2,1,0,0,0,0,2024,defunciones,Cuadro8
+"O90 complicaciones del puerperio, no clasificadas en otra parte",1,0,1,0,0,0,0,0,0,0,0,2024,defunciones,Cuadro8
+O95 muerte obstétrica de causa no especificada,4,0,1,0,1,1,1,0,0,0,0,2024,defunciones,Cuadro8
+O96 muerte materna debida a cualquier causa obstétrica que ocurre después de 42 días pero antes de un año del parto,147,0,15,33,31,31,16,16,4,1,0,2024,defunciones,Cuadro8
+O97 muerte por secuelas de causas obstétricas,1,0,0,0,0,0,1,0,0,0,,2024,defunciones,Cuadro8
+"O98 enfermedades maternas infecciosas y parasitarias clasificables en otra parte, pero que complican el embarazo, el parto y el puerperio",17,1,4,5,3,4,0,0,0,0,0,2024,defunciones,Cuadro8
+"O99 otras enfermedades maternas clasificables en otra parte, pero que complican el embarazo, el parto y el puerperio",55,0,7,11,14,11,7,4,1,0,0,2024,defunciones,Cuadro8
+Fecha de actualización: 06 de febrero de 2026,,,,,,,,,,,,2024,defunciones,Cuadro8
